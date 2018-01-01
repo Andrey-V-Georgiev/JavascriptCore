@@ -1,7 +1,7 @@
 function firstAndLastKNumbers(arr) {
-    let k = arr[0];
-    arr.slice(1, 1 + k).forEach(e=> console.log(e));
-    arr.slice(arr.length - k, arr.length).forEach(e=> console.log(e));
+    let k = arr.shift();
+    arr.slice(0, k).forEach(e=> console.log(e));
+    arr.slice(-k).forEach(e=>console.log(e));
 }
 
-firstAndLastKNumbers([2 ,7, 8, 9]);
+firstAndLastKNumbers([4, 1, 2, 3, 4, 5, 6]);
