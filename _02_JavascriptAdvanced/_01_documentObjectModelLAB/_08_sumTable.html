@@ -25,10 +25,10 @@
         let rows = document.querySelectorAll('table tr');
         let sum = 0;
         for (let i = 1; i < rows.length; i++) {
-            let td = rows[i].children;
-            sum += Number(td[td.length - 1].textContent);
+            let row = rows[i].children;
+            sum += Number(row[row.length - 1]. innerHTML);
         }
-        document.getElementById('sum').textContent = sum;
+        document.getElementById('sum').innerHTML = sum;
     }
 </script>
 </body>
