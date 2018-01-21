@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_09_radioCrystals.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_05_functionsEX/_09_radioCrystals.js">
+      <file leaf-file-name="_10_dnaHelix.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_05_functionsEX/_10_dnaHelix.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="123" column="1" lean-forward="true" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
+            <state relative-caret-position="318">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_08_stringAndRegexLAB/_12_expressionSplit.js" />
         <option value="$PROJECT_DIR$/_08_stringAndRegexLAB/_13_matchTheDates.js" />
         <option value="$PROJECT_DIR$/_08_stringAndRegexLAB/_14_employeeData.js" />
         <option value="$PROJECT_DIR$/_08_stringAndRegexLAB/_15_formFiller.js" />
@@ -94,6 +93,7 @@
         <option value="$PROJECT_DIR$/_05_functionsEX/_07_treasureLocator.js" />
         <option value="$PROJECT_DIR$/_05_functionsEX/_08_tripLenght.js" />
         <option value="$PROJECT_DIR$/_05_functionsEX/_09_radioCrystals.js" />
+        <option value="$PROJECT_DIR$/_05_functionsEX/_10_dnaHelix.js" />
       </list>
     </option>
   </component>
@@ -176,26 +176,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js._09_radioCrystals.js">
-    <configuration name="_05_modifyAverage.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_05_modifyAverage.js" working-dir="$PROJECT_DIR$/_05_functionsEX" />
+  <component name="RunManager" selected="Node.js._10_dnaHelix.js">
     <configuration name="_06_validityChecker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_06_validityChecker.js" working-dir="$PROJECT_DIR$/_05_functionsEX" />
     <configuration name="_07_treasureLocator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_07_treasureLocator.js" working-dir="$PROJECT_DIR$/_05_functionsEX" />
     <configuration name="_08_tripLenght.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_08_tripLenght.js" working-dir="$PROJECT_DIR$/_05_functionsEX" />
     <configuration name="_09_radioCrystals.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_09_radioCrystals.js" working-dir="$PROJECT_DIR$/_05_functionsEX" />
+    <configuration name="_10_dnaHelix.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_10_dnaHelix.js" working-dir="$PROJECT_DIR$/_05_functionsEX" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js._05_modifyAverage.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js._06_validityChecker.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js._07_treasureLocator.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js._08_tripLenght.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js._09_radioCrystals.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js._06_validityChecker.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js._07_treasureLocator.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js._08_tripLenght.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js._09_radioCrystals.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js._10_dnaHelix.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js._09_radioCrystals.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js._08_tripLenght.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js._07_treasureLocator.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js._06_validityChecker.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js._05_modifyAverage.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js._10_dnaHelix.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js._09_radioCrystals.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js._08_tripLenght.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js._07_treasureLocator.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js._06_validityChecker.js" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +242,7 @@
       <workItem from="1516377336309" duration="21318000" />
       <workItem from="1516415453897" duration="606000" />
       <workItem from="1516470511770" duration="755000" />
-      <workItem from="1516482408462" duration="6689000" />
+      <workItem from="1516482408462" duration="10447000" />
     </task>
     <task id="LOCAL-00001" summary="add second">
       <created>1514708793873</created>
@@ -461,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516470653344</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Added P9 / functions EX">
+      <created>1516489137061</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1516489137061</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158905000" />
+    <option name="totallyTimeSpent" value="162663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -477,11 +484,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.116719246" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43059936" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.626183" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13091482" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -499,7 +506,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="all ex for functions are added" />
     <MESSAGE value="change with proper package names" />
     <MESSAGE value="first few from arrays" />
     <MESSAGE value="added all of arrays and matrix LAB" />
@@ -524,7 +530,8 @@
     <MESSAGE value="Added P4 'Cooking By Numbers'/ Function EX" />
     <MESSAGE value="Added P5 'Modify Average'/ Function EX" />
     <MESSAGE value="Added P6, P7, P8 / functions EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P6, P7, P8 / functions EX" />
+    <MESSAGE value="Added P9 / functions EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P9 / functions EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -554,18 +561,11 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_06_restaurantBill.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_07_usernames.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -915,8 +915,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_05_functionsEX/_09_radioCrystals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="123" column="1" lean-forward="true" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
+        <state relative-caret-position="455">
+          <caret line="126" column="0" lean-forward="true" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_functionsEX/_10_dnaHelix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
