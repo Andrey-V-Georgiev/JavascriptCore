@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_03_addAndRemove.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_07_arraysAndMatrixEX/_03_addAndRemove.js">
+      <file leaf-file-name="_04_rotateArray.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_07_arraysAndMatrixEX/_04_rotateArray.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="189">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -43,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_08_stringAndRegexLAB/_16_matchMultiplication.js" />
         <option value="$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_01_townsToJSON.js" />
         <option value="$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_02_scoreToHTML.js" />
         <option value="$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_03_jsonToHtmlTable.js" />
@@ -94,6 +93,7 @@
         <option value="$PROJECT_DIR$/_07_arraysAndMatrixEX/_01_printArrayByDelimiter.js" />
         <option value="$PROJECT_DIR$/_07_arraysAndMatrixEX/_02_printNthElement.js" />
         <option value="$PROJECT_DIR$/_07_arraysAndMatrixEX/_03_addAndRemove.js" />
+        <option value="$PROJECT_DIR$/_07_arraysAndMatrixEX/_04_rotateArray.js" />
       </list>
     </option>
   </component>
@@ -176,26 +176,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js._03_addAndRemove.js">
+  <component name="RunManager" selected="Node.js._04_rotateArray.js">
     <configuration name="_01_printArrayByDelimiter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_01_printArrayByDelimiter.js" working-dir="$PROJECT_DIR$/_07_arraysAndMatrixEX" />
     <configuration name="_02_printNthElement.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_02_printNthElement.js" working-dir="$PROJECT_DIR$/_07_arraysAndMatrixEX" />
     <configuration name="_03_addAndRemove.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_03_addAndRemove.js" working-dir="$PROJECT_DIR$/_07_arraysAndMatrixEX" />
-    <configuration name="_09_radioCrystals.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_09_radioCrystals.js" working-dir="$PROJECT_DIR$/_05_functionsEX" />
+    <configuration name="_04_rotateArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_04_rotateArray.js" working-dir="$PROJECT_DIR$/_07_arraysAndMatrixEX" />
     <configuration name="_10_dnaHelix.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_10_dnaHelix.js" working-dir="$PROJECT_DIR$/_05_functionsEX" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js._09_radioCrystals.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js._10_dnaHelix.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js._01_printArrayByDelimiter.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js._02_printNthElement.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js._03_addAndRemove.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js._10_dnaHelix.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js._01_printArrayByDelimiter.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js._02_printNthElement.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js._03_addAndRemove.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js._04_rotateArray.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js._03_addAndRemove.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js._02_printNthElement.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js._01_printArrayByDelimiter.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js._10_dnaHelix.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js._09_radioCrystals.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js._04_rotateArray.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js._03_addAndRemove.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js._02_printNthElement.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js._01_printArrayByDelimiter.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js._10_dnaHelix.js" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +242,7 @@
       <workItem from="1516377336309" duration="21318000" />
       <workItem from="1516415453897" duration="606000" />
       <workItem from="1516470511770" duration="755000" />
-      <workItem from="1516482408462" duration="12154000" />
+      <workItem from="1516482408462" duration="13255000" />
     </task>
     <task id="LOCAL-00001" summary="add second">
       <created>1514708793873</created>
@@ -475,11 +475,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516493772387</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Added P1, P2, P3 / Arrays and Matrix EX">
+      <created>1516495504918</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1516495504918</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164370000" />
+    <option name="totallyTimeSpent" value="165471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -513,7 +520,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first few from arrays" />
     <MESSAGE value="added all of arrays and matrix LAB" />
     <MESSAGE value="add first quarter of strings and regex" />
     <MESSAGE value="few more from String LAB" />
@@ -538,7 +544,8 @@
     <MESSAGE value="Added P6, P7, P8 / functions EX" />
     <MESSAGE value="Added P9 / functions EX" />
     <MESSAGE value="Added P10 / functions EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P10 / functions EX" />
+    <MESSAGE value="Added P1, P2, P3 / Arrays and Matrix EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P1, P2, P3 / Arrays and Matrix EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -582,13 +589,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_10_matchAllWords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_11_emailValidation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -944,6 +944,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_arraysAndMatrixEX/_04_rotateArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding />
         </state>
       </provider>
