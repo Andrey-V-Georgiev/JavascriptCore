@@ -15,7 +15,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_09_extractLinks.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_09_extractLinks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_05_gradsToRadians.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_06_compoundInterest.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_08_imperialUnits.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_10_composeTag.js" />
@@ -83,6 +93,7 @@
         <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_06_captureTheNumbers.js" />
         <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_07_variablesInSentances.js" />
         <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_08_wordOccurences.js" />
+        <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_09_extractLinks.js" />
       </list>
     </option>
   </component>
@@ -165,26 +176,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js._08_wordOccurences.js">
-    <configuration name="_04_endsWith.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_04_endsWith.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
+  <component name="RunManager" selected="Node.js._09_extractLinks.js">
     <configuration name="_05_capitalizeTheWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_05_capitalizeTheWords.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
     <configuration name="_06_captureTheNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_06_captureTheNumbers.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
     <configuration name="_07_variablesInSentances.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_07_variablesInSentances.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
     <configuration name="_08_wordOccurences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_08_wordOccurences.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
+    <configuration name="_09_extractLinks.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_09_extractLinks.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js._04_endsWith.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js._05_capitalizeTheWords.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js._06_captureTheNumbers.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js._08_wordOccurences.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js._05_capitalizeTheWords.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js._06_captureTheNumbers.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js._08_wordOccurences.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js._09_extractLinks.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js._08_wordOccurences.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js._06_captureTheNumbers.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js._05_capitalizeTheWords.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js._04_endsWith.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js._09_extractLinks.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js._08_wordOccurences.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js._06_captureTheNumbers.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js._05_capitalizeTheWords.js" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +247,7 @@
       <workItem from="1516530432375" duration="677000" />
       <workItem from="1516547019414" duration="22119000" />
       <workItem from="1516573889950" duration="2273000" />
-      <workItem from="1516625626133" duration="23560000" />
+      <workItem from="1516625626133" duration="26949000" />
     </task>
     <task id="LOCAL-00001" summary="add second">
       <created>1514708793873</created>
@@ -525,26 +536,34 @@
       <option name="project" value="LOCAL" />
       <updated>1516653032838</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Added P8 / String and Regex EX">
+      <created>1516655579450</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1516655579450</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214643000" />
+    <option name="totallyTimeSpent" value="218032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25988287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12079063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30757096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13249211" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5410095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13091482" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -562,7 +581,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added all of Strings and regEx LAB" />
     <MESSAGE value="added first quarter of objects and json" />
     <MESSAGE value="added few ex with maps" />
     <MESSAGE value="added all of objects" />
@@ -587,7 +605,8 @@
     <MESSAGE value="Added P9, P10 / Arrays and Matrix EX" />
     <MESSAGE value="Added P1, P2, P3 / String and Regex EX" />
     <MESSAGE value="Added P4, P5, P6, P7 / String and Regex EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P4, P5, P6, P7 / String and Regex EX" />
+    <MESSAGE value="Added P8 / String and Regex EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P8 / String and Regex EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -629,7 +648,7 @@
           <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="30" />
+      <option name="time" value="31" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -643,13 +662,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_11_binaryToDecimal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_12_assignProperties.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1017,6 +1029,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_09_extractLinks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
