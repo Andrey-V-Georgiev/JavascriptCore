@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e5c0704b-6496-4e84-bb7a-d728d58c1ec3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_09_stringAndRegexEX/_03_startsWith.js" afterPath="$PROJECT_DIR$/_09_stringAndRegexEX/_03_startsWith.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,7 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_03_distanceOverTime.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_05_gradsToRadians.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_06_compoundInterest.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_08_imperialUnits.js" />
@@ -84,6 +82,7 @@
         <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_05_capitalizeTheWords.js" />
         <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_06_captureTheNumbers.js" />
         <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_07_variablesInSentances.js" />
+        <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_08_wordOccurences.js" />
       </list>
     </option>
   </component>
@@ -166,26 +165,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js._07_variablesInSentances.js">
-    <configuration name="_03_startsWith.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_03_startsWith.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
+  <component name="RunManager" selected="Node.js._08_wordOccurences.js">
     <configuration name="_04_endsWith.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_04_endsWith.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
     <configuration name="_05_capitalizeTheWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_05_capitalizeTheWords.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
     <configuration name="_06_captureTheNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_06_captureTheNumbers.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
     <configuration name="_07_variablesInSentances.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_07_variablesInSentances.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
+    <configuration name="_08_wordOccurences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_08_wordOccurences.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js._03_startsWith.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js._04_endsWith.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js._05_capitalizeTheWords.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js._06_captureTheNumbers.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js._04_endsWith.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js._05_capitalizeTheWords.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js._06_captureTheNumbers.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js._08_wordOccurences.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js._06_captureTheNumbers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js._05_capitalizeTheWords.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js._04_endsWith.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js._03_startsWith.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js._08_wordOccurences.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js._06_captureTheNumbers.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js._05_capitalizeTheWords.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js._04_endsWith.js" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +236,7 @@
       <workItem from="1516530432375" duration="677000" />
       <workItem from="1516547019414" duration="22119000" />
       <workItem from="1516573889950" duration="2273000" />
-      <workItem from="1516625626133" duration="21010000" />
+      <workItem from="1516625626133" duration="23560000" />
     </task>
     <task id="LOCAL-00001" summary="add second">
       <created>1514708793873</created>
@@ -519,22 +518,29 @@
       <option name="project" value="LOCAL" />
       <updated>1516626322333</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Added P4, P5, P6, P7 / String and Regex EX">
+      <created>1516653032838</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1516653032838</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212093000" />
+    <option name="totallyTimeSpent" value="214643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25988287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25988287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30757096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30757096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -556,7 +562,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added employeeData regEx" />
     <MESSAGE value="added all of Strings and regEx LAB" />
     <MESSAGE value="added first quarter of objects and json" />
     <MESSAGE value="added few ex with maps" />
@@ -581,7 +586,8 @@
     <MESSAGE value="Added P7 &quot;Spiral Matrix&quot; / Arrays and Matrix EX" />
     <MESSAGE value="Added P9, P10 / Arrays and Matrix EX" />
     <MESSAGE value="Added P1, P2, P3 / String and Regex EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P1, P2, P3 / String and Regex EX" />
+    <MESSAGE value="Added P4, P5, P6, P7 / String and Regex EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P4, P5, P6, P7 / String and Regex EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -637,13 +643,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_10_composeTag.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_11_binaryToDecimal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1010,6 +1009,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_08_wordOccurences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
           <folding />
         </state>
       </provider>
