@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5c0704b-6496-4e84-bb7a-d728d58c1ec3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_09_stringAndRegexEX/_03_startsWith.js" afterPath="$PROJECT_DIR$/_09_stringAndRegexEX/_03_startsWith.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,18 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_03_startsWith.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_03_startsWith.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,10 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_10_extractUniqueWords.js" />
-        <option value="$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_09_lowestPrice.js" />
-        <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_01_helloJavaScript.js" />
-        <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_02_areaAndPerimeter.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_03_distanceOverTime.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_05_gradsToRadians.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_06_compoundInterest.js" />
@@ -94,6 +80,10 @@
         <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_01_splitByDelimiter.js" />
         <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_02_repeatStringNTimes.js" />
         <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_03_startsWith.js" />
+        <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_04_endsWith.js" />
+        <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_05_capitalizeTheWords.js" />
+        <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_06_captureTheNumbers.js" />
+        <option value="$PROJECT_DIR$/_09_stringAndRegexEX/_07_variablesInSentances.js" />
       </list>
     </option>
   </component>
@@ -176,26 +166,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js._03_startsWith.js">
-    <configuration name="_01_splitByDelimiter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_01_splitByDelimiter.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
-    <configuration name="_02_repeatStringNTimes.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_02_repeatStringNTimes.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
+  <component name="RunManager" selected="Node.js._07_variablesInSentances.js">
     <configuration name="_03_startsWith.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_03_startsWith.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
-    <configuration name="_09_diagonalAttack.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_09_diagonalAttack.js" working-dir="$PROJECT_DIR$/_07_arraysAndMatrixEX" />
-    <configuration name="_10_orbit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_10_orbit.js" working-dir="$PROJECT_DIR$/_07_arraysAndMatrixEX" />
+    <configuration name="_04_endsWith.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_04_endsWith.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
+    <configuration name="_05_capitalizeTheWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_05_capitalizeTheWords.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
+    <configuration name="_06_captureTheNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_06_captureTheNumbers.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
+    <configuration name="_07_variablesInSentances.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_07_variablesInSentances.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js._09_diagonalAttack.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js._10_orbit.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js._01_splitByDelimiter.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js._02_repeatStringNTimes.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js._03_startsWith.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js._03_startsWith.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js._04_endsWith.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js._05_capitalizeTheWords.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js._06_captureTheNumbers.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js._03_startsWith.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js._02_repeatStringNTimes.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js._01_splitByDelimiter.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js._10_orbit.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js._09_diagonalAttack.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js._06_captureTheNumbers.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js._05_capitalizeTheWords.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js._04_endsWith.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js._03_startsWith.js" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +237,7 @@
       <workItem from="1516530432375" duration="677000" />
       <workItem from="1516547019414" duration="22119000" />
       <workItem from="1516573889950" duration="2273000" />
-      <workItem from="1516625626133" duration="655000" />
+      <workItem from="1516625626133" duration="21010000" />
     </task>
     <task id="LOCAL-00001" summary="add second">
       <created>1514708793873</created>
@@ -522,31 +512,37 @@
       <option name="project" value="LOCAL" />
       <updated>1516575779705</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Added P1, P2, P3 / String and Regex EX">
+      <created>1516626322333</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1516626322333</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191738000" />
+    <option name="totallyTimeSpent" value="212093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25988287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24605678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30757096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59305996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13091482" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -560,7 +556,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added matchDates regEx" />
     <MESSAGE value="added employeeData regEx" />
     <MESSAGE value="added all of Strings and regEx LAB" />
     <MESSAGE value="added first quarter of objects and json" />
@@ -585,7 +580,8 @@
     <MESSAGE value="Added P6 &quot;Sort by two criteria&quot; / Arrays and Matrix EX" />
     <MESSAGE value="Added P7 &quot;Spiral Matrix&quot; / Arrays and Matrix EX" />
     <MESSAGE value="Added P9, P10 / Arrays and Matrix EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P9, P10 / Arrays and Matrix EX" />
+    <MESSAGE value="Added P1, P2, P3 / String and Regex EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P1, P2, P3 / String and Regex EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -614,8 +610,20 @@
           <line>9</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/_09_stringAndRegexEX/_05_capitalizeTheWords.js</url>
+          <line>11</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/_09_stringAndRegexEX/_06_captureTheNumbers.js</url>
+          <line>13</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="27" />
+      <option name="time" value="30" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -629,106 +637,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_04_sumByTown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_05_countWordsInAText.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_06_countWordsWithMap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_07_populationsInTowns.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_08_cityMarkets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_09_lowestPrice.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_10_ObjectsAndJSON_LAB/_10_extractUniqueWords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_01_helloJavaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_02_areaAndPerimeter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_03_distanceOverTime.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_05_gradsToRadians.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_06_compoundInterest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_08_imperialUnits.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_09_nowPlaying.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_10_composeTag.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -986,8 +894,122 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_03_startsWith.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_04_endsWith.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_07_usernames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_08_censorship.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_09_escaping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1514969544603" expanded="true" signature="398:409" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_10_matchAllWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_11_emailValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_12_expressionSplit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_05_capitalizeTheWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_16_matchMultiplication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_15_formFiller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_14_employeeData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_13_matchTheDates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_06_captureTheNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_07_variablesInSentances.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
