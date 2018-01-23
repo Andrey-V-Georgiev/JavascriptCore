@@ -1,5 +1,5 @@
 function extract(string){
-    let regex = new RegExp("(?<!_|^)_([a-zA-Z0-9]+)(?=$| )", "g");
+    let regex = new RegExp("(?<!_)_([a-zA-Z0-9]+)(?=$|\\w|[^_])", "g");
     let array = [];
     let match = regex.exec(string);
     while(match !== null){
@@ -9,4 +9,4 @@ function extract(string){
     console.log(array.join(','));
 }
 
-extract('__invalidVariable _evenMoreInvalidVariable_ _validVariable');
+extract('_test_003_out_txt');
