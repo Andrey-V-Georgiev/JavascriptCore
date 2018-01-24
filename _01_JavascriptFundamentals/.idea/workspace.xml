@@ -15,7 +15,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_05_autoEngeneeringCompany.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_11_objectsAndJsonEX/_05_autoEngeneeringCompany.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_15_pointInRectangle.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_16_oddNumbersFrom1ToN.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_17_triangleOfDollars.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_18_moviePrices.js" />
@@ -83,6 +93,7 @@
         <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/_02_jsonTable.js" />
         <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/_03_cappyJuice.js" />
         <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/_04_storeCatalogue.js" />
+        <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/_05_autoEngeneeringCompany.js" />
       </list>
     </option>
   </component>
@@ -165,26 +176,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js._04_storeCatalogue.js">
-    <configuration name="_01_heroicInventory.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_01_heroicInventory.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
+  <component name="RunManager" selected="Node.js._05_autoEngeneeringCompany.js">
     <configuration name="_02_jsonTable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_02_jsonTable.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
     <configuration name="_03_cappyJuice.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_03_cappyJuice.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
     <configuration name="_04_storeCatalogue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_04_storeCatalogue.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
+    <configuration name="_05_autoEngeneeringCompany.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_05_autoEngeneeringCompany.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
     <configuration name="_07_variablesInSentances.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_07_variablesInSentances.js" working-dir="$PROJECT_DIR$/_09_stringAndRegexEX" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js._01_heroicInventory.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js._02_jsonTable.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js._03_cappyJuice.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js._04_storeCatalogue.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js._02_jsonTable.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js._03_cappyJuice.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js._04_storeCatalogue.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js._05_autoEngeneeringCompany.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js._04_storeCatalogue.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js._03_cappyJuice.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js._02_jsonTable.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js._01_heroicInventory.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js._05_autoEngeneeringCompany.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js._04_storeCatalogue.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js._03_cappyJuice.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js._02_jsonTable.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js._07_variablesInSentances.js" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +250,7 @@
       <workItem from="1516625626133" duration="27189000" />
       <workItem from="1516660715510" duration="8702000" />
       <workItem from="1516722812841" duration="10283000" />
-      <workItem from="1516743624831" duration="6269000" />
+      <workItem from="1516743624831" duration="8865000" />
     </task>
     <task id="LOCAL-00001" summary="add second">
       <created>1514708793873</created>
@@ -556,14 +567,22 @@
       <option name="project" value="LOCAL" />
       <updated>1516734762324</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Added P4 / Objects and JSON EX">
+      <created>1516751512221</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1516751512221</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243526000" />
+    <option name="totallyTimeSpent" value="246122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23206443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -571,7 +590,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1466877" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -593,7 +612,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add P1, P2, P3 from Expressions, Conditional Statements and Loops" />
     <MESSAGE value="added P5,P6 (Expressions, Conditional Statements and Loops)" />
     <MESSAGE value="added to P14 (Expressions, Conditional Statements and Loops)" />
     <MESSAGE value="added all of Expressions, Conditional Statements and Loops" />
@@ -618,7 +636,8 @@
     <MESSAGE value="Added P9 / String and Regex EX" />
     <MESSAGE value="Added P10 / String and Regex EX" />
     <MESSAGE value="Added P1, P2, P3 / Objects and JSON EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P1, P2, P3 / Objects and JSON EX" />
+    <MESSAGE value="Added P4 / Objects and JSON EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P4 / Objects and JSON EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -677,13 +696,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_07_rounding.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_04_distanceIn3D.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1018,6 +1030,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_11_objectsAndJsonEX/_05_autoEngeneeringCompany.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding />
         </state>
       </provider>
