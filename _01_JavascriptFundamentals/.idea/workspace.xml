@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e5c0704b-6496-4e84-bb7a-d728d58c1ec3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByMaps.js" afterPath="$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByMaps.js" />
+      <change beforePath="$PROJECT_DIR$/_11_objectsAndJsonEX/test.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_06_systemComponentsByObj.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByObj.js">
+      <file leaf-file-name="_07_usernames.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_11_objectsAndJsonEX/_07_usernames.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state relative-caret-position="336">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -43,8 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_19_quadraticEquation.js" />
-        <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_20_multiplicationTable.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/multiplicationTable.html" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_21_figureOf4Squares.js" />
         <option value="$PROJECT_DIR$/_01_javascriptSyntaxLAB/_07_nextDay.js" />
@@ -94,6 +94,8 @@
         <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/test.js" />
         <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponents.js" />
         <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByObj.js" />
+        <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByMaps.js" />
+        <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/_07_usernames.js" />
       </list>
     </option>
   </component>
@@ -176,26 +178,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js._06_systemComponentsByObj.js">
-    <configuration name="_04_storeCatalogue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_04_storeCatalogue.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
+  <component name="RunManager" selected="Node.js._07_usernames.js">
     <configuration name="_05_autoEngeneeringCompany.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_05_autoEngeneeringCompany.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
     <configuration name="_06_systemComponentsByObj.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_06_systemComponentsByObj.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
     <configuration name="_06_systemComponents.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByMaps.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
+    <configuration name="_07_usernames.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_07_usernames.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
     <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js._04_storeCatalogue.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js._05_autoEngeneeringCompany.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js._06_systemComponents.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js._06_systemComponentsByObj.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js._05_autoEngeneeringCompany.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js._06_systemComponents.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js._06_systemComponentsByObj.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js._07_usernames.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js._06_systemComponentsByObj.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js._07_usernames.js" />
         <item index="1" class="java.lang.String" itemvalue="Node.js._06_systemComponents.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js._05_autoEngeneeringCompany.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js._04_storeCatalogue.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js._06_systemComponentsByObj.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js._05_autoEngeneeringCompany.js" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +254,7 @@
       <workItem from="1516722812841" duration="10283000" />
       <workItem from="1516743624831" duration="17209000" />
       <workItem from="1516887433058" duration="1127000" />
-      <workItem from="1516895812006" duration="13496000" />
+      <workItem from="1516895812006" duration="21931000" />
     </task>
     <task id="LOCAL-00001" summary="add second">
       <created>1514708793873</created>
@@ -583,31 +585,38 @@
       <option name="project" value="LOCAL" />
       <updated>1516754351939</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Added P6 60%byMaps/ Objects and JSON EX">
+      <created>1516916379384</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1516916379384</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269089000" />
+    <option name="totallyTimeSpent" value="277524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23206443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23572475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.05362776" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09621451" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7003155" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.083596215" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13091482" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -621,7 +630,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added to P14 (Expressions, Conditional Statements and Loops)" />
     <MESSAGE value="added all of Expressions, Conditional Statements and Loops" />
     <MESSAGE value="Added P4 &quot;DistanceIn3D&quot; / Syntax &amp; operators EX" />
     <MESSAGE value="Added P1 'Inside Volume'/ Function EX" />
@@ -646,7 +654,8 @@
     <MESSAGE value="Added P1, P2, P3 / Objects and JSON EX" />
     <MESSAGE value="Added P4 / Objects and JSON EX" />
     <MESSAGE value="Added P5 / Objects and JSON EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P5 / Objects and JSON EX" />
+    <MESSAGE value="Added P6 60%byMaps/ Objects and JSON EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P6 60%byMaps/ Objects and JSON EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -691,7 +700,7 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="37" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -710,13 +719,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_05_functionsEX/_03_templateFormat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_05_functionsEX/_04_cookingByNumbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1040,18 +1042,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByMaps.js">
+    <entry file="file://$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByObj.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-295">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="840">
+          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByObj.js">
+    <entry file="file://$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByMaps.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="140">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_11_objectsAndJsonEX/_07_usernames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding />
         </state>
       </provider>

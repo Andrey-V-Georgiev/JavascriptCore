@@ -14,10 +14,9 @@ function systemComponents(array) {
         }
     }
 
-
     let systemMap = new Map([...unsortedSystemMap.entries()]
         .sort(
-            (systemOne, systemTwo) => {
+            function (systemOne, systemTwo) {
                 let [nameSystemOne, componentsOne] = systemOne;
                 let [nameSystemTwo, componentTwo] = systemTwo;
                 if (componentsOne.size < componentTwo.size) {
@@ -36,7 +35,6 @@ function systemComponents(array) {
             }
         ));
 
-
     for (let entry of systemMap) {
         let [systemName, components] = entry;
         console.log(systemName);
@@ -49,26 +47,6 @@ function systemComponents(array) {
         }
     }
 }
-//
-// systemComponents([
-//     // "B  | AA | AAA",
-//     // "B  | AA | CCC",
-//     // "B  | BB | DDD",
-//     // "B  | BB | BBB",
-//     // "B  | BB | ZZZ",
-//
-//     // "A  | BB | AAA",
-//     "A  | BB | DDD",
-//     "A  | BB | BBB",
-//     "A  | AA | CCC",
-//     "A  | AA | DDD",
-//     "A  | AA | DDD",
-//
-//     // "C  | BB | AAA",
-//     // "C  | BB | DDD",
-//     // "C  | AA | CCC",
-//     //"C  | AA | BBB"
-// ]);
 
 systemComponents([
     'SULS | Main Site | Home Page',
