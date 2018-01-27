@@ -16,10 +16,13 @@
 <script>
     function stopwatch() {
         let output = document.getElementById('time');
+
         let startBtn = document.getElementById('startBtn');
         startBtn.addEventListener('click', startPressed);
+
         let stopBtn = document.getElementById('stopBtn');
         stopBtn.addEventListener('click', stopPressed);
+
         let timer = null;
         let seconds = 0;
 
