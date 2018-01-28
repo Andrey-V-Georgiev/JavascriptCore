@@ -21,9 +21,9 @@
         <entry file="file://$PROJECT_DIR$/_03_jQueryLAB/_03_countriesTable/_03_countriesTable.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <caret line="84" column="26" lean-forward="false" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
               <folding>
-                <marker date="1517178454019" expanded="true" signature="1703:2600" ph="..." />
+                <marker date="1517179441752" expanded="true" signature="1717:2888" ph="..." />
               </folding>
             </state>
           </provider>
@@ -232,7 +232,7 @@
       <workItem from="1517082752903" duration="19756000" />
       <workItem from="1517151710171" duration="1318000" />
       <workItem from="1517163978202" duration="2533000" />
-      <workItem from="1517167727517" duration="7790000" />
+      <workItem from="1517167727517" duration="8874000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -318,11 +318,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517177541825</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added P3 clean the input upgrade / jQuery LAB">
+      <created>1517178549346</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1517178549346</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94082000" />
+    <option name="totallyTimeSpent" value="95166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="152" y="70" width="1089" height="596" extended-state="0" />
@@ -367,7 +374,8 @@
     <MESSAGE value="Added P7 / DOM manipulation LAB" />
     <MESSAGE value="Added P1, P2 / jQuery LAB" />
     <MESSAGE value="Added P3 / jQuery LAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P3 / jQuery LAB" />
+    <MESSAGE value="Added P3 clean the input upgrade / jQuery LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P3 clean the input upgrade / jQuery LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -669,9 +677,9 @@
     <entry file="file://$PROJECT_DIR$/_03_jQueryLAB/_03_countriesTable/_03_countriesTable.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <caret line="84" column="26" lean-forward="false" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
           <folding>
-            <marker date="1517178454019" expanded="true" signature="1703:2600" ph="..." />
+            <marker date="1517179441752" expanded="true" signature="1717:2888" ph="..." />
           </folding>
         </state>
       </provider>

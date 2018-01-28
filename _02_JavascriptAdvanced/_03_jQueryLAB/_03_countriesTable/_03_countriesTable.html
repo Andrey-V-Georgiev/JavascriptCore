@@ -38,12 +38,14 @@
         createCountry('Germany', 'Berlin');
         createCountry('Russia', 'Moscow');
         fixLinks();
+
         // Adjust links
-        function fixLinks(){
+        function fixLinks() {
             $('tr a').show();
             $('tr:last-child a:contains(Down)').hide();
             $('tr:eq(2) a:contains(Up)').hide();
         }
+
         //Read input and call create row
         function addCountry() {
             let name = $('#newCountryText').val();
@@ -51,33 +53,47 @@
             createCountry(name, capital);
             fixLinks();
         }
+
         //Create table row
         function createCountry(name, capital) {
-            $(`<tr>`)
+            let row = $(`<tr>`)
                 .append($(`<td>${name}</td>`))
                 .append($(`<td>${capital}</td>`))
                 .append($(`<td>`)
                     .append($('<a href="#">[Up]</a>').click(moveUp))
                     .append($('<a href="#">[Down]</a>').click(moveDown))
-                    .append($('<a href="#">[Delete]</a>').click(deleteRow)))
-                .appendTo($('#countriesTable'));
+                    .append($('<a href="#">[Delete]</a>').click(deleteRow)));
+            row.css('display', 'none');
+            row.appendTo($('#countriesTable'));
+            row.fadeIn();
             $('#newCountryText').val('');
             $('#newCapitalText').val('');
         }
+
         //Move row up
-        function moveUp(){
+        function moveUp() {
             let currentRow = $(this).parent().parent();
-            currentRow.insertBefore(currentRow.prev());
-            fixLinks();
+            currentRow.fadeOut(() => {
+                currentRow.insertBefore(currentRow.prev());
+                currentRow.fadeIn();
+                fixLinks();
+            });
+
         }
+
         //Move row down
-        function moveDown(){
+        function moveDown() {
             let currentRow = $(this).parent().parent();
-            currentRow.insertAfter(currentRow.next());
-            fixLinks();
+            currentRow.fadeOut(() => {
+                currentRow.insertAfter(currentRow.next());
+                currentRow.fadeIn();
+                fixLinks();
+            });
+
         }
+
         //Delete row
-        function deleteRow(){
+        function deleteRow() {
             $(this).parent().parent().remove();
             fixLinks();
         }
