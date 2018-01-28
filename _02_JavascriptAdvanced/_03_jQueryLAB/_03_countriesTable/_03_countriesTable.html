@@ -61,6 +61,8 @@
                     .append($('<a href="#">[Down]</a>').click(moveDown))
                     .append($('<a href="#">[Delete]</a>').click(deleteRow)))
                 .appendTo($('#countriesTable'));
+            $('#newCountryText').val('');
+            $('#newCapitalText').val('');
         }
         //Move row up
         function moveUp(){
