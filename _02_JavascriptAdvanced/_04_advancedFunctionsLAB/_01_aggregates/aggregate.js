@@ -1,4 +1,5 @@
 function aggregate(arr){
+    arr.map(Number);
     function reduce(arr, func) {
         let result = arr[0];
         for (let nextElement of arr.slice(1))
@@ -6,7 +7,7 @@ function aggregate(arr){
         return result;
     }
 
-    let sum = reduce(arr, (a, b)=> a + b)
+    let sum = reduce(arr, (a, b)=> a + b);
     console.log(`Sum = ${sum}`);
     let min = reduce(arr, (a, b) => Math.min(a, b));
     console.log(`Min = ${min}`);
