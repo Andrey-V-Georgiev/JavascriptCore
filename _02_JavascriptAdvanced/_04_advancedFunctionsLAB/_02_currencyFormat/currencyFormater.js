@@ -5,13 +5,11 @@ function formatCurrency(separator, symbol, symbolFirst, value) {
     else return result + ' ' + symbol;
 }
 
-
-function getDollarFormatter(formatter){
-    function dollarFormatter(value) {
-        return formatter(',', '$', true, value);
+function getDollarFormat(formatCurrency){
+    return function (value){
+        return formatCurrency(',', '$', true, value);
     }
-    return dollarFormatter;
 }
 
-let dollar =  getDollarFormatter(formatCurrency);
-console.log(dollar(5345));
+let dollarFormat =  getDollarFormat(formatCurrency);
+console.log(dollarFormat(5345));
