@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/attachEvents.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/towns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_04_advancedFunctionsLAB/_01_aggregates/aggregate.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/attachEvents.js" afterPath="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/attachEvents.js" />
+      <change beforePath="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/towns.html" afterPath="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/towns.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,21 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="towns.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/towns.html">
+      <file leaf-file-name="aggregate.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_04_advancedFunctionsLAB/_01_aggregates/aggregate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="attachEvents.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/attachEvents.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="294">
+              <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -92,6 +83,7 @@
         <option value="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/attachedEvents.js" />
         <option value="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/towns.html" />
         <option value="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/attachEvents.js" />
+        <option value="$PROJECT_DIR$/_04_advancedFunctionsLAB/_01_aggregates/aggregate.js" />
       </list>
     </option>
   </component>
@@ -108,10 +100,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="293" />
-    <option name="y" value="16" />
-    <option name="width" value="949" />
-    <option name="height" value="682" />
+    <option name="x" value="146" />
+    <option name="y" value="99" />
+    <option name="width" value="1087" />
+    <option name="height" value="606" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -131,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,26 +134,19 @@
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_03_jQueryLAB" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_advancedFunctionsLAB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_03_jQueryLAB" type="462c0819:PsiDirectoryNode" />
-              <item name="_04_linkButtons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_03_jQueryLAB" type="462c0819:PsiDirectoryNode" />
-              <item name="_05_selectableTowns" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_advancedFunctionsLAB" type="462c0819:PsiDirectoryNode" />
+              <item name="_01_aggregates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,14 +160,14 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced" />
+      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB\_01_textFromList" />
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB" />
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_02_domManipulationLAB\_05_gradient" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced" />
-      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -196,26 +182,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug._08_sumTable.html">
+  <component name="RunManager" selected="Node.js.aggregate.js">
     <configuration name="_02_showMore.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_01_documentObjectModelLAB/_02_showMore.html" />
     <configuration name="_06_extractParenthesis.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_01_documentObjectModelLAB/_06_extractParenthesis.html" />
     <configuration name="_08_sumTable.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_01_documentObjectModelLAB/_08_sumTable.html" />
     <configuration name="_01_sumNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_01_sumNumbers.js" working-dir="$PROJECT_DIR$/_01_documentObjectModelLAB" />
-    <configuration name="recursion.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="recursion.js" working-dir="$PROJECT_DIR$/_01_documentObjectModelLAB" />
+    <configuration name="aggregate.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="aggregate.js" working-dir="$PROJECT_DIR$/_04_advancedFunctionsLAB/_01_aggregates" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.recursion.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js._01_sumNumbers.js" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug._02_showMore.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug._06_extractParenthesis.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug._08_sumTable.html" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js._01_sumNumbers.js" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug._02_showMore.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug._06_extractParenthesis.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug._08_sumTable.html" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.aggregate.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug._08_sumTable.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug._06_extractParenthesis.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug._02_showMore.html" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js._01_sumNumbers.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.recursion.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.aggregate.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug._08_sumTable.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug._06_extractParenthesis.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug._02_showMore.html" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js._01_sumNumbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +245,9 @@
       <workItem from="1517215533346" duration="781000" />
       <workItem from="1517216589936" duration="360000" />
       <workItem from="1517238093039" duration="1174000" />
-      <workItem from="1517248747426" duration="2869000" />
+      <workItem from="1517248747426" duration="10069000" />
+      <workItem from="1517313255134" duration="389000" />
+      <workItem from="1517313901788" duration="1175000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -366,22 +354,29 @@
       <option name="project" value="LOCAL" />
       <updated>1517238847201</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added P5 &quot;Selected towns&quot; / jQuery LAB">
+      <created>1517256733776</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1517256733777</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101679000" />
+    <option name="totallyTimeSpent" value="110443000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="293" y="16" width="949" height="682" extended-state="0" />
+    <frame x="146" y="99" width="1087" height="606" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19078243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26610646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24251969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04032258" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -418,7 +413,8 @@
     <MESSAGE value="Added P3 clean the input upgrade / jQuery LAB" />
     <MESSAGE value="Added P3 fadeIn() and fadeOut() upgrade / jQuery LAB" />
     <MESSAGE value="Added P4 / jQuery LAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P4 / jQuery LAB" />
+    <MESSAGE value="Added P5 &quot;Selected towns&quot; / jQuery LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P5 &quot;Selected towns&quot; / jQuery LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -433,13 +429,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_08_sumTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_07_sumTable.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -695,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,22 +691,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/towns.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/attachEvents.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="294">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_advancedFunctionsLAB/_01_aggregates/aggregate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
           <folding />
         </state>
       </provider>

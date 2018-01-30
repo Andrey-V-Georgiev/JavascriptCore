@@ -5,10 +5,11 @@ function attachEvents() {
             li.removeAttr('data-selected');
             li.css('background', '')
         } else {
-            li.attr('data-selected', 'true');
+            li.attr('data-selected', ``);
             li.css('background', '#DDD');
         }
     });
+
     $('#showTownsButton').on('click', function () {
         let selLi = $('#items').find('li[data-selected=true]');
         let towns = selLi.toArray().map(li => li.textContent).join(', ');
