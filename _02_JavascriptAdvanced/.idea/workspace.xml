@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_05_objectCompositionLAB/_04_objectInheritance/objectInheritance.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,11 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="objectInheritance.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_05_objectCompositionLAB/_04_objectInheritance/objectInheritance.js">
+      <file leaf-file-name="sum.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="504">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sum.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,6 +103,8 @@
         <option value="$PROJECT_DIR$/_05_objectCompositionLAB/_03_listProcessor/listProcessor.js" />
         <option value="$PROJECT_DIR$/_05_objectCompositionLAB/_04_objectInheritance/kur.js" />
         <option value="$PROJECT_DIR$/_05_objectCompositionLAB/_04_objectInheritance/objectInheritance.js" />
+        <option value="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.html" />
+        <option value="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.js" />
       </list>
     </option>
   </component>
@@ -160,7 +173,7 @@
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_05_objectCompositionLAB" type="462c0819:PsiDirectoryNode" />
-              <item name="_04_objectInheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="_05_sum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,7 +283,7 @@
       <workItem from="1517342055851" duration="5303000" />
       <workItem from="1517399696756" duration="955000" />
       <workItem from="1517405935021" duration="7944000" />
-      <workItem from="1517418029146" duration="6632000" />
+      <workItem from="1517418029146" duration="9054000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -447,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517420270075</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Added P4 &quot;Grozna groznota&quot; / Object Composition LAB">
+      <created>1517429683895</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1517429683895</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140297000" />
+    <option name="totallyTimeSpent" value="142719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -484,7 +504,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added second ex from doc object model" />
     <MESSAGE value="Added P3, P4 ex from doc object model" />
     <MESSAGE value="Added P4 update, P5 (doc object model)" />
     <MESSAGE value="Added JS Advanced all first EX" />
@@ -509,7 +528,8 @@
     <MESSAGE value="Added P2 / Object Composition LAB" />
     <MESSAGE value="Added P2 with Destructuring assignment/ Object Composition LAB" />
     <MESSAGE value="Added P3 / Object Composition LAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P3 / Object Composition LAB" />
+    <MESSAGE value="Added P4 &quot;Grozna groznota&quot; / Object Composition LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P4 &quot;Grozna groznota&quot; / Object Composition LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -534,8 +554,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/recursion.js" />
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_01_sumNumbers.js" />
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -833,6 +851,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
