@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_06_unitTesting/_01_subSum/subSum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_06_unitTesting/_02_playingCards/playingCards.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.js" afterPath="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="subSum.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_06_unitTesting/_01_subSum/subSum.js">
+      <file leaf-file-name="playingCards.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_06_unitTesting/_02_playingCards/playingCards.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="84">
+              <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -45,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_01_documentObjectModelLAB/recursion.js" />
         <option value="$PROJECT_DIR$/_01_documentObjectModelLAB/_01_sumNumbers.js" />
         <option value="$PROJECT_DIR$/_01_documentObjectModelLAB/_01_sumNumbers.html" />
         <option value="$PROJECT_DIR$/_01_documentObjectModelLAB/_02_showMore.html" />
@@ -96,6 +94,7 @@
         <option value="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.html" />
         <option value="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.js" />
         <option value="$PROJECT_DIR$/_06_unitTesting/_01_subSum/subSum.js" />
+        <option value="$PROJECT_DIR$/_06_unitTesting/_02_playingCards/playingCards.js" />
       </list>
     </option>
   </component>
@@ -188,26 +187,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.subSum.js">
-    <configuration name="fibonacci.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="fibonacci.js" working-dir="$PROJECT_DIR$/_05_objectCompositionLAB/_02_fibonacci" />
+  <component name="RunManager" selected="Node.js.playingCards.js">
     <configuration name="kur.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="kur.js" working-dir="$PROJECT_DIR$/_05_objectCompositionLAB/_04_objectInheritance" />
     <configuration name="listProcessor.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="listProcessor.js" working-dir="$PROJECT_DIR$/_05_objectCompositionLAB/_03_listProcessor" />
     <configuration name="objectInheritance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="objectInheritance.js" working-dir="$PROJECT_DIR$/_05_objectCompositionLAB/_04_objectInheritance" />
+    <configuration name="playingCards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="playingCards.js" working-dir="$PROJECT_DIR$/_06_unitTesting/_02_playingCards" />
     <configuration name="subSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="subSum.js" working-dir="$PROJECT_DIR$/_06_unitTesting/_01_subSum" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.fibonacci.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.listProcessor.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.objectInheritance.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.kur.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.subSum.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.listProcessor.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.objectInheritance.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.kur.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.subSum.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.playingCards.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.subSum.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.kur.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.objectInheritance.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.listProcessor.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.fibonacci.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.playingCards.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.subSum.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.kur.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.objectInheritance.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.listProcessor.js" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +258,7 @@
       <workItem from="1517405935021" duration="7944000" />
       <workItem from="1517418029146" duration="9687000" />
       <workItem from="1517483373106" duration="654000" />
-      <workItem from="1517496828864" duration="1319000" />
+      <workItem from="1517496828864" duration="4421000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -450,11 +449,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517432991533</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added P1 / Unit Testing LAB">
+      <created>1517498170359</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1517498170359</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145325000" />
+    <option name="totallyTimeSpent" value="148427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -465,7 +471,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10410095" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.045741323" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -487,7 +493,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P4 update, P5 (doc object model)" />
     <MESSAGE value="Added JS Advanced all first EX" />
     <MESSAGE value="Added P1, P2 / DOM manipulation LAB" />
     <MESSAGE value="Added P3 / DOM manipulation LAB" />
@@ -512,7 +517,8 @@
     <MESSAGE value="Added P3 / Object Composition LAB" />
     <MESSAGE value="Added P4 &quot;Grozna groznota&quot; / Object Composition LAB" />
     <MESSAGE value="Added P5 / Object Composition LAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P5 / Object Composition LAB" />
+    <MESSAGE value="Added P1 / Unit Testing LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P1 / Unit Testing LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,13 +543,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="14217" column="4" lean-forward="false" selection-start-line="14217" selection-start-column="4" selection-end-line="14217" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_03_deleteFromTable.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
@@ -826,6 +825,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -833,13 +833,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_06_unitTesting/_01_subSum/subSum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_unitTesting/_02_playingCards/playingCards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
           <folding />
         </state>
       </provider>
