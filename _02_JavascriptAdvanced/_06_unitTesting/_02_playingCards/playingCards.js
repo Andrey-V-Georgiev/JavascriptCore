@@ -17,7 +17,6 @@ function playingCards(face, suit){
                 'D': "\u2666",
                 'C': "\u2663",
             };
-
             return `${card.face}${suitToChar[card.suit]}`
         }
     };
