@@ -1,4 +1,4 @@
-let isSymmetric = require('../_06_unitTesting/_05_checkForSymmetry/checkForSymmetry.js').isSymmetric;
+let isSymmetric = require('../../_06_unitTesting/_05_checkForSymmetry/checkForSymmetry.js').isSymmetric;
 let expect = require("chai").expect;
 
 describe("Check symmetry", () => {

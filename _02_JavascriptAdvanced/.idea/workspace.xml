@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass/rectangle.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/test/checkForSymmetry.js" afterPath="$PROJECT_DIR$/test/checkForSymmetry.test.js" />
-      <change beforePath="$PROJECT_DIR$/test/createCalculator.js" afterPath="$PROJECT_DIR$/test/createCalculator.test.js" />
-      <change beforePath="$PROJECT_DIR$/test/rgbToHex.js" afterPath="$PROJECT_DIR$/test/rgbToHex.test.js" />
-      <change beforePath="$PROJECT_DIR$/test/sumNumbers.js" afterPath="$PROJECT_DIR$/test/sumNumbers.test.js" />
+      <change beforePath="$PROJECT_DIR$/test/checkForSymmetry.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test.js" />
+      <change beforePath="$PROJECT_DIR$/test/createCalculator.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/createCalculator.test.js" />
+      <change beforePath="$PROJECT_DIR$/test/rgbToHex.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/rgbToHex.test.js" />
+      <change beforePath="$PROJECT_DIR$/test/sumNumbers.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/sumNumbers.test.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="createCalculator.test.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/createCalculator.test.js">
+      <file leaf-file-name="rectangle.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass/rectangle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+            <state relative-caret-position="168">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -47,8 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_02_domManipulationLAB/_05_mouseGradient.html" />
-        <option value="$PROJECT_DIR$/_02_domManipulationLAB/gradient.html" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/gradient.js" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive.html" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.css" />
@@ -98,6 +97,8 @@
         <option value="$PROJECT_DIR$/_06_unitTesting/_07_addSubtract/createCalculator.js" />
         <option value="$PROJECT_DIR$/test/createCalculator.js" />
         <option value="$PROJECT_DIR$/test/createCalculator.test.js" />
+        <option value="$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test.js" />
+        <option value="$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass/rectangle.js" />
       </list>
     </option>
   </component>
@@ -116,7 +117,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="202" />
     <option name="width" value="979" />
     <option name="height" value="735" />
@@ -150,18 +151,7 @@
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_06_unitTesting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_06_unitTesting" type="462c0819:PsiDirectoryNode" />
-              <item name="_07_addSubtract" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="_07_jsClassesLAB" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,21 +165,22 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_06_unitTesting/_05_checkForSymmetry" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced" />
-      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\test\_06_unitTestingLAB.test" />
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB\_01_textFromList" />
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB" />
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_02_domManipulationLAB\_05_gradient" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced" />
+      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,19 +195,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.createCalculator.test">
-    <configuration name="createCalculator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test/createCalculator.test.js" working-dir="$PROJECT_DIR$/test" />
+  <component name="RunManager" selected="Node.js.rectangle.js">
+    <configuration name="checkForSymmetry.test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test.js" working-dir="$PROJECT_DIR$/test" />
+    <configuration name="createCalculator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test/_06_unitTestingLAB.test/createCalculator.test.js" working-dir="$PROJECT_DIR$/test" />
+    <configuration name="rectangle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="rectangle.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass" />
     <configuration name="checkForSymmetry.test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
+      <working-directory>$PROJECT_DIR$/_06_unitTesting/_05_checkForSymmetry</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <envs />
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
-      <test-directory>$PROJECT_DIR$/test/checkForSymmetry.test</test-directory>
-      <recursive>false</recursive>
+      <test-directory>$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test</test-directory>
+      <recursive>true</recursive>
     </configuration>
     <configuration name="createCalculator.test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -227,7 +220,7 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
-      <test-directory>$PROJECT_DIR$/test/createCalculator.test</test-directory>
+      <test-directory>$PROJECT_DIR$/test/_06_unitTestingLAB.test/createCalculator.test</test-directory>
       <recursive>false</recursive>
     </configuration>
     <configuration name="rgbToHex.test" type="mocha-javascript-test-runner" factoryName="Mocha">
@@ -239,7 +232,7 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
-      <test-directory>$PROJECT_DIR$/test/rgbToHex.test</test-directory>
+      <test-directory>$PROJECT_DIR$/test/_06_unitTestingLAB.test/rgbToHex.test</test-directory>
       <recursive>false</recursive>
     </configuration>
     <configuration name="sumNumbers.test" type="mocha-javascript-test-runner" factoryName="Mocha">
@@ -251,19 +244,23 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
-      <test-directory>$PROJECT_DIR$/test/sumNumbers.test</test-directory>
+      <test-directory>$PROJECT_DIR$/test/_06_unitTestingLAB.test/sumNumbers.test</test-directory>
       <recursive>false</recursive>
     </configuration>
-    <list size="5">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Mocha.rgbToHex.test" />
       <item index="1" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.createCalculator.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.test.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.rectangle.js" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.createCalculator.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.rectangle.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.createCalculator.js" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +315,7 @@
       <workItem from="1517496828864" duration="7977000" />
       <workItem from="1517509157343" duration="622000" />
       <workItem from="1517517303640" duration="4133000" />
-      <workItem from="1517559762084" duration="19164000" />
+      <workItem from="1517559762084" duration="22351000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -551,55 +548,62 @@
       <option name="project" value="LOCAL" />
       <updated>1517578713159</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Added P7 / Unit Testing LAB">
+      <created>1517583199828</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1517583199828</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="createCalculator_test - 2018.02.02 at 16h 34m 12s.xml">
-      <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry_test - 2018.02.02 at 17h 03m 00s.xml">
+      <configuration name="checkForSymmetry.test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="createCalculator_test - 2018.02.02 at 16h 34m 22s.xml">
-      <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry_test - 2018.02.02 at 17h 04m 02s.xml">
+      <configuration name="checkForSymmetry.test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="createCalculator_test - 2018.02.02 at 16h 34m 31s.xml">
-      <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry_test - 2018.02.02 at 17h 05m 02s.xml">
+      <configuration name="checkForSymmetry.test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="createCalculator_test - 2018.02.02 at 16h 34m 38s.xml">
-      <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry_test - 2018.02.02 at 17h 05m 13s.xml">
+      <configuration name="checkForSymmetry.test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="createCalculator_test - 2018.02.02 at 16h 34m 47s.xml">
-      <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry_test - 2018.02.02 at 17h 11m 28s.xml">
+      <configuration name="checkForSymmetry.test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="createCalculator_test - 2018.02.02 at 16h 34m 59s.xml">
-      <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry_test - 2018.02.02 at 17h 11m 56s.xml">
+      <configuration name="checkForSymmetry.test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="createCalculator_test - 2018.02.02 at 16h 40m 20s.xml">
-      <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry_test - 2018.02.02 at 17h 13m 37s.xml">
+      <configuration name="checkForSymmetry.test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="createCalculator_test - 2018.02.02 at 16h 44m 01s.xml">
-      <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry_test - 2018.02.02 at 17h 13m 44s.xml">
+      <configuration name="checkForSymmetry.test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="createCalculator_test - 2018.02.02 at 16h 44m 42s.xml">
-      <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry_test - 2018.02.02 at 17h 13m 52s.xml">
+      <configuration name="checkForSymmetry.test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="createCalculator_test - 2018.02.02 at 16h 48m 25s.xml">
+    <history-entry file="createCalculator_test - 2018.02.02 at 17h 03m 05s.xml">
       <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175902000" />
+    <option name="totallyTimeSpent" value="179089000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="202" y="0" width="979" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22533749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21669106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16719243" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -620,7 +624,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P6 / DOM manipulation LAB" />
     <MESSAGE value="Added P7 / DOM manipulation LAB" />
     <MESSAGE value="Added P1, P2 / jQuery LAB" />
     <MESSAGE value="Added P3 / jQuery LAB" />
@@ -645,7 +648,8 @@
     <MESSAGE value="Added P4 / Unit Testing LAB" />
     <MESSAGE value="Added P5 / Unit Testing LAB" />
     <MESSAGE value="Added P6 / Unit Testing LAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P6 / Unit Testing LAB" />
+    <MESSAGE value="Added P7 / Unit Testing LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P7 / Unit Testing LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -670,13 +674,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_02_showMore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_03_collectList.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -958,7 +955,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/rgbToHex.test.js">
+    <entry file="file://$PROJECT_DIR$/test/_06_unitTestingLAB.test/rgbToHex.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
@@ -966,15 +963,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/checkForSymmetry.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/sumNumbers.test.js">
+    <entry file="file://$PROJECT_DIR$/test/_06_unitTestingLAB.test/sumNumbers.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
@@ -990,10 +979,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/createCalculator.test.js">
+    <entry file="file://$PROJECT_DIR$/test/_06_unitTestingLAB.test/createCalculator.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass/rectangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>

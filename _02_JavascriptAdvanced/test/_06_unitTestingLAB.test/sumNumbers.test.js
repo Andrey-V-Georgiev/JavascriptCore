@@ -1,4 +1,4 @@
-let sum = require('../_06_unitTesting/_04_sumNumbers/sumNumbers.js').sum;
+let sum = require('../../_06_unitTesting/_04_sumNumbers/sumNumbers.js').sum;
 
 let expect = require("chai").expect;
 
