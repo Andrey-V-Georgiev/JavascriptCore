@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_06_unitTesting/_04_checkForSymmetry/checkForSymmetry.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/sum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_06_unitTesting/_05_checkForSymmetry/checkForSymmetry.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/checkForSymmetry.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_06_unitTesting/_04_checkForSymmetry/checkForSymmetry.js" afterPath="$PROJECT_DIR$/_06_unitTesting/_04_sumNumbers/sumNumbers.js" />
+      <change beforePath="$PROJECT_DIR$/test/sum.js" afterPath="$PROJECT_DIR$/test/sum.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +19,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="checkForSymmetry.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_06_unitTesting/_05_checkForSymmetry/checkForSymmetry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkForSymmetry.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/checkForSymmetry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,9 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_01_documentObjectModelLAB/_05_countdown.html" />
-        <option value="$PROJECT_DIR$/_01_documentObjectModelLAB/_07_sumTable.html" />
-        <option value="$PROJECT_DIR$/_01_documentObjectModelLAB/_06_extractParenthesis.html" />
         <option value="$PROJECT_DIR$/_01_documentObjectModelLAB/_08_sumTable.html" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_01_listOfItems.html" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_02_addDelete.html" />
@@ -84,7 +104,10 @@
         <option value="$PROJECT_DIR$/_06_unitTesting/_04_checkForSymmetry/checkForSymmetry.js" />
         <option value="$PROJECT_DIR$/_06_unitTesting/_05_sumOfNumbers/sum.js" />
         <option value="$PROJECT_DIR$/_06_unitTesting/_05_sumOfNumbers/sumOfNumbers.js" />
+        <option value="$PROJECT_DIR$/_06_unitTesting/_04_sumNumbers/sumNumbers.js" />
         <option value="$PROJECT_DIR$/test/sum.js" />
+        <option value="$PROJECT_DIR$/_06_unitTesting/_05_checkForSymmetry/checkForSymmetry.js" />
+        <option value="$PROJECT_DIR$/test/checkForSymmetry.js" />
       </list>
     </option>
   </component>
@@ -104,9 +127,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="146" />
-    <option name="width" value="1087" />
-    <option name="height" value="735" />
+    <option name="x" value="131" />
+    <option name="y" value="14" />
+    <option name="width" value="1146" />
+    <option name="height" value="693" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -138,6 +162,18 @@
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_06_unitTesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_06_unitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_sumNumbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_06_unitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="_05_checkForSymmetry" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
@@ -185,11 +221,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Unit Tests">
+  <component name="RunManager" selected="Mocha.checkForSymmetry">
+    <configuration name="checkForSymmetry.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="checkForSymmetry.js" working-dir="$PROJECT_DIR$/_06_unitTesting/_05_checkForSymmetry" />
     <configuration name="checkForSymmetry.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="checkForSymmetry.js" working-dir="$PROJECT_DIR$/_06_unitTesting/_04_checkForSymmetry" />
     <configuration name="playingCards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="playingCards.js" working-dir="$PROJECT_DIR$/_06_unitTesting/_02_playingCards" />
     <configuration name="printDeckOfCards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="printDeckOfCards.js" working-dir="$PROJECT_DIR$/_06_unitTesting/_03_deckOfCards" />
-    <configuration name="subSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="subSum.js" working-dir="$PROJECT_DIR$/_06_unitTesting/_01_subSum" />
     <configuration name="Unit Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -202,19 +238,49 @@
       <test-directory>$PROJECT_DIR$/test</test-directory>
       <recursive>false</recursive>
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Mocha.Unit Tests" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.subSum.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.playingCards.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.printDeckOfCards.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.js" />
+    <configuration name="checkForSymmetry" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/test</test-directory>
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="sum(arr)-sum array of numbers.should return 3 for [1, 2]" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/sum.js</test-file>
+      <test-names>
+        <name value="sum(arr)-sum array of numbers" />
+        <name value="should return 3 for [1, 2]" />
+      </test-names>
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.checkForSymmetry" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.Unit Tests" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.sum(arr)-sum array of numbers.should return 3 for [1, 2]" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.playingCards.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.printDeckOfCards.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.js (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.printDeckOfCards.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.playingCards.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.subSum.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.js (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.sum(arr)-sum array of numbers.should return 3 for [1, 2]" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.printDeckOfCards.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.playingCards.js" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +335,7 @@
       <workItem from="1517496828864" duration="7977000" />
       <workItem from="1517509157343" duration="622000" />
       <workItem from="1517517303640" duration="4133000" />
-      <workItem from="1517559762084" duration="2781000" />
+      <workItem from="1517559762084" duration="7650000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -481,38 +547,62 @@
       <option name="project" value="LOCAL" />
       <updated>1517506648750</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Added P4 / Unit Testing LAB">
+      <created>1517563561233</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1517563561234</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unit_Tests - 2018.02.01 at 23h 51m 10s.xml">
-      <configuration name="Unit Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry - 2018.02.02 at 12h 16m 36s.xml">
+      <configuration name="checkForSymmetry" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unit_Tests - 2018.02.02 at 11h 10m 11s.xml">
-      <configuration name="Unit Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry - 2018.02.02 at 12h 19m 26s.xml">
+      <configuration name="checkForSymmetry" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unit_Tests - 2018.02.02 at 11h 15m 05s.xml">
-      <configuration name="Unit Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry - 2018.02.02 at 12h 20m 27s.xml">
+      <configuration name="checkForSymmetry" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unit_Tests - 2018.02.02 at 11h 17m 04s.xml">
-      <configuration name="Unit Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry - 2018.02.02 at 12h 21m 12s.xml">
+      <configuration name="checkForSymmetry" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unit_Tests - 2018.02.02 at 11h 17m 15s.xml">
-      <configuration name="Unit Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="checkForSymmetry - 2018.02.02 at 12h 22m 47s.xml">
+      <configuration name="checkForSymmetry" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="checkForSymmetry - 2018.02.02 at 12h 32m 54s.xml">
+      <configuration name="checkForSymmetry" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="checkForSymmetry - 2018.02.02 at 12h 33m 59s.xml">
+      <configuration name="checkForSymmetry" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="checkForSymmetry - 2018.02.02 at 12h 34m 15s.xml">
+      <configuration name="checkForSymmetry" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="checkForSymmetry - 2018.02.02 at 12h 40m 38s.xml">
+      <configuration name="checkForSymmetry" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="checkForSymmetry - 2018.02.02 at 12h 46m 40s.xml">
+      <configuration name="checkForSymmetry" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159519000" />
+    <option name="totallyTimeSpent" value="164388000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="146" y="0" width="1087" height="735" extended-state="0" />
+    <frame x="131" y="14" width="1146" height="693" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26704016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19823009" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1232" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -520,7 +610,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -534,7 +623,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P3 / DOM manipulation LAB" />
     <MESSAGE value="Added P4 / DOM manipulation LAB" />
     <MESSAGE value="Added P5 / DOM manipulation LAB" />
     <MESSAGE value="Added P6 / DOM manipulation LAB" />
@@ -559,7 +647,8 @@
     <MESSAGE value="Added P1 / Unit Testing LAB" />
     <MESSAGE value="Added P2 / Unit Testing LAB" />
     <MESSAGE value="Added P3 / Unit Testing LAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P3 / Unit Testing LAB" />
+    <MESSAGE value="Added P4 / Unit Testing LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P4 / Unit Testing LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -584,22 +673,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_05_gradient/gradient.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive.html" />
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -868,17 +941,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_06_unitTesting/_04_checkForSymmetry/checkForSymmetry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -890,10 +957,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_06_unitTesting/_04_checkForSymmetry/checkForSymmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_unitTesting/_04_sumNumbers/sumNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/sum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_unitTesting/_05_checkForSymmetry/checkForSymmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/checkForSymmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding />
         </state>
       </provider>

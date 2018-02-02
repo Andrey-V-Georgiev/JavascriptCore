@@ -1,10 +1,4 @@
-function sum(arr) {
-    let sum = 0;
-    for (let num of arr){
-        sum += Number(num);
-    }
-    return sum;
-}
+let sum = require('../_06_unitTesting/_04_sumNumbers/sumNumbers.js').sum;
 
 let expect = require("chai").expect;
 
