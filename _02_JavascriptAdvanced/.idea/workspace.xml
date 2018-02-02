@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_07_jsClassesLAB/_03_getPersons/getPersons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_07_jsClassesLAB/_04_circle/circle.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="getPersons.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_07_jsClassesLAB/_03_getPersons/getPersons.js">
+      <file leaf-file-name="circle.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_07_jsClassesLAB/_04_circle/circle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="399">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -44,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.css" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.html" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.js" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_07_dinamicValidation.html" />
@@ -95,6 +94,7 @@
         <option value="$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass/rectangle.js" />
         <option value="$PROJECT_DIR$/_07_jsClassesLAB/_02_personClass/person.js" />
         <option value="$PROJECT_DIR$/_07_jsClassesLAB/_03_getPersons/getPersons.js" />
+        <option value="$PROJECT_DIR$/_07_jsClassesLAB/_04_circle/circle.js" />
       </list>
     </option>
   </component>
@@ -191,9 +191,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.getPersons.js">
+  <component name="RunManager" selected="Node.js.circle.js">
     <configuration name="checkForSymmetry.test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test.js" working-dir="$PROJECT_DIR$/test" />
-    <configuration name="createCalculator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test/_06_unitTestingLAB.test/createCalculator.test.js" working-dir="$PROJECT_DIR$/test" />
+    <configuration name="circle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="circle.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_04_circle" />
     <configuration name="getPersons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="getPersons.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_03_getPersons" />
     <configuration name="person.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="person.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_02_personClass" />
     <configuration name="rectangle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="rectangle.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass" />
@@ -250,19 +250,19 @@
       <item index="1" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.createCalculator.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.test.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.rectangle.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.person.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.test.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.rectangle.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.person.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.circle.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.person.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.rectangle.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.test.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.createCalculator.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.circle.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.person.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.rectangle.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +317,7 @@
       <workItem from="1517496828864" duration="7977000" />
       <workItem from="1517509157343" duration="622000" />
       <workItem from="1517517303640" duration="4133000" />
-      <workItem from="1517559762084" duration="24273000" />
+      <workItem from="1517559762084" duration="25461000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -571,7 +571,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517591936256</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Added P3 / JS Classes LAB">
+      <created>1517594316043</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1517594316043</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -607,19 +614,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181011000" />
+    <option name="totallyTimeSpent" value="182199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21669106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21010248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11356467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17507887" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -640,7 +647,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P3 / jQuery LAB" />
     <MESSAGE value="Added P3 clean the input upgrade / jQuery LAB" />
     <MESSAGE value="Added P3 fadeIn() and fadeOut() upgrade / jQuery LAB" />
     <MESSAGE value="Added P4 / jQuery LAB" />
@@ -665,7 +671,8 @@
     <MESSAGE value="Added P7 / Unit Testing LAB" />
     <MESSAGE value="Added P1 / JS Classes LAB" />
     <MESSAGE value="Added P2 / JS Classes LAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P2 / JS Classes LAB" />
+    <MESSAGE value="Added P3 / JS Classes LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P3 / JS Classes LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,13 +697,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_05_countdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_06_extractParenthesis.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -1015,8 +1015,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_07_jsClassesLAB/_03_getPersons/getPersons.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_jsClassesLAB/_04_circle/circle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding />
         </state>
       </provider>
