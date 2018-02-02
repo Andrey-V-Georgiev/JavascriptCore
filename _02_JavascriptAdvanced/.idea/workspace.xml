@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass/rectangle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_07_jsClassesLAB/_02_personClass/person.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/test/checkForSymmetry.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test.js" />
-      <change beforePath="$PROJECT_DIR$/test/createCalculator.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/createCalculator.test.js" />
-      <change beforePath="$PROJECT_DIR$/test/rgbToHex.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/rgbToHex.test.js" />
-      <change beforePath="$PROJECT_DIR$/test/sumNumbers.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/sumNumbers.test.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="rectangle.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass/rectangle.js">
+      <file leaf-file-name="person.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_07_jsClassesLAB/_02_personClass/person.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="273">
+              <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -48,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_02_domManipulationLAB/gradient.js" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive.html" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.css" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.html" />
@@ -99,6 +94,7 @@
         <option value="$PROJECT_DIR$/test/createCalculator.test.js" />
         <option value="$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test.js" />
         <option value="$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass/rectangle.js" />
+        <option value="$PROJECT_DIR$/_07_jsClassesLAB/_02_personClass/person.js" />
       </list>
     </option>
   </component>
@@ -195,9 +191,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.rectangle.js">
+  <component name="RunManager" selected="Node.js.person.js">
     <configuration name="checkForSymmetry.test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test.js" working-dir="$PROJECT_DIR$/test" />
     <configuration name="createCalculator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test/_06_unitTestingLAB.test/createCalculator.test.js" working-dir="$PROJECT_DIR$/test" />
+    <configuration name="person.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="person.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_02_personClass" />
     <configuration name="rectangle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="rectangle.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass" />
     <configuration name="checkForSymmetry.test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -247,7 +244,7 @@
       <test-directory>$PROJECT_DIR$/test/_06_unitTestingLAB.test/sumNumbers.test</test-directory>
       <recursive>false</recursive>
     </configuration>
-    <list size="7">
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Mocha.rgbToHex.test" />
       <item index="1" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
@@ -255,12 +252,14 @@
       <item index="4" class="java.lang.String" itemvalue="Node.js.createCalculator.js" />
       <item index="5" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.test.js" />
       <item index="6" class="java.lang.String" itemvalue="Node.js.rectangle.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.person.js" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.rectangle.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.createCalculator.js" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.person.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.rectangle.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.checkForSymmetry.test.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.createCalculator.js" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +314,7 @@
       <workItem from="1517496828864" duration="7977000" />
       <workItem from="1517509157343" duration="622000" />
       <workItem from="1517517303640" duration="4133000" />
-      <workItem from="1517559762084" duration="22351000" />
+      <workItem from="1517559762084" duration="23162000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -555,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517583199828</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Added P1 / JS Classes LAB">
+      <created>1517591134998</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1517591134998</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -591,7 +597,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179089000" />
+    <option name="totallyTimeSpent" value="179900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -603,7 +609,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16719243" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14037855" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -624,7 +630,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P7 / DOM manipulation LAB" />
     <MESSAGE value="Added P1, P2 / jQuery LAB" />
     <MESSAGE value="Added P3 / jQuery LAB" />
     <MESSAGE value="Added P3 clean the input upgrade / jQuery LAB" />
@@ -649,7 +654,8 @@
     <MESSAGE value="Added P5 / Unit Testing LAB" />
     <MESSAGE value="Added P6 / Unit Testing LAB" />
     <MESSAGE value="Added P7 / Unit Testing LAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P7 / Unit Testing LAB" />
+    <MESSAGE value="Added P1 / JS Classes LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P1 / JS Classes LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -674,13 +680,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_03_collectList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_04_colorizeTable.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -999,6 +998,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_jsClassesLAB/_02_personClass/person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="24" />
           <folding />
         </state>
       </provider>
