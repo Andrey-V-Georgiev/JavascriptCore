@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_08_prototypeChainLAB/_01_personAndTeacher/personAndTeacher.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_08_prototypeChainLAB/_02_inheritingToString/inheritingToString.js" />
+    <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="Added P1, P2 / Prototype Chain LAB">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_08_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_08_prototypeChainLAB/_04_classHierarchy/classHierarchy.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="inheritingToString.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_08_prototypeChainLAB/_02_inheritingToString/inheritingToString.js">
+      <file leaf-file-name="classHierarchy.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_08_prototypeChainLAB/_04_classHierarchy/classHierarchy.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="336">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -45,8 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_02_domManipulationLAB/_07_dynamicValidation/validate.html" />
-        <option value="$PROJECT_DIR$/_02_domManipulationLAB/_07_dynamicValidation/validate.js" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_07_dynamicValidation.html" />
         <option value="$PROJECT_DIR$/_03_jQueryLAB/_02_searchInList/search.html" />
         <option value="$PROJECT_DIR$/_03_jQueryLAB/_01_textFromList/index.html" />
@@ -96,6 +94,8 @@
         <option value="$PROJECT_DIR$/_07_jsClassesLAB/_06_cards/cards.js" />
         <option value="$PROJECT_DIR$/_08_prototypeChainLAB/_01_personAndTeacher/personAndTeacher.js" />
         <option value="$PROJECT_DIR$/_08_prototypeChainLAB/_02_inheritingToString/inheritingToString.js" />
+        <option value="$PROJECT_DIR$/_08_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js" />
+        <option value="$PROJECT_DIR$/_08_prototypeChainLAB/_04_classHierarchy/classHierarchy.js" />
       </list>
     </option>
   </component>
@@ -163,6 +163,18 @@
               <item name="_08_prototypeChainLAB" type="462c0819:PsiDirectoryNode" />
               <item name="_02_inheritingToString" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_08_prototypeChainLAB" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_extendingPrototype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_08_prototypeChainLAB" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_classHierarchy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -204,10 +216,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.inheritingToString.js">
+  <component name="RunManager" selected="Node.js.classHierarchy.js">
     <configuration name="cards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="cards.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_06_cards" />
-    <configuration name="circle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="circle.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_04_circle" />
-    <configuration name="getPersons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="getPersons.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_03_getPersons" />
+    <configuration name="classHierarchy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="classHierarchy.js" working-dir="$PROJECT_DIR$/_08_prototypeChainLAB/_04_classHierarchy" />
+    <configuration name="extendingPrototype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="extendingPrototype.js" working-dir="$PROJECT_DIR$/_08_prototypeChainLAB/_03_extendingPrototype" />
     <configuration name="inheritingToString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="inheritingToString.js" working-dir="$PROJECT_DIR$/_08_prototypeChainLAB/_02_inheritingToString" />
     <configuration name="pointDistance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="pointDistance.js" working-dir="$PROJECT_DIR$/_07_jsClassesLAB/_05_pointDistance" />
     <configuration name="checkForSymmetry.test" type="mocha-javascript-test-runner" factoryName="Mocha">
@@ -263,19 +275,19 @@
       <item index="1" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.circle.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.pointDistance.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.cards.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.pointDistance.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.cards.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.cards.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.pointDistance.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.circle.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.cards.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.pointDistance.js" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +343,7 @@
       <workItem from="1517509157343" duration="622000" />
       <workItem from="1517517303640" duration="4133000" />
       <workItem from="1517559762084" duration="31635000" />
-      <workItem from="1517633259279" duration="3734000" />
+      <workItem from="1517633259279" duration="11166000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -613,7 +625,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517603548483</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Added P1, P2 / Prototype Chain LAB">
+      <created>1517641296969</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1517641296969</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -649,7 +668,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192107000" />
+    <option name="totallyTimeSpent" value="199539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -659,8 +678,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10725552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26182964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -668,7 +688,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -682,7 +701,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P5 &quot;Selected towns&quot; / jQuery LAB" />
     <MESSAGE value="Added P1 / Advanced Functions LAB" />
     <MESSAGE value="Added P2 / Advanced Functions LAB" />
     <MESSAGE value="Added P3 / Advanced Functions LAB" />
@@ -707,7 +725,8 @@
     <MESSAGE value="Added P4 / JS Classes LAB" />
     <MESSAGE value="Added P5 / JS Classes LAB" />
     <MESSAGE value="Added P6 / JS Classes LAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P6 / JS Classes LAB" />
+    <MESSAGE value="Added P1, P2 / Prototype Chain LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P1, P2 / Prototype Chain LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -732,14 +751,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_07_dynamicValidation/validate.css" />
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_07_dynamicValidation/validate.js" />
     <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_07_dynamicValidation/validate.html" />
     <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_07_dynamicValidation.html">
@@ -966,6 +977,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -973,6 +985,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,9 +1052,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_08_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_08_prototypeChainLAB/_01_personAndTeacher/personAndTeacher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="397">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
@@ -1049,8 +1070,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_08_prototypeChainLAB/_02_inheritingToString/inheritingToString.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="712">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_prototypeChainLAB/_04_classHierarchy/classHierarchy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding />
         </state>
       </provider>
