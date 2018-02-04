@@ -42,7 +42,7 @@ function func() {
 
 let p = new Person('Simo', 'iztre6tel@kuku.com');
 let t = new Teacher('Nikola', 'niko@abv.bg', 'JS');
-let s = new Student('Andrey', 'hui@hui.nl', 'JAVA');
+let s = new Student('Andrey', 'hoi@hoi.nl', 'JAVA');
 
 console.log(p.toString());
 console.log(t.toString());
