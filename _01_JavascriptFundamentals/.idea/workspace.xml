@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e5c0704b-6496-4e84-bb7a-d728d58c1ec3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../_02_JavascriptAdvanced/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../_02_JavascriptAdvanced/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="theHungryProgrammer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer/theHungryProgrammer.js">
+      <file leaf-file-name="expedition.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/expedition.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="252">
+              <caret line="132" column="38" lean-forward="true" selection-start-line="132" selection-start-column="38" selection-end-line="132" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -44,9 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_02_controlFlowLogicLAB/_08_fruitOrVegetable.js" />
-        <option value="$PROJECT_DIR$/_04_functionsLAB/_03_palindrome.js" />
-        <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_09_nowPlaying.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_07_rounding.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_04_distanceIn3D.js" />
         <option value="$PROJECT_DIR$/_05_functionsEX/_01_insideVolume.js" />
@@ -95,6 +91,9 @@
         <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/_08_uniqueSequence.js" />
         <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer/solution.js" />
         <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer/theHungryProgrammer.js" />
+        <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/lost.js" />
+        <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/solution.js" />
+        <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/expedition.js" />
       </list>
     </option>
   </component>
@@ -134,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,18 +156,19 @@
               <item name="_01_JavascriptFundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="_12_examPreparations" type="462c0819:PsiDirectoryNode" />
               <item name="from_3_Sept_2017" type="462c0819:PsiDirectoryNode" />
-              <item name="p1_TheHungryProgrammer" type="462c0819:PsiDirectoryNode" />
+              <item name="p2_Expedition" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -180,6 +179,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_01_JavascriptFundamentals\_12_examPreparations\from_3_Sept_2017\p2_Expedition" />
       <recent name="C:\Projects\JavascriptCore\_01_JavascriptFundamentals\_12_examPreparations\from_3_Sept_2017\p1_TheHungryProgrammer" />
     </key>
   </component>
@@ -195,26 +195,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.theHungryProgrammer.js">
-    <configuration name="_06_systemComponents.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/_11_objectsAndJsonEX/_06_systemComponentsByMaps.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
-    <configuration name="_07_usernames.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_07_usernames.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
-    <configuration name="_08_uniqueSequence.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="_08_uniqueSequence.js" working-dir="$PROJECT_DIR$/_11_objectsAndJsonEX" />
+  <component name="RunManager" selected="Node.js.expedition.js">
+    <configuration name="expedition.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="expedition.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition" />
+    <configuration name="lost.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="lost.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost" />
+    <configuration name="solution.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition" />
     <configuration name="solution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer" />
     <configuration name="theHungryProgrammer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="theHungryProgrammer.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js._06_systemComponents.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js._07_usernames.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js._08_uniqueSequence.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.theHungryProgrammer.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.solution.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.theHungryProgrammer.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.solution.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.expedition.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.lost.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.solution.js (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.theHungryProgrammer.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.solution.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js._08_uniqueSequence.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js._07_usernames.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js._06_systemComponents.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.expedition.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.solution.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.lost.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.theHungryProgrammer.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.solution.js" />
       </list>
     </recent_temporary>
   </component>
@@ -274,14 +274,12 @@
       <workItem from="1516895812006" duration="25565000" />
       <workItem from="1516979348713" duration="628000" />
       <workItem from="1517720039396" duration="6640000" />
-      <workItem from="1517730954710" duration="9587000" />
-    </task>
-    <task id="LOCAL-00003" summary="add squareOfStars">
-      <created>1514709273228</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1514709273228</updated>
+      <workItem from="1517730954710" duration="31913000" />
+      <workItem from="1517819778754" duration="14310000" />
+      <workItem from="1517836065367" duration="5092000" />
+      <workItem from="1517841761352" duration="3246000" />
+      <workItem from="1517907219884" duration="8849000" />
+      <workItem from="1517927044964" duration="20976000" />
     </task>
     <task id="LOCAL-00004" summary="add palindromes">
       <created>1514710430816</created>
@@ -619,32 +617,39 @@
       <option name="project" value="LOCAL" />
       <updated>1516928469807</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Added &quot;The hungry programmer&quot; / Exam preparation">
+      <created>1517741333141</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1517741333141</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298013000" />
+    <option name="totallyTimeSpent" value="372812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22913617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16654275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09936909" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.019639935" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="4" y="406" width="1360" height="224" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3420622" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15615141" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13091482" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66775775" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="3" y="255" width="1360" height="217" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13091482" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -657,7 +662,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P1 'Inside Volume'/ Function EX" />
     <MESSAGE value="Added P2 'Road Radar'/ Function EX" />
     <MESSAGE value="Added P3 'Template Format'/ Function EX" />
     <MESSAGE value="Added P4 'Cooking By Numbers'/ Function EX" />
@@ -682,7 +686,8 @@
     <MESSAGE value="Added P6 60%byMaps/ Objects and JSON EX" />
     <MESSAGE value="Added P7 / Objects and JSON EX" />
     <MESSAGE value="Added P8 / Objects and JSON EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P8 / Objects and JSON EX" />
+    <MESSAGE value="Added &quot;The hungry programmer&quot; / Exam preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;The hungry programmer&quot; / Exam preparation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -727,12 +732,27 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="44" />
+      <option name="time" value="89" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>matrix[loc.row - 1][loc.col]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix[loc.row][loc.col + 1]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>prev.length</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>mainMap.get(a)</expression-string>
         <language-id>JavaScript</language-id>
@@ -746,27 +766,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_05_functionsEX/_08_tripLenght.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_05_functionsEX/_09_radioCrystals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="126" column="0" lean-forward="true" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_05_functionsEX/_10_dnaHelix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_07_arraysAndMatrixEX/_01_printArrayByDelimiter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1056,26 +1055,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer/testRunner.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer/testRunner.js" />
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer/solution.js" />
     <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer/theHungryProgrammer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/lost.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/expedition.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="132" column="38" lean-forward="true" selection-start-line="132" selection-start-column="38" selection-end-line="132" selection-end-column="38" />
           <folding />
         </state>
       </provider>
