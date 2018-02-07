@@ -16,12 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="expedition.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/expedition.js">
+      <file leaf-file-name="lost.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/lost.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="132" column="38" lean-forward="true" selection-start-line="132" selection-start-column="38" selection-end-line="132" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="175">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <marker date="1518008402394" expanded="true" signature="622:852" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_07_rounding.js" />
         <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_04_distanceIn3D.js" />
         <option value="$PROJECT_DIR$/_05_functionsEX/_01_insideVolume.js" />
         <option value="$PROJECT_DIR$/_05_functionsEX/_02_roadRadar.js" />
@@ -91,9 +92,10 @@
         <option value="$PROJECT_DIR$/_11_objectsAndJsonEX/_08_uniqueSequence.js" />
         <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer/solution.js" />
         <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer/theHungryProgrammer.js" />
-        <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/lost.js" />
         <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/solution.js" />
         <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/expedition.js" />
+        <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/solution.js" />
+        <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/lost.js" />
       </list>
     </option>
   </component>
@@ -133,6 +135,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,6 +147,11 @@
             <path>
               <item name="_01_JavascriptFundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="_01_JavascriptFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="_09_stringAndRegexEX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_01_JavascriptFundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_01_JavascriptFundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="_12_examPreparations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -156,14 +165,12 @@
               <item name="_01_JavascriptFundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="_12_examPreparations" type="462c0819:PsiDirectoryNode" />
               <item name="from_3_Sept_2017" type="462c0819:PsiDirectoryNode" />
-              <item name="p2_Expedition" type="462c0819:PsiDirectoryNode" />
+              <item name="p3_Lost" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,6 +186,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_01_JavascriptFundamentals\_12_examPreparations\from_3_Sept_2017\p3_Lost" />
       <recent name="C:\Projects\JavascriptCore\_01_JavascriptFundamentals\_12_examPreparations\from_3_Sept_2017\p2_Expedition" />
       <recent name="C:\Projects\JavascriptCore\_01_JavascriptFundamentals\_12_examPreparations\from_3_Sept_2017\p1_TheHungryProgrammer" />
     </key>
@@ -195,26 +203,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.expedition.js">
+  <component name="RunManager" selected="Node.js.lost.js">
     <configuration name="expedition.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="expedition.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition" />
     <configuration name="lost.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="lost.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost" />
     <configuration name="solution.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition" />
-    <configuration name="solution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer" />
+    <configuration name="solution.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost" />
     <configuration name="theHungryProgrammer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="theHungryProgrammer.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.theHungryProgrammer.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.solution.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.expedition.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.lost.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.solution.js (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.expedition.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.lost.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.solution.js (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.solution.js (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.expedition.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.solution.js (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.lost.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.theHungryProgrammer.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.solution.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.lost.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.solution.js (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.expedition.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.solution.js (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.theHungryProgrammer.js" />
       </list>
     </recent_temporary>
   </component>
@@ -279,14 +287,8 @@
       <workItem from="1517836065367" duration="5092000" />
       <workItem from="1517841761352" duration="3246000" />
       <workItem from="1517907219884" duration="8849000" />
-      <workItem from="1517927044964" duration="20976000" />
-    </task>
-    <task id="LOCAL-00004" summary="add palindromes">
-      <created>1514710430816</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1514710430816</updated>
+      <workItem from="1517927044964" duration="21074000" />
+      <workItem from="1517993445121" duration="9959000" />
     </task>
     <task id="LOCAL-00005" summary="add dayOfWeek">
       <created>1514710608587</created>
@@ -624,26 +626,33 @@
       <option name="project" value="LOCAL" />
       <updated>1517741333141</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Added &quot;Expedition&quot; / Exam preparation">
+      <created>1517948780317</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1517948780318</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="372812000" />
+    <option name="totallyTimeSpent" value="382869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16654275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19107807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.019639935" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="4" y="406" width="1360" height="224" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0883797" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="4" y="406" width="1360" height="224" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3420622" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66775775" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="3" y="255" width="1360" height="217" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4893617" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="3" y="255" width="1360" height="217" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13091482" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -662,7 +671,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P2 'Road Radar'/ Function EX" />
     <MESSAGE value="Added P3 'Template Format'/ Function EX" />
     <MESSAGE value="Added P4 'Cooking By Numbers'/ Function EX" />
     <MESSAGE value="Added P5 'Modify Average'/ Function EX" />
@@ -687,7 +695,8 @@
     <MESSAGE value="Added P7 / Objects and JSON EX" />
     <MESSAGE value="Added P8 / Objects and JSON EX" />
     <MESSAGE value="Added &quot;The hungry programmer&quot; / Exam preparation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;The hungry programmer&quot; / Exam preparation" />
+    <MESSAGE value="Added &quot;Expedition&quot; / Exam preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;Expedition&quot; / Exam preparation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -732,7 +741,7 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="89" />
+      <option name="time" value="90" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -766,13 +775,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_07_arraysAndMatrixEX/_01_printArrayByDelimiter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_07_arraysAndMatrixEX/_02_printNthElement.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -836,27 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_01_splitByDelimiter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_03_startsWith.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_04_endsWith.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_07_usernames.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -871,120 +852,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_09_escaping.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_10_matchAllWords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_11_emailValidation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_12_expressionSplit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_05_capitalizeTheWords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_16_matchMultiplication.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_15_formFiller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_14_employeeData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_13_matchTheDates.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_06_captureTheNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_08_wordOccurences.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_09_extractLinks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/test.js" />
     <entry file="file://$PROJECT_DIR$/_11_objectsAndJsonEX/_01_heroicInventory.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
           <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_07_variablesInSentances.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_10_secretData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_02_repeatStringNTimes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1064,7 +937,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/lost.js">
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/solution.js" />
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/expedition.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="132" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_09_escaping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1514969544603" expanded="true" signature="398:409" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_10_matchAllWords.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1072,19 +964,149 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/solution.js">
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_11_emailValidation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/expedition.js">
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_12_expressionSplit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_13_matchTheDates.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="132" column="38" lean-forward="true" selection-start-line="132" selection-start-column="38" selection-end-line="132" selection-end-column="38" />
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_14_employeeData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_15_formFiller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_stringAndRegexLAB/_16_matchMultiplication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_01_splitByDelimiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_02_repeatStringNTimes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_03_startsWith.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_04_endsWith.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_05_capitalizeTheWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_06_captureTheNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_10_secretData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_09_extractLinks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_08_wordOccurences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_stringAndRegexEX/_07_variablesInSentances.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/lost.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <marker date="1518008402394" expanded="true" signature="622:852" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
