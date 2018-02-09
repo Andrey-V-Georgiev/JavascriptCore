@@ -16,14 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lost.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/lost.js">
+      <file leaf-file-name="manageTheRooms.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/manageTheRooms.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="21" />
-              <folding>
-                <marker date="1518008402394" expanded="true" signature="622:852" ph="..." />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,8 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_syntaxOperatorsLogicEX/_04_distanceIn3D.js" />
-        <option value="$PROJECT_DIR$/_05_functionsEX/_01_insideVolume.js" />
         <option value="$PROJECT_DIR$/_05_functionsEX/_02_roadRadar.js" />
         <option value="$PROJECT_DIR$/_05_functionsEX/_03_templateFormat.js" />
         <option value="$PROJECT_DIR$/_05_functionsEX/_04_cookingByNumbers.js" />
@@ -96,6 +92,8 @@
         <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition/expedition.js" />
         <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/solution.js" />
         <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/lost.js" />
+        <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/test.js" />
+        <option value="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/manageTheRooms.js" />
       </list>
     </option>
   </component>
@@ -135,8 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,11 +143,6 @@
             <path>
               <item name="_01_JavascriptFundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="_01_JavascriptFundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="_09_stringAndRegexEX" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_01_JavascriptFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_01_JavascriptFundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="_12_examPreparations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -165,12 +156,14 @@
               <item name="_01_JavascriptFundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="_12_examPreparations" type="462c0819:PsiDirectoryNode" />
               <item name="from_3_Sept_2017" type="462c0819:PsiDirectoryNode" />
-              <item name="p3_Lost" type="462c0819:PsiDirectoryNode" />
+              <item name="p4_RestHouse" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,6 +179,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_01_JavascriptFundamentals\_12_examPreparations\from_3_Sept_2017\p4_RestHouse" />
       <recent name="C:\Projects\JavascriptCore\_01_JavascriptFundamentals\_12_examPreparations\from_3_Sept_2017\p3_Lost" />
       <recent name="C:\Projects\JavascriptCore\_01_JavascriptFundamentals\_12_examPreparations\from_3_Sept_2017\p2_Expedition" />
       <recent name="C:\Projects\JavascriptCore\_01_JavascriptFundamentals\_12_examPreparations\from_3_Sept_2017\p1_TheHungryProgrammer" />
@@ -203,26 +197,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.lost.js">
+  <component name="RunManager" selected="Node.js.manageTheRooms.js">
     <configuration name="expedition.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="expedition.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition" />
     <configuration name="lost.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="lost.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost" />
-    <configuration name="solution.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p2_Expedition" />
+    <configuration name="manageTheRooms.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="manageTheRooms.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse" />
     <configuration name="solution.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost" />
-    <configuration name="theHungryProgrammer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="theHungryProgrammer.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p1_TheHungryProgrammer" />
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.theHungryProgrammer.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.expedition.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.lost.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.solution.js (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.solution.js (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.expedition.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.lost.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.solution.js (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.manageTheRooms.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.lost.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.solution.js (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.expedition.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.solution.js (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.theHungryProgrammer.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.manageTheRooms.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.lost.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.solution.js (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.expedition.js" />
       </list>
     </recent_temporary>
   </component>
@@ -288,14 +282,11 @@
       <workItem from="1517841761352" duration="3246000" />
       <workItem from="1517907219884" duration="8849000" />
       <workItem from="1517927044964" duration="21074000" />
-      <workItem from="1517993445121" duration="9959000" />
-    </task>
-    <task id="LOCAL-00005" summary="add dayOfWeek">
-      <created>1514710608587</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1514710608587</updated>
+      <workItem from="1517993445121" duration="10001000" />
+      <workItem from="1518018782169" duration="4912000" />
+      <workItem from="1518035655413" duration="8389000" />
+      <workItem from="1518079886627" duration="13386000" />
+      <workItem from="1518202324212" duration="1346000" />
     </task>
     <task id="LOCAL-00006" summary="add functionalCalculator">
       <created>1514710904641</created>
@@ -633,26 +624,42 @@
       <option name="project" value="LOCAL" />
       <updated>1517948780318</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Added &quot;Lost&quot; / Exam preparation">
+      <created>1518008426572</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1518008426572</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="382869000" />
+    <option name="totallyTimeSpent" value="410944000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19107807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08199122" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04416404" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0883797" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="4" y="406" width="1360" height="224" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="4" y="406" width="1360" height="224" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3420622" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4893617" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="3" y="255" width="1360" height="217" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10883281" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="3" y="255" width="1360" height="217" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13091482" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -671,7 +678,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P3 'Template Format'/ Function EX" />
     <MESSAGE value="Added P4 'Cooking By Numbers'/ Function EX" />
     <MESSAGE value="Added P5 'Modify Average'/ Function EX" />
     <MESSAGE value="Added P6, P7, P8 / functions EX" />
@@ -696,7 +702,8 @@
     <MESSAGE value="Added P8 / Objects and JSON EX" />
     <MESSAGE value="Added &quot;The hungry programmer&quot; / Exam preparation" />
     <MESSAGE value="Added &quot;Expedition&quot; / Exam preparation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;Expedition&quot; / Exam preparation" />
+    <MESSAGE value="Added &quot;Lost&quot; / Exam preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;Lost&quot; / Exam preparation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -740,62 +747,66 @@
           <line>20</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/manageTheRooms.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="90" />
+      <option name="time" value="106" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>matrix[loc.row - 1][loc.col]</expression-string>
+        <expression-string>tripleRooms.filter((r) =&gt; r.emptyBeds === 1)[0]</expression-string>
         <language-id>JavaScript</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>matrix[loc.row][loc.col + 1]</expression-string>
+        <expression-string>tripleRooms.filter((r) =&gt; r.emptyBeds === 3)[0]</expression-string>
         <language-id>JavaScript</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>prev.length</expression-string>
+        <expression-string>tripleRooms.filter((r) =&gt; r.emptyBeds === 1)[0].gender</expression-string>
         <language-id>JavaScript</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>mainMap.get(a)</expression-string>
+        <expression-string>first.gender</expression-string>
         <language-id>JavaScript</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>commands.length</expression-string>
+        <expression-string>tripleRooms.filter((r) =&gt; r.emptyBeds === 1)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tripleRooms.filter((r) =&gt; r.emptyBeds === 1)[0].gender === first.gender</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tripleRooms.filter((r)=&gt; r.emptyBeds === 1)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(tripleRooms.filter((r)=&gt; r.emptyBeds === 1)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tripleRooms.filter((r)=&gt; r.emptyBeds === 1).filter((r)=&gt; r.gender === first)</expression-string>
         <language-id>JavaScript</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_07_arraysAndMatrixEX/_02_printNthElement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_07_arraysAndMatrixEX/_03_addAndRemove.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_07_arraysAndMatrixEX/_04_rotateArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_07_arraysAndMatrixEX/_05_increasingSubsequence.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -942,7 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="132" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,9 +960,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <marker date="1514969544603" expanded="true" signature="398:409" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -960,7 +967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -968,7 +974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -976,7 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -984,7 +988,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -992,7 +995,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1000,7 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1016,7 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1024,7 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1032,7 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,7 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,7 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1072,7 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,7 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,25 +1082,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/solution.js" />
     <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p3_Lost/lost.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <marker date="1518008402394" expanded="true" signature="622:852" ph="..." />
-          </folding>
+        <state relative-caret-position="314">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/manageTheRooms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
