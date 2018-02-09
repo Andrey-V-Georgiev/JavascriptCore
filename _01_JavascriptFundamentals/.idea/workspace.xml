@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e5c0704b-6496-4e84-bb7a-d728d58c1ec3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/solution.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/test.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="manageTheRooms.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/manageTheRooms.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="294">
+              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -286,14 +288,7 @@
       <workItem from="1518018782169" duration="4912000" />
       <workItem from="1518035655413" duration="8389000" />
       <workItem from="1518079886627" duration="13386000" />
-      <workItem from="1518202324212" duration="1346000" />
-    </task>
-    <task id="LOCAL-00006" summary="add functionalCalculator">
-      <created>1514710904641</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1514710904641</updated>
+      <workItem from="1518202324212" duration="1398000" />
     </task>
     <task id="LOCAL-00007" summary="all ex for functions are added">
       <created>1514716795417</created>
@@ -631,11 +626,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518008426572</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Added &quot;Manage rooms&quot; / Exam preparation">
+      <created>1518203917983</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1518203917984</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="410944000" />
+    <option name="totallyTimeSpent" value="410996000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -650,7 +652,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08199122" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2306003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04416404" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -678,7 +680,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P4 'Cooking By Numbers'/ Function EX" />
     <MESSAGE value="Added P5 'Modify Average'/ Function EX" />
     <MESSAGE value="Added P6, P7, P8 / functions EX" />
     <MESSAGE value="Added P9 / functions EX" />
@@ -703,7 +704,8 @@
     <MESSAGE value="Added &quot;The hungry programmer&quot; / Exam preparation" />
     <MESSAGE value="Added &quot;Expedition&quot; / Exam preparation" />
     <MESSAGE value="Added &quot;Lost&quot; / Exam preparation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;Lost&quot; / Exam preparation" />
+    <MESSAGE value="Added &quot;Manage rooms&quot; / Exam preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;Manage rooms&quot; / Exam preparation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1104,13 +1106,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-504">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_12_examPreparations/from_3_Sept_2017/p4_RestHouse/manageTheRooms.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="294">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding />
         </state>
       </provider>
