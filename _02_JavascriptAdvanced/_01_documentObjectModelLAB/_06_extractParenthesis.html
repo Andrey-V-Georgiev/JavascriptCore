@@ -15,15 +15,17 @@
     }
 </script>
 <script>
-    function extract(elementId){
-        let text = document.getElementById('content');
-        let regex = /\(([^)]+)\)/g;
+    function extract(elementId) {
+        let para = document.getElementById(elementId).textContent;
+        let pattern = /\(([^)]+)\)/g;
         let result = [];
-        let match = regex.exec(text);
-        while(match){
+
+        let match = pattern.exec(para);
+        while(match) {
             result.push(match[1]);
-            match = regex.exec(text);
+            match = pattern.exec(para);
         }
+
         return result.join('; ');
     }
 </script>
