@@ -1,4 +1,4 @@
-let rgbToHexColor = require('../../_06_unitTesting/_06_rgbToHex/rgbToHex.js').rgbToHexColor;
+let rgbToHexColor = require('../../_10_unitTesting/_06_rgbToHex/rgbToHex.js').rgbToHexColor;
 let expect = require("chai").expect;
 
 describe("RGB To Hex Color", () => {
