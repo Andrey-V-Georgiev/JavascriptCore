@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordeon.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordion.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_04_sections/sections.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.html" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.html" />
+      <change beforePath="$PROJECT_DIR$/_02_domManipulationLAB/_02_addDelete.html" afterPath="$PROJECT_DIR$/_02_domManipulationLAB/_02_addDelete.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,21 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="accordion.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordion.html">
+      <file leaf-file-name="sections.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_04_sections/sections.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="accordeon.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordeon.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="303">
+              <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -45,8 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -56,8 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/towns.html" />
-        <option value="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/attachEvents.js" />
         <option value="$PROJECT_DIR$/_04_advancedFunctionsLAB/_01_aggregates/aggregate.js" />
         <option value="$PROJECT_DIR$/_04_advancedFunctionsLAB/_02_currencyFormat/currencyFormater.js" />
         <option value="$PROJECT_DIR$/_04_advancedFunctionsLAB/_03_commandProcessor/commandProcessor.js" />
@@ -107,6 +94,8 @@
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordion.html" />
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.html" />
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordeon.js" />
+        <option value="$PROJECT_DIR$/_02_domManipulationLAB/_02_addDelete.html" />
+        <option value="$PROJECT_DIR$/_03_domManipulationEX/_04_sections/sections.html" />
       </list>
     </option>
   </component>
@@ -169,13 +158,7 @@
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_03_domManipulationEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_02_fillDropdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_03_domManipulationEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_03_accordion" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_sections" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,12 +204,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.accordeon.js">
+  <component name="RunManager" selected="JavaScript Debug.sections.html">
     <configuration name="accordion.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_03_domManipulationEX/_03_accordion/accordion.html" />
+    <configuration name="sections.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_03_domManipulationEX/_04_sections/sections.html" />
     <configuration name="accordeon.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="accordeon.js" working-dir="$PROJECT_DIR$/_03_domManipulationEX/_03_accordion" />
     <configuration name="classHierarchy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="classHierarchy.js" working-dir="$PROJECT_DIR$/_08_prototypeChainLAB/_04_classHierarchy" />
     <configuration name="extendingPrototype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="extendingPrototype.js" working-dir="$PROJECT_DIR$/_08_prototypeChainLAB/_03_extendingPrototype" />
-    <configuration name="inheritingToString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="inheritingToString.js" working-dir="$PROJECT_DIR$/_08_prototypeChainLAB/_02_inheritingToString" />
     <configuration name="checkForSymmetry.test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -280,19 +263,19 @@
       <item index="1" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
-      <item index="7" class="java.lang.String" itemvalue="JavaScript Debug.accordion.html" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.accordeon.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
+      <item index="6" class="java.lang.String" itemvalue="JavaScript Debug.accordion.html" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.accordeon.js" />
+      <item index="8" class="java.lang.String" itemvalue="JavaScript Debug.sections.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.accordeon.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.accordion.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sections.html" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.accordeon.js" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.accordion.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +337,7 @@
       <workItem from="1518464079374" duration="1709000" />
       <workItem from="1518553660704" duration="5617000" />
       <workItem from="1518623663283" duration="1382000" />
-      <workItem from="1518626138034" duration="6823000" />
+      <workItem from="1518626138034" duration="10427000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -678,7 +661,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518628635979</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Added p3 / DOM manipulation EX">
+      <created>1518633324421</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1518633324421</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -714,7 +704,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217938000" />
+    <option name="totallyTimeSpent" value="221542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -747,7 +737,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P1 / Object Composition LAB" />
     <MESSAGE value="Added P2 / Object Composition LAB" />
     <MESSAGE value="Added P2 with Destructuring assignment/ Object Composition LAB" />
     <MESSAGE value="Added P3 / Object Composition LAB" />
@@ -772,7 +761,8 @@
     <MESSAGE value=" _01_documentObjectModel LAB update" />
     <MESSAGE value="Added p1 / DOM manipulation EX" />
     <MESSAGE value="Added p2 / DOM manipulation EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added p2 / DOM manipulation EX" />
+    <MESSAGE value="Added p3 / DOM manipulation EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added p3 / DOM manipulation EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -807,13 +797,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_06_objectCompositionLAB/_05_sum/sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_10_unitTesting/_01_subSum/subSum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1003,14 +986,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_02_addDelete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_01_sumNumbers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -1083,26 +1058,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_07_dynamicValidation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_04_stopwatch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-341">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_03_deleteFromTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1123,6 +1082,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordeon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordion.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
@@ -1131,10 +1098,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordeon.js">
+    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_07_dynamicValidation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="441">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_02_addDelete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_03_deleteFromTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="74" lean-forward="true" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_04_sections/sections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
           <folding />
         </state>
       </provider>
