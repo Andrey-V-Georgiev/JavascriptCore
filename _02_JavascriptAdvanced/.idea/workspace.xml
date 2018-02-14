@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_05_notification/notification.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter/timeConverter.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter/timeConverter.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,11 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="notification.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_05_notification/notification.html">
+      <file leaf-file-name="timeConverter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter/timeConverter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+            <state relative-caret-position="147">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dropdown.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timeConverter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter/timeConverter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -33,8 +54,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_04_advancedFunctionsLAB/_02_currencyFormat/currencyFormater.js" />
-        <option value="$PROJECT_DIR$/_04_advancedFunctionsLAB/_03_commandProcessor/commandProcessor.js" />
         <option value="$PROJECT_DIR$/_04_advancedFunctionsLAB/_04_maxElement/maxElement.js" />
         <option value="$PROJECT_DIR$/_04_advancedFunctionsLAB/_05_nextArticle/article.html" />
         <option value="$PROJECT_DIR$/_04_advancedFunctionsLAB/_05_nextArticle/next-article.js" />
@@ -93,8 +112,10 @@
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.html" />
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordeon.js" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_02_addDelete.html" />
-        <option value="$PROJECT_DIR$/_03_domManipulationEX/_04_sections/sections.html" />
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_05_notification/notification.html" />
+        <option value="$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter/timeConverter.html" />
+        <option value="$PROJECT_DIR$/_03_domManipulationEX/_04_sections/sections.html" />
+        <option value="$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter/timeConverter.js" />
       </list>
     </option>
   </component>
@@ -157,7 +178,31 @@
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_03_domManipulationEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_05_notification" type="462c0819:PsiDirectoryNode" />
+              <item name="_01_subtraction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_domManipulationEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_fillDropdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_domManipulationEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_accordion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_domManipulationEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_sections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_domManipulationEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_06_timeConverter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,12 +248,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.notification.html">
+  <component name="RunManager" selected="Node.js.timeConverter.js">
     <configuration name="accordion.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_03_domManipulationEX/_03_accordion/accordion.html" />
     <configuration name="notification.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_03_domManipulationEX/_05_notification/notification.html" />
     <configuration name="sections.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_03_domManipulationEX/_04_sections/sections.html" />
     <configuration name="accordeon.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="accordeon.js" working-dir="$PROJECT_DIR$/_03_domManipulationEX/_03_accordion" />
-    <configuration name="classHierarchy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="classHierarchy.js" working-dir="$PROJECT_DIR$/_08_prototypeChainLAB/_04_classHierarchy" />
+    <configuration name="timeConverter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="timeConverter.js" working-dir="$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter" />
     <configuration name="checkForSymmetry.test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -262,19 +307,19 @@
       <item index="1" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.accordion.html" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.accordeon.js" />
-      <item index="7" class="java.lang.String" itemvalue="JavaScript Debug.sections.html" />
-      <item index="8" class="java.lang.String" itemvalue="JavaScript Debug.notification.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.accordion.html" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.accordeon.js" />
+      <item index="6" class="java.lang.String" itemvalue="JavaScript Debug.sections.html" />
+      <item index="7" class="java.lang.String" itemvalue="JavaScript Debug.notification.html" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.timeConverter.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.notification.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.sections.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.accordeon.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.accordion.html" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.timeConverter.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.notification.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sections.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.accordeon.js" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.accordion.html" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +381,7 @@
       <workItem from="1518464079374" duration="1709000" />
       <workItem from="1518553660704" duration="5617000" />
       <workItem from="1518623663283" duration="1382000" />
-      <workItem from="1518626138034" duration="12074000" />
+      <workItem from="1518626138034" duration="16603000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -674,7 +719,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518638422065</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Added p5 / DOM manipulation EX">
+      <created>1518640071042</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1518640071042</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -710,7 +762,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223189000" />
+    <option name="totallyTimeSpent" value="227718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -720,6 +772,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07728706" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.029968454" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -729,7 +782,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -743,7 +795,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P2 with Destructuring assignment/ Object Composition LAB" />
     <MESSAGE value="Added P3 / Object Composition LAB" />
     <MESSAGE value="Added P4 &quot;Grozna groznota&quot; / Object Composition LAB" />
     <MESSAGE value="Added P5 / Object Composition LAB" />
@@ -768,7 +819,8 @@
     <MESSAGE value="Added p2 / DOM manipulation EX" />
     <MESSAGE value="Added p3 / DOM manipulation EX" />
     <MESSAGE value="Added p4 / DOM manipulation EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added p4 / DOM manipulation EX" />
+    <MESSAGE value="Added p5 / DOM manipulation EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added p5 / DOM manipulation EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -784,7 +836,7 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="18" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -803,20 +855,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_10_unitTesting/_02_playingCards/playingCards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_06_unitTesting/_05_sumOfNumbers/sumOfNumbers.js" />
     <entry file="file://$PROJECT_DIR$/_06_unitTesting/_04_checkForSymmetry/checkForSymmetry.js" />
     <entry file="file://$PROJECT_DIR$/_10_unitTesting/_04_sumNumbers/sumNumbers.js">
@@ -964,47 +1002,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_01_listOfItems.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_01_sumNumbers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_02_showMore.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_07_sumTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -1049,22 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordeon.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordion.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
@@ -1105,17 +1090,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_04_stopwatch.html">
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_05_notification/notification.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="211">
+          <caret line="43" column="67" lean-forward="false" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_03_deleteFromTable.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="336">
           <caret line="25" column="74" lean-forward="true" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
           <folding />
         </state>
@@ -1123,16 +1108,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_04_sections/sections.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        <state relative-caret-position="366">
+          <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_05_notification/notification.html">
+    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_04_stopwatch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        <state relative-caret-position="147">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_01_sumNumbers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_07_sumTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_01_listOfItems.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordeon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter/timeConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter/timeConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
