@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_03_jQueryLAB/_01_textFromList/index.html" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_01_textFromList/index.html" />
-      <change beforePath="$PROJECT_DIR$/_03_jQueryLAB/_02_searchInList/search.html" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_02_searchInList/search.html" />
-      <change beforePath="$PROJECT_DIR$/_03_jQueryLAB/_03_countriesTable/_03_countriesTable.html" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_03_countriesTable/_03_countriesTable.html" />
-      <change beforePath="$PROJECT_DIR$/_03_jQueryLAB/_04_linkButtons/buttons.html" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_04_linkButtons/buttons.html" />
-      <change beforePath="$PROJECT_DIR$/_03_jQueryLAB/_04_linkButtons/link-buttons.css" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_04_linkButtons/link-buttons.css" />
-      <change beforePath="$PROJECT_DIR$/_03_jQueryLAB/_04_linkButtons/link-buttons.js" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_04_linkButtons/link-buttons.js" />
-      <change beforePath="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/attachEvents.js" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_05_selectableTowns/attachEvents.js" />
-      <change beforePath="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/towns.html" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_05_selectableTowns/towns.html" />
-      <change beforePath="$PROJECT_DIR$/_05_objectCompositionLAB/_01_orderRectangles/orderedRectangles.js" afterPath="$PROJECT_DIR$/_06_objectCompositionLAB/_01_orderRectangles/orderedRectangles.js" />
-      <change beforePath="$PROJECT_DIR$/_05_objectCompositionLAB/_02_fibonacci/fibonacci.js" afterPath="$PROJECT_DIR$/_06_objectCompositionLAB/_02_fibonacci/fibonacci.js" />
-      <change beforePath="$PROJECT_DIR$/_05_objectCompositionLAB/_03_listProcessor/listProcessor.js" afterPath="$PROJECT_DIR$/_06_objectCompositionLAB/_03_listProcessor/listProcessor.js" />
-      <change beforePath="$PROJECT_DIR$/_05_objectCompositionLAB/_04_objectInheritance/objectInheritance.js" afterPath="$PROJECT_DIR$/_06_objectCompositionLAB/_04_objectInheritance/objectInheritance.js" />
-      <change beforePath="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.html" afterPath="$PROJECT_DIR$/_06_objectCompositionLAB/_05_sum/sum.html" />
-      <change beforePath="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.js" afterPath="$PROJECT_DIR$/_06_objectCompositionLAB/_05_sum/sum.js" />
-      <change beforePath="$PROJECT_DIR$/_06_unitTesting/_01_subSum/subSum.js" afterPath="$PROJECT_DIR$/_10_unitTesting/_01_subSum/subSum.js" />
-      <change beforePath="$PROJECT_DIR$/_06_unitTesting/_02_playingCards/playingCards.js" afterPath="$PROJECT_DIR$/_10_unitTesting/_02_playingCards/playingCards.js" />
-      <change beforePath="$PROJECT_DIR$/_06_unitTesting/_03_deckOfCards/printDeckOfCards.js" afterPath="$PROJECT_DIR$/_10_unitTesting/_03_deckOfCards/printDeckOfCards.js" />
-      <change beforePath="$PROJECT_DIR$/_06_unitTesting/_04_sumNumbers/sumNumbers.js" afterPath="$PROJECT_DIR$/_10_unitTesting/_04_sumNumbers/sumNumbers.js" />
-      <change beforePath="$PROJECT_DIR$/_06_unitTesting/_05_checkForSymmetry/checkForSymmetry.js" afterPath="$PROJECT_DIR$/_10_unitTesting/_05_checkForSymmetry/checkForSymmetry.js" />
-      <change beforePath="$PROJECT_DIR$/_06_unitTesting/_06_rgbToHex/rgbToHex.js" afterPath="$PROJECT_DIR$/_10_unitTesting/_06_rgbToHex/rgbToHex.js" />
-      <change beforePath="$PROJECT_DIR$/_06_unitTesting/_07_addSubtract/createCalculator.js" afterPath="$PROJECT_DIR$/_10_unitTesting/_07_addSubtract/createCalculator.js" />
-      <change beforePath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/checkForSymmetry.test.js" />
-      <change beforePath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/createCalculator.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/createCalculator.test.js" />
-      <change beforePath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/rgbToHex.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/rgbToHex.test.js" />
-      <change beforePath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/sumNumbers.test.js" afterPath="$PROJECT_DIR$/test/_06_unitTestingLAB.test/sumNumbers.test.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,7 +17,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dropdown.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dropdown.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,9 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_jQueryLAB/_03_countriesTable/_03_countriesTable.html" />
-        <option value="$PROJECT_DIR$/_03_jQueryLAB/_04_linkButtons/link-buttons.css" />
-        <option value="$PROJECT_DIR$/_03_jQueryLAB/_04_linkButtons/buttons.html" />
         <option value="$PROJECT_DIR$/_03_jQueryLAB/_04_linkButtons/link-buttons.js" />
         <option value="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/attachedEvents.js" />
         <option value="$PROJECT_DIR$/_03_jQueryLAB/_05_selectableTowns/towns.html" />
@@ -110,6 +103,9 @@
         <option value="$PROJECT_DIR$/_01_documentObjectModelLAB/_06_extractParenthesis.html" />
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.html" />
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.js" />
+        <option value="$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.html" />
+        <option value="$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.js" />
+        <option value="$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.js" />
       </list>
     </option>
   </component>
@@ -151,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,18 +157,48 @@
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_01_documentObjectModelLAB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_02_domManipulationLAB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_domManipulationLAB" type="462c0819:PsiDirectoryNode" />
+              <item name="_05_gradient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_domManipulationLAB" type="462c0819:PsiDirectoryNode" />
+              <item name="_06_highlightActive" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_03_domManipulationEX" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_domManipulationEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_01_subtraction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_domManipulationEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_fillDropdown" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,7 +368,9 @@
       <workItem from="1517719385614" duration="648000" />
       <workItem from="1518464038394" duration="9000" />
       <workItem from="1518464079374" duration="1709000" />
-      <workItem from="1518553660704" duration="5001000" />
+      <workItem from="1518553660704" duration="5617000" />
+      <workItem from="1518623663283" duration="1382000" />
+      <workItem from="1518626138034" duration="2153000" />
     </task>
     <task id="LOCAL-00001" summary="Added second ex from doc object model">
       <created>1516105065184</created>
@@ -653,7 +680,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518554360459</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Added p1 / DOM manipulation EX">
+      <created>1518559435587</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1518559435587</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -689,12 +723,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209117000" />
+    <option name="totallyTimeSpent" value="213268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3338214" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20937042" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.029968454" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
@@ -721,7 +756,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P4 / Advanced Functions LAB" />
     <MESSAGE value="Added P5 / Advanced Functions LAB" />
     <MESSAGE value="Added P1 / Object Composition LAB" />
     <MESSAGE value="Added P2 / Object Composition LAB" />
@@ -746,7 +780,8 @@
     <MESSAGE value="Added P3, P4 / Prototype Chain LAB" />
     <MESSAGE value="P2 update/ Prototype Chain LAB" />
     <MESSAGE value=" _01_documentObjectModel LAB update" />
-    <option name="LAST_COMMIT_MESSAGE" value=" _01_documentObjectModel LAB update" />
+    <MESSAGE value="Added p1 / DOM manipulation EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added p1 / DOM manipulation EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -767,14 +802,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_06_objectCompositionLAB/_03_listProcessor/listProcessor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_05_objectCompositionLAB/_04_objectInheritance/kur.js" />
     <entry file="file://$PROJECT_DIR$/_06_objectCompositionLAB/_04_objectInheritance/objectInheritance.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -957,62 +984,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_01_sumNumbers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_02_showMore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_03_collectList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_04_colorizeTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_05_countdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_06_extractParenthesis.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_07_sumTable.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_07_sumTable.html">
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_01_listOfItems.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-          <folding />
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1034,24 +1030,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_04_stopwatch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="15" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_05_gradient/gradient.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="-252">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1064,26 +1044,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_01_listOfItems.html">
+    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_05_gradient/gradient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_01_sumNumbers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_02_showMore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_07_sumTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_06_extractParenthesis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_03_collectList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_04_colorizeTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="57" lean-forward="true" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_05_countdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.js">
+    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
