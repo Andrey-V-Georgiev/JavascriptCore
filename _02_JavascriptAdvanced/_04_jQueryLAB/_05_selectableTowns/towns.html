@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <title>Towns</title>
     <style>li { display: inline-block }</style>
-    <script src="../../jquery-3.3.1.js"></script>
     <script src = "attachEvents.js"></script>
+    <script src="../../jquery-3.3.1.js"></script>
 </head>
 <body>
 <ul id="items">
@@ -18,8 +18,7 @@
 <button id="showTownsButton">Show Towns</button>
 <div id="selectedTowns"></div>
 <script>
-    $(attachEvents)
+    $(()=>attachEvents())
 </script>
-
 </body>
 </html>
