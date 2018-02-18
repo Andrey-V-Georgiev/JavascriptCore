@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_03_countriesTable/countriesTable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_03_countriesTable/countriesTable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_05_jQueryEX/_02_timer/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_05_jQueryEX/_02_timer/timer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_05_jQueryEX/_02_timer/timer.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_04_advancedFunctionsLAB/_01_aggregates/aggregate.js" afterPath="$PROJECT_DIR$/_06_advancedFunctionsLAB/_01_aggregates/aggregate.js" />
-      <change beforePath="$PROJECT_DIR$/_04_advancedFunctionsLAB/_02_currencyFormat/currencyFormater.js" afterPath="$PROJECT_DIR$/_06_advancedFunctionsLAB/_02_currencyFormat/currencyFormater.js" />
-      <change beforePath="$PROJECT_DIR$/_04_advancedFunctionsLAB/_03_commandProcessor/commandProcessor.js" afterPath="$PROJECT_DIR$/_06_advancedFunctionsLAB/_03_commandProcessor/commandProcessor.js" />
-      <change beforePath="$PROJECT_DIR$/_04_advancedFunctionsLAB/_04_maxElement/maxElement.js" afterPath="$PROJECT_DIR$/_06_advancedFunctionsLAB/_04_maxElement/maxElement.js" />
-      <change beforePath="$PROJECT_DIR$/_04_advancedFunctionsLAB/_05_nextArticle/article.html" afterPath="$PROJECT_DIR$/_06_advancedFunctionsLAB/_05_nextArticle/article.html" />
-      <change beforePath="$PROJECT_DIR$/_04_advancedFunctionsLAB/_05_nextArticle/next-article.js" afterPath="$PROJECT_DIR$/_06_advancedFunctionsLAB/_05_nextArticle/next-article.js" />
-      <change beforePath="$PROJECT_DIR$/_04_jQueryLAB/_03_countriesTable/_03_countriesTable.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_04_jQueryLAB/_05_selectableTowns/attachEvents.js" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_05_selectableTowns/attachEvents.js" />
-      <change beforePath="$PROJECT_DIR$/_04_jQueryLAB/_05_selectableTowns/towns.html" afterPath="$PROJECT_DIR$/_04_jQueryLAB/_05_selectableTowns/towns.html" />
-      <change beforePath="$PROJECT_DIR$/_06_objectCompositionLAB/_01_orderRectangles/orderedRectangles.js" afterPath="$PROJECT_DIR$/_08_objectCompositionLAB/_01_orderRectangles/orderedRectangles.js" />
-      <change beforePath="$PROJECT_DIR$/_06_objectCompositionLAB/_02_fibonacci/fibonacci.js" afterPath="$PROJECT_DIR$/_08_objectCompositionLAB/_02_fibonacci/fibonacci.js" />
-      <change beforePath="$PROJECT_DIR$/_06_objectCompositionLAB/_03_listProcessor/listProcessor.js" afterPath="$PROJECT_DIR$/_08_objectCompositionLAB/_03_listProcessor/listProcessor.js" />
-      <change beforePath="$PROJECT_DIR$/_06_objectCompositionLAB/_04_objectInheritance/objectInheritance.js" afterPath="$PROJECT_DIR$/_08_objectCompositionLAB/_04_objectInheritance/objectInheritance.js" />
-      <change beforePath="$PROJECT_DIR$/_06_objectCompositionLAB/_05_sum/sum.html" afterPath="$PROJECT_DIR$/_08_objectCompositionLAB/_05_sum/sum.html" />
-      <change beforePath="$PROJECT_DIR$/_06_objectCompositionLAB/_05_sum/sum.js" afterPath="$PROJECT_DIR$/_08_objectCompositionLAB/_05_sum/sum.js" />
-      <change beforePath="$PROJECT_DIR$/_07_jsClassesLAB/_01_rectangleClass/rectangle.js" afterPath="$PROJECT_DIR$/_12_jsClassesLAB/_01_rectangleClass/rectangle.js" />
-      <change beforePath="$PROJECT_DIR$/_07_jsClassesLAB/_02_personClass/person.js" afterPath="$PROJECT_DIR$/_12_jsClassesLAB/_02_personClass/person.js" />
-      <change beforePath="$PROJECT_DIR$/_07_jsClassesLAB/_03_getPersons/getPersons.js" afterPath="$PROJECT_DIR$/_12_jsClassesLAB/_03_getPersons/getPersons.js" />
-      <change beforePath="$PROJECT_DIR$/_07_jsClassesLAB/_04_circle/circle.js" afterPath="$PROJECT_DIR$/_12_jsClassesLAB/_04_circle/circle.js" />
-      <change beforePath="$PROJECT_DIR$/_07_jsClassesLAB/_05_pointDistance/pointDistance.js" afterPath="$PROJECT_DIR$/_12_jsClassesLAB/_05_pointDistance/pointDistance.js" />
-      <change beforePath="$PROJECT_DIR$/_07_jsClassesLAB/_06_cards/cards.js" afterPath="$PROJECT_DIR$/_12_jsClassesLAB/_06_cards/cards.js" />
-      <change beforePath="$PROJECT_DIR$/_08_prototypeChainLAB/_01_personAndTeacher/personAndTeacher.js" afterPath="$PROJECT_DIR$/_14_prototypeChainLAB/_01_personAndTeacher/personAndTeacher.js" />
-      <change beforePath="$PROJECT_DIR$/_08_prototypeChainLAB/_02_inheritingToString/inheritingToString.js" afterPath="$PROJECT_DIR$/_14_prototypeChainLAB/_02_inheritingToString/inheritingToString.js" />
-      <change beforePath="$PROJECT_DIR$/_08_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js" afterPath="$PROJECT_DIR$/_14_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js" />
-      <change beforePath="$PROJECT_DIR$/_08_prototypeChainLAB/_04_classHierarchy/classHierarchy.js" afterPath="$PROJECT_DIR$/_14_prototypeChainLAB/_04_classHierarchy/classHierarchy.js" />
+      <change beforePath="$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.html" afterPath="$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,22 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="incrementCounter.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="timer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_02_timer/timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="incrementCounter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+            <state relative-caret-position="210">
+              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -82,9 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_05_objectCompositionLAB/_05_sum/sum.js" />
-        <option value="$PROJECT_DIR$/_06_unitTesting/_01_subSum/subSum.js" />
-        <option value="$PROJECT_DIR$/_06_unitTesting/_02_playingCards/playingCards.js" />
         <option value="$PROJECT_DIR$/_06_unitTesting/_03_deckOfCards/printDeckOfCards.js" />
         <option value="$PROJECT_DIR$/_06_unitTesting/_04_checkForSymmetry/checkForSymmetry.js" />
         <option value="$PROJECT_DIR$/_06_unitTesting/_05_sumOfNumbers/sum.js" />
@@ -133,6 +95,9 @@
         <option value="$PROJECT_DIR$/_04_jQueryLAB/_05_selectableTowns/attachEvents.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.html" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.js" />
+        <option value="$PROJECT_DIR$/_05_jQueryEX/_02_timer/timer.html" />
+        <option value="$PROJECT_DIR$/_05_jQueryEX/_02_timer/test.js" />
+        <option value="$PROJECT_DIR$/_05_jQueryEX/_02_timer/timer.js" />
       </list>
     </option>
   </component>
@@ -174,7 +139,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,13 +150,12 @@
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_04_jQueryLAB" type="462c0819:PsiDirectoryNode" />
+              <item name="_01_documentObjectModelLAB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_04_jQueryLAB" type="462c0819:PsiDirectoryNode" />
-              <item name="_03_countriesTable" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_domManipulationLAB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
@@ -204,11 +168,17 @@
               <item name="_05_jQueryEX" type="462c0819:PsiDirectoryNode" />
               <item name="_01_incrementCounter" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_05_jQueryEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_timer" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,12 +217,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.timeConverter.js">
-    <configuration name="accordion.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_03_domManipulationEX/_03_accordion/accordion.html" />
+  <component name="RunManager" selected="Node.js.test.js">
     <configuration name="notification.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_03_domManipulationEX/_05_notification/notification.html" />
     <configuration name="sections.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_02_JavascriptAdvanced/_03_domManipulationEX/_04_sections/sections.html" />
-    <configuration name="accordeon.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="accordeon.js" working-dir="$PROJECT_DIR$/_03_domManipulationEX/_03_accordion" />
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_02_timer" />
     <configuration name="timeConverter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="timeConverter.js" working-dir="$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter" />
+    <configuration name="timer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="timer.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_02_timer" />
     <configuration name="checkForSymmetry.test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -306,19 +276,19 @@
       <item index="1" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.accordion.html" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.accordeon.js" />
-      <item index="6" class="java.lang.String" itemvalue="JavaScript Debug.sections.html" />
-      <item index="7" class="java.lang.String" itemvalue="JavaScript Debug.notification.html" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.timeConverter.js" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sections.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.notification.html" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.timeConverter.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.timer.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.test.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.timeConverter.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.notification.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sections.html" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.accordeon.js" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.accordion.html" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.timer.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.timeConverter.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.notification.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sections.html" />
       </list>
     </recent_temporary>
   </component>
@@ -385,14 +355,9 @@
       <workItem from="1518804936788" duration="2467000" />
       <workItem from="1518809504713" duration="4744000" />
       <workItem from="1518814390717" duration="281000" />
-      <workItem from="1518846156797" duration="16178000" />
-    </task>
-    <task id="LOCAL-00003" summary="Added P4 update, P5 (doc object model)">
-      <created>1516261742857</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1516261742857</updated>
+      <workItem from="1518846156797" duration="29095000" />
+      <workItem from="1518882859172" duration="407000" />
+      <workItem from="1518929959805" duration="3104000" />
     </task>
     <task id="LOCAL-00004" summary="Added JS Advanced all first EX">
       <created>1516285600650</created>
@@ -730,7 +695,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518814247263</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Added p1 / jQuery EX">
+      <created>1518864047589</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1518864047590</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -766,26 +738,26 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="251842000" />
+    <option name="totallyTimeSpent" value="268270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28550512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26427525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07728706" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.029968454" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.110410094" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07728706" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07570978" sideWeight="0.4941435" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -799,7 +771,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P5 / Object Composition LAB" />
     <MESSAGE value="Added P1 / Unit Testing LAB" />
     <MESSAGE value="Added P2 / Unit Testing LAB" />
     <MESSAGE value="Added P3 / Unit Testing LAB" />
@@ -824,7 +795,8 @@
     <MESSAGE value="Added p5 / DOM manipulation EX" />
     <MESSAGE value="Added p6 / DOM manipulation EX" />
     <MESSAGE value="Added p7 / DOM manipulation EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added p7 / DOM manipulation EX" />
+    <MESSAGE value="Added p1 / jQuery EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added p1 / jQuery EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -840,7 +812,7 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="24" />
+      <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -859,27 +831,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_05_pointDistance/pointDistance.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_01_rectangleClass/rectangle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_10_unitTesting/_03_deckOfCards/printDeckOfCards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_06_cards/cards.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -955,13 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_05_countdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1008,13 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="25" column="74" lean-forward="true" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_04_stopwatch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1113,7 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="20" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1121,23 +1057,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_04_jQueryLAB/_03_countriesTable/countriesTable1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="49" column="26" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_jQueryLAB/_03_countriesTable/countriesTable1.js" />
     <entry file="file://$PROJECT_DIR$/_04_jQueryLAB/_03_countriesTable/countriesTable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,7 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1153,7 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1161,7 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1169,7 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1177,22 +1100,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_documentObjectModelLAB/_05_countdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="25" column="70" lean-forward="false" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_02_timer/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_02_timer/timer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_domManipulationLAB/_04_stopwatch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_02_timer/timer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding />
         </state>
       </provider>
