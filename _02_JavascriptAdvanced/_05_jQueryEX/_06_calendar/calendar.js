@@ -1,12 +1,12 @@
 function calendar(arr) {
-    let [day, month, year] = arr;
+    let today = arr[0];
+    let month = arr[1];
+    let year = arr[2];
     let container = $('#content');
     let fragment = document.createDocumentFragment();
-
     let table = $('<table>');
-
     let captionText;
-    switch(month){
+    switch (month) {
         case 1:
             captionText = `January ${year}`;
             break;
@@ -45,48 +45,70 @@ function calendar(arr) {
             break;
     }
     let caption = $(`<caption>${captionText}</caption>`);
-
-
     let tbody = $('<tbody>');
-    //TODO calc num of weeks, first and last day, first and last date
-    let date =  new Date(year, month - 1, day);
+    let date = new Date(year, month - 1, today);
     let firstDateObj = new Date(date.getFullYear(), date.getMonth(), 1);
     let lastDateObj = new Date(date.getFullYear(), date.getMonth() + 1, 0);
     let firstDate = firstDateObj.getDate();
     let lastDate = lastDateObj.getDate();
     let firstDayOfWeek = firstDateObj.getDay();
     let lastDayOfWeek = lastDateObj.getDay();
-    let emptyDaysInFront = firstDayOfWeek;
-    let emptyDaysInBack = 6 - lastDayOfWeek;
-    let monthLength = lastDayOfWeek;
-    let numberOfWeeks = (emptyDaysInFront + monthLength + emptyDaysInBack) / 7;
-
-    //TODO create table header
-    let daysOfWeek = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+    let emptyDaysInFront = firstDayOfWeek - 1;
+    let emptyDaysInBack = 7 - lastDayOfWeek;
+    if(emptyDaysInBack === 7){
+        emptyDaysInBack = 0;
+    }
+    let numberOfWeeks = Math.round((emptyDaysInFront + lastDate + emptyDaysInBack) / 7);
+    let daysOfWeek = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
     let headerRow = $('<tr>');
     for (let i = 0; i < 7; i++) {
         let newTh = $(`<th>${daysOfWeek.shift()}</th>`);
         newTh.appendTo(headerRow);
+        headerRow.appendTo(tbody);
     }
-    //TODO create standard cells
+    let dayCounter = 0;
     for (let row = 0; row < numberOfWeeks; row++) {
         let newRow = $('<tr>');
-        //todo fill the first week
-        for (let i = 0; i < emptyDaysInFront; i++) {
-            let newTd = $('<td>');
-            newTd.appendTo(newRow);
+        if (row === 0) {
+            for (let day = 0; day < 7; day++) {
+                let newTd;
+                if (day < emptyDaysInFront) {
+                    newTd = $('<td></td>');
+                }
+                else {
+                    newTd = $(`<td>${++dayCounter}</td>`);
+                    if (dayCounter === today) {
+                        newTd.addClass('today');
+                    }
+                }
+                newTd.appendTo(newRow);
+            }
         }
-        //todo fill other weeks
-
-        //todo fill last week
-
-        newRow.appendTo();
-        newRow.appendTo(table);
+        if (row > 0 && row < numberOfWeeks - 1) {
+            for (let day = 0; day < 7; day++) {
+                let newTd = $(`<td>${++dayCounter}</td>`);
+                if (dayCounter === today) {
+                    newTd.addClass('today');
+                }
+                newTd.appendTo(newRow);
+            }
+        }
+        if (row === numberOfWeeks - 1) {
+            for (let day = 0; day < 7; day++) {
+                let newTd;
+                if (dayCounter < lastDate) {
+                    newTd = $(`<td>${++dayCounter}</td>`);
+                    if (dayCounter === today) {
+                        newTd.addClass('today');
+                    }
+                } else {
+                    newTd = $('<td></td>');
+                }
+                newTd.appendTo(newRow);
+            }
+        }
+        newRow.appendTo(tbody);
     }
-
-
-    //TODO append all
-    headerRow.appendTo(table);
     caption.appendTo(table);
     tbody.appendTo(table);
     table.appendTo(fragment);

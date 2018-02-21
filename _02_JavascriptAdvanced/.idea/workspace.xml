@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../_01_JavascriptFundamentals/_04_functionsLAB/.idea/_04_functionsLAB.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../_01_JavascriptFundamentals/_04_functionsLAB/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../_01_JavascriptFundamentals/_04_functionsLAB/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.html" afterPath="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.html" />
       <change beforePath="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.js" afterPath="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.js" />
-      <change beforePath="$PROJECT_DIR$/_06_advancedFunctionsLAB/_02_currencyFormat/currencyFormater.js" afterPath="$PROJECT_DIR$/_06_advancedFunctionsLAB/_02_currencyFormat/currencyFormater.js" />
-      <change beforePath="$PROJECT_DIR$/_06_advancedFunctionsLAB/_04_maxElement/maxElement.js" afterPath="$PROJECT_DIR$/_06_advancedFunctionsLAB/_04_maxElement/maxElement.js" />
+      <change beforePath="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js" afterPath="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,7 +17,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="calendar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calendar.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="104" column="30" lean-forward="false" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
+              <folding>
+                <marker date="1519243106708" expanded="true" signature="2027:2087" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,12 +102,12 @@
         <option value="$PROJECT_DIR$/_05_jQueryEX/_05_domSearch/dom-search.js" />
         <option value="$PROJECT_DIR$/_06_advancedFunctionsLAB/_02_currencyFormat/currencyFormater.js" />
         <option value="$PROJECT_DIR$/_06_advancedFunctionsLAB/_04_maxElement/maxElement.js" />
-        <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.html" />
-        <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.html" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/test.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/test.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.js" />
+        <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.html" />
+        <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js" />
       </list>
     </option>
   </component>
@@ -348,14 +364,7 @@
       <workItem from="1519144598808" duration="17426000" />
       <workItem from="1519196277252" duration="1501000" />
       <workItem from="1519198473709" duration="11693000" />
-      <workItem from="1519226270296" duration="6331000" />
-    </task>
-    <task id="LOCAL-00008" summary="Added P5 / DOM manipulation LAB">
-      <created>1517085501100</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1517085501100</updated>
+      <workItem from="1519226270296" duration="15894000" />
     </task>
     <task id="LOCAL-00009" summary="Added P6 / DOM manipulation LAB">
       <created>1517092096801</created>
@@ -693,7 +702,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519164325488</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Added p3 &quot;Book generator&quot; update/ jQuery EX&#10;//to kind of resolving the problem - how it works by the requirements and second how the Judge want it">
+      <created>1519232768592</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1519232768592</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -729,7 +745,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="347208000" />
+    <option name="totallyTimeSpent" value="356771000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -742,11 +758,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23791821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24169184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -756,7 +774,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38328075" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -770,7 +787,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P5 / Unit Testing LAB" />
     <MESSAGE value="Added P6 / Unit Testing LAB" />
     <MESSAGE value="Added P7 / Unit Testing LAB" />
     <MESSAGE value="Added P1 / JS Classes LAB" />
@@ -795,7 +811,8 @@
     <MESSAGE value="Added p3 / jQuery EX" />
     <MESSAGE value="Added p4 / jQuery EX" />
     <MESSAGE value="Added p5 / jQuery EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added p5 / jQuery EX" />
+    <MESSAGE value="Added p3 &quot;Book generator&quot; update/ jQuery EX&#10;//to kind of resolving the problem - how it works by the requirements and second how the Judge want it" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added p3 &quot;Book generator&quot; update/ jQuery EX&#10;//to kind of resolving the problem - how it works by the requirements and second how the Judge want it" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1117,22 +1134,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_06_calendar/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1151,17 +1152,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-428">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="167">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="309">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="104" column="30" lean-forward="false" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
+          <folding>
+            <marker date="1519243106708" expanded="true" signature="2027:2087" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
