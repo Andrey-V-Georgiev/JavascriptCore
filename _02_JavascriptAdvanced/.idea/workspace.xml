@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_07_advancedFunctionsEX/_04_pesonalBMI/personalBMI.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath/vectorMath.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="personalBMI.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_04_pesonalBMI/personalBMI.js">
+      <file leaf-file-name="vectorMath.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath/vectorMath.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="264">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -44,8 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.html" />
-        <option value="$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.js" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_06_highlightActive/focus.js" />
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.js" />
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordion.html" />
@@ -95,6 +93,8 @@
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_03_functionalSum/functionalSum.js" />
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_04_pesonalBMI/test.js" />
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_04_pesonalBMI/personalBMI.js" />
+        <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath/test.js" />
+        <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath/vectorMath.js" />
       </list>
     </option>
   </component>
@@ -152,7 +152,7 @@
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_07_advancedFunctionsEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_04_pesonalBMI" type="462c0819:PsiDirectoryNode" />
+              <item name="_05_vectorMath" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,13 +199,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.personalBMI.js">
-    <configuration name="argumentInfo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="argumentInfo.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo" />
+  <component name="RunManager" selected="Node.js.test.js">
     <configuration name="formValidation" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_04_formValidation" />
     <configuration name="functionalSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="functionalSum.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_03_functionalSum" />
     <configuration name="personalBMI.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="personalBMI.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_04_pesonalBMI" />
     <configuration name="test.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_04_pesonalBMI" />
-    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo" />
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath" />
+    <configuration name="vectorMath.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="vectorMath.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath" />
     <configuration name="checkForSymmetry.test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -260,19 +260,19 @@
       <item index="2" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.formValidation" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.argumentInfo.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.functionalSum.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.personalBMI.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.functionalSum.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.personalBMI.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.vectorMath.js" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.test.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.personalBMI.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.functionalSum.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.argumentInfo.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.vectorMath.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.personalBMI.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.functionalSum.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -358,14 +358,7 @@
       <workItem from="1519324055360" duration="1129000" />
       <workItem from="1519327673457" duration="7938000" />
       <workItem from="1519367161317" duration="679000" />
-      <workItem from="1519368561466" duration="15630000" />
-    </task>
-    <task id="LOCAL-00014" summary="Added P3 fadeIn() and fadeOut() upgrade / jQuery LAB">
-      <created>1517179641351</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1517179641351</updated>
+      <workItem from="1519368561466" duration="18530000" />
     </task>
     <task id="LOCAL-00015" summary="Added P4 / jQuery LAB">
       <created>1517238847201</created>
@@ -703,7 +696,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519383473077</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Added P4 // Advanced functions EX">
+      <created>1519389254324</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1519389254324</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -739,7 +739,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="402040000" />
+    <option name="totallyTimeSpent" value="404940000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -759,6 +759,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38328075" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -770,7 +771,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38328075" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -781,7 +781,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P4 / JS Classes LAB" />
     <MESSAGE value="Added P5 / JS Classes LAB" />
     <MESSAGE value="Added P6 / JS Classes LAB" />
     <MESSAGE value="Added P1, P2 / Prototype Chain LAB" />
@@ -806,7 +805,8 @@
     <MESSAGE value="Added P1 // Advanced functions EX" />
     <MESSAGE value="Added P2 // Advanced functions EX" />
     <MESSAGE value="Added P3 // Advanced functions EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P3 // Advanced functions EX" />
+    <MESSAGE value="Added P4 // Advanced functions EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P4 // Advanced functions EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -841,20 +841,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_04_sections/sections.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_05_notification/notification.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="50" column="2" lean-forward="true" selection-start-line="50" selection-start-column="2" selection-end-line="55" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter/timeConverter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -1138,8 +1124,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_04_pesonalBMI/personalBMI.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="441">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath/vectorMath.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding />
         </state>
       </provider>
