@@ -9,7 +9,6 @@ function solve(arr, direction){
         'asc': ascendingComparator,
         'desc': descendingComparator
     };
-
     return arr.sort(sortingStrategies[direction]);
 }
 

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_07_advancedFunctionsEX/_01_sortArray/sortArray.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo/argumentInfo.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_07_advancedFunctionsEX/_01_sortArray/sortArray.js" afterPath="$PROJECT_DIR$/_07_advancedFunctionsEX/_01_sortArray/sortArray.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sortArray.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_01_sortArray/sortArray.js">
+      <file leaf-file-name="argumentInfo.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo/argumentInfo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="273">
+              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -44,8 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_08_prototypeChainLAB/_01_personAndTeacher/personAndTeacher.js" />
-        <option value="$PROJECT_DIR$/_08_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js" />
         <option value="$PROJECT_DIR$/_08_prototypeChainLAB/_04_classHierarchy/classHierarchy.js" />
         <option value="$PROJECT_DIR$/_08_prototypeChainLAB/_02_inheritingToString/inheritingToString.js" />
         <option value="$PROJECT_DIR$/_01_documentObjectModelLAB/_06_extractParenthesis.html" />
@@ -95,6 +94,8 @@
         <option value="$PROJECT_DIR$/_05_jQueryEX/_07_wikiParser/wiki-parser.html" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_07_wikiParser/wiki-parser.js" />
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_01_sortArray/sortArray.js" />
+        <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo/test.js" />
+        <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo/argumentInfo.js" />
       </list>
     </option>
   </component>
@@ -152,7 +153,7 @@
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_07_advancedFunctionsEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_01_sortArray" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_argumentInfo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,12 +200,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.sortArray.js">
+  <component name="RunManager" selected="Node.js.argumentInfo.js">
+    <configuration name="argumentInfo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="argumentInfo.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo" />
     <configuration name="formValidation" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_04_formValidation" />
     <configuration name="sortArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sortArray.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_01_sortArray" />
     <configuration name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/wikiParser" />
-    <configuration name="test.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator" />
-    <configuration name="test.js (4)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_07_wikiParser" />
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo" />
     <configuration name="wiki-parser.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="wiki-parser.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/wikiParser" />
     <configuration name="checkForSymmetry.test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -260,19 +261,19 @@
       <item index="2" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.formValidation" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.test.js (3)" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.test.js (4)" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.wiki-parser.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.sortArray.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.wiki-parser.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.sortArray.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.argumentInfo.js" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.test.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.sortArray.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.wiki-parser.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js (4)" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js (3)" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.argumentInfo.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.sortArray.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.wiki-parser.js" />
       </list>
     </recent_temporary>
   </component>
@@ -358,14 +359,7 @@
       <workItem from="1519324055360" duration="1129000" />
       <workItem from="1519327673457" duration="7938000" />
       <workItem from="1519367161317" duration="679000" />
-      <workItem from="1519368561466" duration="1223000" />
-    </task>
-    <task id="LOCAL-00011" summary="Added P1, P2 / jQuery LAB">
-      <created>1517153831045</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1517153831045</updated>
+      <workItem from="1519368561466" duration="8820000" />
     </task>
     <task id="LOCAL-00012" summary="Added P3 / jQuery LAB">
       <created>1517177541825</created>
@@ -703,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519337315656</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Added P1 // Advanced functions EX">
+      <created>1519369824834</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1519369824834</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -739,7 +740,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="387633000" />
+    <option name="totallyTimeSpent" value="395230000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -759,11 +760,11 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09165303" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.047463175" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0851735" sideWeight="0.4941435" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5106383" sideWeight="0.4941435" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -781,7 +782,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P1 / JS Classes LAB" />
     <MESSAGE value="Added P2 / JS Classes LAB" />
     <MESSAGE value="Added P3 / JS Classes LAB" />
     <MESSAGE value="Added P4 / JS Classes LAB" />
@@ -806,7 +806,8 @@
     <MESSAGE value="Added p3 &quot;Book generator&quot; update/ jQuery EX&#10;//to kind of resolving the problem - how it works by the requirements and second how the Judge want it" />
     <MESSAGE value="Added P6 &quot;Calendar&quot;//jQuery Ex" />
     <MESSAGE value="Added P7 &quot;Wiki parser&quot;//jQuery Ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P7 &quot;Wiki parser&quot;//jQuery Ex" />
+    <MESSAGE value="Added P1 // Advanced functions EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P1 // Advanced functions EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -817,7 +818,7 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="39" />
+      <option name="time" value="41" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -841,20 +842,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_07_distanceConverter/distanceConverter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_07_distanceConverter/distanceConverter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_03_domManipulationEX/_01_subtraction/subtraction.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1128,8 +1115,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_01_sortArray/sortArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo/argumentInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
           <folding />
         </state>
       </provider>
