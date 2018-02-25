@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/breakfastRobot.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher/monkeyPatcher.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="breakfastRobot.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/breakfastRobot.js">
+      <file leaf-file-name="monkeyPatcher.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher/monkeyPatcher.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="175" column="0" lean-forward="true" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+            <state relative-caret-position="190">
+              <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -44,8 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_03_domManipulationEX/_02_fillDropdown/dropdown.html" />
-        <option value="$PROJECT_DIR$/_03_domManipulationEX/_03_accordion/accordeon.js" />
         <option value="$PROJECT_DIR$/_02_domManipulationLAB/_02_addDelete.html" />
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_05_notification/notification.html" />
         <option value="$PROJECT_DIR$/_03_domManipulationEX/_06_timeConverter/timeConverter.html" />
@@ -95,6 +93,8 @@
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/test2.js" />
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/test.js" />
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/breakfastRobot.js" />
+        <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher/test.js" />
+        <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher/monkeyPatcher.js" />
       </list>
     </option>
   </component>
@@ -154,6 +154,12 @@
               <item name="_07_advancedFunctionsEX" type="462c0819:PsiDirectoryNode" />
               <item name="_06_breakfastRobot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_07_advancedFunctionsEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_07_monkeyPatcher" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -199,13 +205,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.breakfastRobot.js">
+  <component name="RunManager" selected="Node.js.monkeyPatcher.js">
     <configuration name="breakfastRobot.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="breakfastRobot.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot" />
     <configuration name="formValidation" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_04_formValidation" />
+    <configuration name="monkeyPatcher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="monkeyPatcher.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher" />
     <configuration name="test2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test2.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot" />
     <configuration name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot" />
-    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath" />
-    <configuration name="vectorMath.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="vectorMath.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath" />
+    <configuration name="test.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher" />
     <configuration name="checkForSymmetry.test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -260,19 +266,19 @@
       <item index="2" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.formValidation" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.vectorMath.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.breakfastRobot.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.test2.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.breakfastRobot.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.test2.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.monkeyPatcher.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.breakfastRobot.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test2.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.vectorMath.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.monkeyPatcher.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.breakfastRobot.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.test2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -361,14 +367,9 @@
       <workItem from="1519368561466" duration="18808000" />
       <workItem from="1519406609769" duration="7810000" />
       <workItem from="1519467156680" duration="2101000" />
-      <workItem from="1519477427267" duration="12203000" />
-    </task>
-    <task id="LOCAL-00016" summary="Added P5 &quot;Selected towns&quot; / jQuery LAB">
-      <created>1517256733776</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1517256733777</updated>
+      <workItem from="1519477427267" duration="15209000" />
+      <workItem from="1519503737405" duration="8240000" />
+      <workItem from="1519564019418" duration="10755000" />
     </task>
     <task id="LOCAL-00017" summary="Added P1 / Advanced Functions LAB">
       <created>1517317188932</created>
@@ -706,7 +707,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519392311789</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Added P6 // Advanced functions EX">
+      <created>1519494630602</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1519494630618</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -742,7 +750,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="427332000" />
+    <option name="totallyTimeSpent" value="449333000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -757,16 +765,16 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20594795" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25724906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07855974" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17184943" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5302782" sideWeight="0.4941435" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2405892" sideWeight="0.4941435" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -784,7 +792,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P6 / JS Classes LAB" />
     <MESSAGE value="Added P1, P2 / Prototype Chain LAB" />
     <MESSAGE value="Added P3, P4 / Prototype Chain LAB" />
     <MESSAGE value="P2 update/ Prototype Chain LAB" />
@@ -809,7 +816,8 @@
     <MESSAGE value="Added P3 // Advanced functions EX" />
     <MESSAGE value="Added P4 // Advanced functions EX" />
     <MESSAGE value="Added P5 // Advanced functions EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P5 // Advanced functions EX" />
+    <MESSAGE value="Added P6 // Advanced functions EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P6 // Advanced functions EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -820,7 +828,7 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="58" />
+      <option name="time" value="71" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -849,20 +857,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_04_jQueryLAB/_04_linkButtons/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_04_jQueryLAB/_03_countriesTable/countriesTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1107,26 +1101,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/test2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/test2.js" />
+    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/test.js" />
+    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher/test.js" />
     <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/breakfastRobot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="175" column="0" lean-forward="true" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher/monkeyPatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
           <folding />
         </state>
       </provider>
