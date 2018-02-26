@@ -30,9 +30,9 @@ class Student extends Person {
 }
 
 function extendPrototype(baseClass) {
-    baseClass.prototype.species = 'Human';
+    baseClass.prototype.model = 'Human';
     baseClass.prototype.toSpeciesString = function () {
-        return  `I am a ${this.species}. ${this.toString()}`
+        return  `I am a ${this.model}. ${this.toString()}`
     }
 }
 

@@ -1,63 +1,69 @@
 function result(command) {
-        let post = this;
-            function upvote() {
-                post.upvotes++;
+    let post = this;
+
+    function upvote() {
+        post.upvotes++;
+    }
+
+    function downvote() {
+        post.downvotes++;
+    }
+
+    function score() {
+        let reportedUpvotes;
+        let reportedDownvotes;
+        let addionalSum;
+        if (post.upvotes + post.downvotes > 50) {
+            if (post.upvotes >= post.downvotes) {
+                addionalSum = post.upvotes * 0.25;
+                reportedUpvotes = Math.ceil(post.upvotes + addionalSum);
+                reportedDownvotes = Math.ceil(post.downvotes + addionalSum);
+            } else {
+                addionalSum = post.downvotes * 0.25;
+                reportedUpvotes = Math.ceil(post.upvotes + addionalSum);
+                reportedDownvotes = Math.ceil(post.downvotes + addionalSum);
             }
-            function downvote() {
-                post.downvotes++;
+        } else {
+            reportedUpvotes = post.upvotes;
+            reportedDownvotes = post.downvotes;
+        }
+        let score = post.upvotes - post.downvotes;
+        let rating;
+        let allVotes = post.upvotes + post.downvotes;
+        let someOfTheVotesAreOver100 = post.upvotes > 100 || post.downvotes > 100;
+        let positivePercentage = post.upvotes / (allVotes / 100);
+        if (post.upvotes + post.downvotes < 10) {
+            if (score < 0 || positivePercentage > 66) {
+                rating = 'new';
+            } else {
+                rating = null;
             }
-            function score() {
-                let reportedUpvotes;
-                let reportedDownvotes;
-                let addionalSum;
-                if (post.upvotes + post.downvotes > 50) {
-                    if (post.upvotes >= post.downvotes) {
-                        addionalSum = post.upvotes * 0.25;
-                        reportedUpvotes = Math.ceil(post.upvotes + addionalSum);
-                        reportedDownvotes = Math.ceil(post.downvotes + addionalSum);
-                    } else {
-                        addionalSum = post.downvotes * 0.25;
-                        reportedUpvotes = Math.ceil(post.upvotes + addionalSum);
-                        reportedDownvotes = Math.ceil(post.downvotes + addionalSum);
-                    }
-                } else {
-                    reportedUpvotes = post.upvotes;
-                    reportedDownvotes = post.downvotes;
-                }
-                let score = post.upvotes - post.downvotes;
-                let rating;
-                let allVotes = post.upvotes + post.downvotes;
-                let someOfTheVotesAreOver100 = post.upvotes > 100 || post.downvotes > 100;
-                let positivePercentage = post.upvotes / (allVotes / 100);
-                if (post.upvotes + post.downvotes < 10) {
-                    if (score < 0 || positivePercentage > 66) {
-                        rating = 'new';
-                    } else {
-                        rating = null;
-                    }
-                } else {
-                    if (positivePercentage > 66 && score >= 90) {
-                        rating = 'hot';
-                    } else if (score >= 0 && positivePercentage <= 66 && someOfTheVotesAreOver100) {
-                        rating = 'controversial';
-                    } else if (score < 0) {
-                        rating = 'unpopular';
-                    } else if (score >= 0 && score < 90) {
-                        rating = null;
-                    }
-                }
-                let output3 = [reportedUpvotes, reportedDownvotes, score];
-                let output4 = [reportedUpvotes, reportedDownvotes, score, rating];
-                return rating === null ? output3 : output4;
+        } else {
+            if (positivePercentage > 66 && score >= 90) {
+                rating = 'hot';
+
+
+            } else if (score >= 0 && positivePercentage <= 66 && someOfTheVotesAreOver100) {
+                rating = 'controversial';
+            } else if (score < 0) {
+                rating = 'unpopular';
+            } else if (score >= 0 && score < 90) {
+                rating = null;
             }
-            switch (command) {
-                case 'upvote':
-                    return upvote();
-                case 'downvote':
-                    return downvote();
-                case 'score':
-                    return score();
-            }
+        }
+        let output3 = [reportedUpvotes, reportedDownvotes, score];
+        let output4 = [reportedUpvotes, reportedDownvotes, score, rating];
+        return rating === null ? output3 : output4;
+    }
+
+    switch (command) {
+        case 'upvote':
+            return upvote();
+        case 'downvote':
+            return downvote();
+        case 'score':
+            return score();
+    }
 }
 
 //Test 8
