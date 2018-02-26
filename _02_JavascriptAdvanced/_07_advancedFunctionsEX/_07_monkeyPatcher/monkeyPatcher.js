@@ -1,8 +1,5 @@
-let result = {
-    call: (function () {
-        let post;
-        return function (obj, command) {
-            post = obj;
+function result(command) {
+        let post = this;
             function upvote() {
                 post.upvotes++;
             }
@@ -61,9 +58,7 @@ let result = {
                 case 'score':
                     return score();
             }
-        }
-    })()
-};
+}
 
 //Test 8
 //var expected = [4, 5, -1, 'new'];
