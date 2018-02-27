@@ -1,0 +1,55 @@
+function result() {
+    let id = 0;
+    let allReports = new Map();
+    let element = null;
+    let module = {
+        report: (author, description, isReproducible, severity) => {
+            allReports.set(id++, {
+                author: author,
+                description: description,
+                isReproducible: isReproducible,
+                severity: severity,
+                status: 'Open'
+            });
+            module.output(element);
+        },
+
+        setStatus: (id, newStatus) => {
+            allReports.get(id).status = newStatus;
+            module.output(element);
+        },
+
+        remove: (id) => {
+            allReports.delete(id);
+            module.output(element);
+        },
+
+        sort: (criteria) => {
+            return [...allReports].sort((a, b) => {
+                if (criteria === 'ID' || !criteria) {
+                    return a[0] - b[0];
+                }
+                else {
+                    return a[1][criteria] - b[1][criteria];
+                }
+            })
+        },
+
+        output: (selector) => {
+            element = $(selector);
+            $(selector).empty();
+            for (let [id, report] of [...allReports]) {
+                let reportDiv = $('<div>').attr('id', `report_${id}`).addClass('report')
+                    .append($('<div>').addClass('body')
+                        .append($(`<p>${report.description}</p>`))
+                        .append($('<div>').addClass('title')
+                            .append($('<span>').addClass('author').text(`Submitted by: ${report.author}`))
+                            .append($('<span>').addClass('status').text(`${report.status} | ${report.severity}`))
+                        )
+                    );
+                $(selector).append(reportDiv);
+            }
+        }
+    };
+    return module;
+}
