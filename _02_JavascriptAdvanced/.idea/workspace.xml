@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_11_unitTestingEX/_02_evenOrOdd/evenOrOdd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/_11_unitTestingEX.test/_02_evenOrOdd.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_11_unitTestingEX/_03_charLookup/charLookup.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/_11_unitTestingEX.test/_03_charLookup.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/test/_11_unitTestingEX.test/_02_evenOrOdd.js" afterPath="$PROJECT_DIR$/test/_11_unitTestingEX.test/_02_evenOrOdd.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,31 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_04_sumNumbers.test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/_10_unitTestingLAB.test/_04_sumNumbers.test.js">
+      <file leaf-file-name="charLookup.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_11_unitTestingEX/_03_charLookup/charLookup.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="105">
+              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_02_evenOrOdd.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_02_evenOrOdd.js">
+      <file leaf-file-name="_03_charLookup.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_03_charLookup.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="evenOrOdd.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_11_unitTestingEX/_02_evenOrOdd/evenOrOdd.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="168">
+              <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -65,8 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_05_jQueryEX/_04_formValidation/test.js" />
-        <option value="$PROJECT_DIR$/_05_jQueryEX/_05_domSearch/test.html" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_05_domSearch/test.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_05_domSearch/dom-search.html" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_05_domSearch/dom-search.js" />
@@ -115,7 +104,9 @@
         <option value="$PROJECT_DIR$/test/_10_unitTestingLAB.test/_05_checkForSymmetry.test.js" />
         <option value="$PROJECT_DIR$/_11_unitTestingEX/_01_requestValidator/requestValidator.js" />
         <option value="$PROJECT_DIR$/_11_unitTestingEX/_02_evenOrOdd/evenOrOdd.js" />
+        <option value="$PROJECT_DIR$/_11_unitTestingEX/_03_charLookup/charLookup.js" />
         <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_02_evenOrOdd.js" />
+        <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_03_charLookup.js" />
       </list>
     </option>
   </component>
@@ -168,11 +159,6 @@
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_10_unitTestingLAB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_11_unitTestingEX" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -184,13 +170,13 @@
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="_11_unitTestingEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_charLookup" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="_10_unitTestingLAB.test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
@@ -442,14 +428,7 @@
       <workItem from="1519742031061" duration="1850000" />
       <workItem from="1519752620010" duration="6506000" />
       <workItem from="1519803812994" duration="8067000" />
-      <workItem from="1519828407472" duration="11154000" />
-    </task>
-    <task id="LOCAL-00029" summary="Added P2 / Unit Testing LAB">
-      <created>1517503005785</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1517503005785</updated>
+      <workItem from="1519828407472" duration="15391000" />
     </task>
     <task id="LOCAL-00030" summary="Added P3 / Unit Testing LAB">
       <created>1517506648750</created>
@@ -787,43 +766,50 @@
       <option name="project" value="LOCAL" />
       <updated>1519840968679</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Added P2 // Unit Testing EX">
+      <created>1519843693112</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1519843693112</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_11_unitTestingEX - 2018.02.28 at 20h 44m 41s.xml">
+    <history-entry file="_11_unitTestingEX - 2018.02.28 at 21h 43m 43s.xml">
       <configuration name="_11_unitTestingEX" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_11_unitTestingEX - 2018.02.28 at 20h 46m 51s.xml">
+    <history-entry file="_11_unitTestingEX - 2018.02.28 at 22h 41m 14s.xml">
       <configuration name="_11_unitTestingEX" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_11_unitTestingEX - 2018.02.28 at 20h 47m 39s.xml">
+    <history-entry file="_11_unitTestingEX - 2018.02.28 at 22h 41m 32s.xml">
       <configuration name="_11_unitTestingEX" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="checkForSymmetry_test - 2018.02.02 at 17h 13m 52s.xml">
-      <configuration name="checkForSymmetry.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_11_unitTestingEX - 2018.02.28 at 22h 42m 22s.xml">
+      <configuration name="_11_unitTestingEX" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="createCalculator_test - 2018.02.02 at 17h 03m 05s.xml">
-      <configuration name="createCalculator.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_11_unitTestingEX - 2018.02.28 at 22h 42m 40s.xml">
+      <configuration name="_11_unitTestingEX" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="sumNumbers_test - 2018.02.28 at 13h 42m 13s.xml">
-      <configuration name="sumNumbers.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_11_unitTestingEX - 2018.02.28 at 22h 43m 37s.xml">
+      <configuration name="_11_unitTestingEX" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="sumNumbers_test - 2018.02.28 at 13h 43m 16s.xml">
-      <configuration name="sumNumbers.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_11_unitTestingEX - 2018.02.28 at 22h 49m 49s.xml">
+      <configuration name="_11_unitTestingEX" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="sumNumbers_test - 2018.02.28 at 13h 44m 09s.xml">
-      <configuration name="sumNumbers.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_11_unitTestingEX - 2018.02.28 at 22h 50m 25s.xml">
+      <configuration name="_11_unitTestingEX" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="sumNumbers_test - 2018.02.28 at 13h 44m 59s.xml">
-      <configuration name="sumNumbers.test" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_11_unitTestingEX - 2018.02.28 at 22h 50m 55s.xml">
+      <configuration name="_11_unitTestingEX" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test__11_unitTestingEX_test__02_evenOrOdd_js - 2018.02.28 at 20h 44m 25s.xml">
-      <configuration name="test\_11_unitTestingEX.test\_02_evenOrOdd.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_11_unitTestingEX - 2018.02.28 at 22h 51m 16s.xml">
+      <configuration name="_11_unitTestingEX" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="526680000" />
+    <option name="totallyTimeSpent" value="530917000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -838,12 +824,13 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2031722" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07037643" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4900332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -851,7 +838,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38328075" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -865,7 +851,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added p1 / jQuery EX" />
     <MESSAGE value="Added p2 / jQuery EX" />
     <MESSAGE value="Added p3 / jQuery EX" />
     <MESSAGE value="Added p4 / jQuery EX" />
@@ -890,11 +875,12 @@
     <MESSAGE value="P6 update on sort function // Object composition EX" />
     <MESSAGE value="Added P8 // Object composition EX" />
     <MESSAGE value="Added P1 // Unit Testing EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P1 // Unit Testing EX" />
+    <MESSAGE value="Added P2 // Unit Testing EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P2 // Unit Testing EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="97" />
+      <option name="time" value="98" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -948,8 +934,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo/test.js" />
-    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_04_pesonalBMI/test.js" />
     <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_05_vectorMath/test.js" />
     <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/test2.js" />
     <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/test.js" />
@@ -1122,6 +1106,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,21 +1153,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1071">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_10_unitTestingLAB.test/_06_rgbToHex.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="17" column="67" lean-forward="true" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_10_unitTestingLAB.test/_07_createCalculator.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1238,15 +1208,47 @@
     <entry file="file://$PROJECT_DIR$/_11_unitTestingEX/_02_evenOrOdd/evenOrOdd.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="29" />
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_10_unitTestingLAB.test/_07_createCalculator.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_10_unitTestingLAB.test/_06_rgbToHex.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="67" lean-forward="true" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_02_evenOrOdd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="78" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_11_unitTestingEX/_03_charLookup/charLookup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_03_charLookup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding />
         </state>
       </provider>
