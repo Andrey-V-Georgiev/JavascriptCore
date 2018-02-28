@@ -7,13 +7,13 @@ function solve() {
         this.add = function (element) {
             this.arr.push(element);
             this.size++;
-            this.arr.sort();
+            this.arr.sort(function(a, b){return Number(a) - Number(b) });
         };
         this.remove = function (index) {
             if (index >= 0 && index < this.arr.length) {
                 this.arr.splice(index, 1);
                 this.size--;
-                this.arr.sort();
+                this.arr.sort(function(a, b){return Number(a) - Number(b) });
             } else {
                 throw new Error('Out of bound exception');
             }

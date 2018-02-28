@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js" afterPath="$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,14 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bugTracker.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js">
+      <file leaf-file-name="sortedList.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-              <folding>
-                <marker date="1519770448485" expanded="true" signature="1376:1835" ph="..." />
-              </folding>
+            <state relative-caret-position="231">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,9 +92,9 @@
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_05_stringExtension/test.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_05_stringExtension/stringExtension.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/test.js" />
-        <option value="$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_07_domTraversal/domTraversal.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js" />
+        <option value="$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js" />
       </list>
     </option>
   </component>
@@ -138,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -160,13 +159,18 @@
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_09_objectCompositionEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_06_sortedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_09_objectCompositionEX" type="462c0819:PsiDirectoryNode" />
               <item name="_08_bugTracer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,14 +385,8 @@
       <workItem from="1519681254617" duration="2029000" />
       <workItem from="1519720498417" duration="8364000" />
       <workItem from="1519742031061" duration="1850000" />
-      <workItem from="1519752620010" duration="6473000" />
-    </task>
-    <task id="LOCAL-00025" summary="Added P3 / Object Composition LAB">
-      <created>1517420270075</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1517420270075</updated>
+      <workItem from="1519752620010" duration="6506000" />
+      <workItem from="1519803812994" duration="373000" />
     </task>
     <task id="LOCAL-00026" summary="Added P4 &quot;Grozna groznota&quot; / Object Composition LAB">
       <created>1517429683895</created>
@@ -726,7 +724,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519757578805</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Added P8 // Object composition EX">
+      <created>1519770459378</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1519770459378</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -762,7 +767,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="507426000" />
+    <option name="totallyTimeSpent" value="507832000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -804,7 +809,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added p5 / DOM manipulation EX" />
     <MESSAGE value="Added p6 / DOM manipulation EX" />
     <MESSAGE value="Added p7 / DOM manipulation EX" />
     <MESSAGE value="Added p1 / jQuery EX" />
@@ -829,7 +833,8 @@
     <MESSAGE value="Added P4 // Object composition EX" />
     <MESSAGE value="Added P5, P6 // Object composition EX" />
     <MESSAGE value="Added P7 // Object composition EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P7 // Object composition EX" />
+    <MESSAGE value="Added P8 // Object composition EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P8 // Object composition EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1104,21 +1109,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/test.js" />
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_05_stringExtension/stringExtension.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_04_extensibleObject/extensibleObject.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1130,7 +1121,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1138,7 +1128,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1146,17 +1135,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="245" column="8" lean-forward="false" selection-start-line="245" selection-start-column="8" selection-end-line="245" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="320">
+          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding>
             <marker date="1519770448485" expanded="true" signature="1376:1835" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_05_stringExtension/stringExtension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
