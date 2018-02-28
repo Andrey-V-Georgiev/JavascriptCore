@@ -25,14 +25,17 @@ function result() {
         },
 
         sort: (criteria) => {
-            return [...allReports].sort((a, b) => {
+            allReports = [...allReports].sort((a, b) => {
                 if (criteria === 'ID' || !criteria) {
                     return a[0] - b[0];
+                }else if(criteria === 'severity'){
+                    return a[1].severity - b[1].severity;
+                } else {
+                    return a[1][criteria].localeCompare(b[1][criteria]);
                 }
-                else {
-                    return a[1][criteria] - b[1][criteria];
-                }
-            })
+            });
+
+            module.output(element);
         },
 
         output: (selector) => {

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
+    <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="Added P7 // Object composition EX">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js" afterPath="$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js" />
+      <change beforePath="$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js" afterPath="$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sortedList.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js">
+      <file leaf-file-name="bugTracker.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state relative-caret-position="210">
+              <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="domTraversal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_07_domTraversal/domTraversal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -93,8 +103,8 @@
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_05_stringExtension/stringExtension.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/test.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_07_domTraversal/domTraversal.js" />
-        <option value="$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js" />
+        <option value="$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js" />
       </list>
     </option>
   </component>
@@ -160,6 +170,12 @@
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_09_objectCompositionEX" type="462c0819:PsiDirectoryNode" />
               <item name="_06_sortedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_09_objectCompositionEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_07_domTraversal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
@@ -386,14 +402,7 @@
       <workItem from="1519720498417" duration="8364000" />
       <workItem from="1519742031061" duration="1850000" />
       <workItem from="1519752620010" duration="6506000" />
-      <workItem from="1519803812994" duration="373000" />
-    </task>
-    <task id="LOCAL-00026" summary="Added P4 &quot;Grozna groznota&quot; / Object Composition LAB">
-      <created>1517429683895</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1517429683895</updated>
+      <workItem from="1519803812994" duration="1430000" />
     </task>
     <task id="LOCAL-00027" summary="Added P5 / Object Composition LAB">
       <created>1517432991533</created>
@@ -731,7 +740,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519770459378</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="P6 update on sort function // Object composition EX">
+      <created>1519804229655</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1519804229655</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -767,7 +783,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="507832000" />
+    <option name="totallyTimeSpent" value="508889000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -782,7 +798,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23568773" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17026022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
@@ -809,7 +825,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added p6 / DOM manipulation EX" />
     <MESSAGE value="Added p7 / DOM manipulation EX" />
     <MESSAGE value="Added p1 / jQuery EX" />
     <MESSAGE value="Added p2 / jQuery EX" />
@@ -834,7 +849,8 @@
     <MESSAGE value="Added P5, P6 // Object composition EX" />
     <MESSAGE value="Added P7 // Object composition EX" />
     <MESSAGE value="Added P8 // Object composition EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P8 // Object composition EX" />
+    <MESSAGE value="P6 update on sort function // Object composition EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="P6 update on sort function // Object composition EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1117,13 +1133,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_07_domTraversal/domTraversal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -1138,16 +1147,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <marker date="1519770448485" expanded="true" signature="1376:1835" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_05_stringExtension/stringExtension.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1158,8 +1157,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="357">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_07_domTraversal/domTraversal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/bugTracker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding />
         </state>
       </provider>
