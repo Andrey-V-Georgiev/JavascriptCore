@@ -1,6 +1,5 @@
-let sum = require('../../_10_unitTesting/_04_sumNumbers/sumNumbers.js').sum;
-
 let expect = require("chai").expect;
+let sum = require('../../_10_unitTestingLAB/_04_sumNumbers/sumNumbers.js').sum;
 
 describe("sum(arr)-sum array of numbers", function () {
     it("should return 3 for [1, 2]", function() {

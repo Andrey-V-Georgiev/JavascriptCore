@@ -1,4 +1,4 @@
-let isSymmetric = require('../../_10_unitTesting/_05_checkForSymmetry/checkForSymmetry.js').isSymmetric;
+let isSymmetric = require('../../_10_unitTestingLAB/_05_checkForSymmetry/checkForSymmetry.js').isSymmetric;
 let expect = require("chai").expect;
 
 describe("Check symmetry", () => {
@@ -6,7 +6,7 @@ describe("Check symmetry", () => {
         it("Should be a function", () => {
             expect(typeof isSymmetric).to.equal('function');
         })
-    })
+    });
     describe("Value tests", () => {
         it("should return true for [1,2,3,3,2,1]", () => {
             expect(isSymmetric([1, 2, 3, 3, 2, 1])).to.be.true;

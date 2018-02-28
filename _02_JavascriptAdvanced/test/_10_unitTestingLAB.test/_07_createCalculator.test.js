@@ -1,4 +1,4 @@
-let createCalculator = require('../../_10_unitTesting/_07_addSubtract/createCalculator.js').createCalculator;
+let createCalculator = require('../../_10_unitTestingLAB/_07_addSubtract/createCalculator.js').createCalculator;
 let expect = require('chai').expect;
 
 describe("Create Calculator", () => {
