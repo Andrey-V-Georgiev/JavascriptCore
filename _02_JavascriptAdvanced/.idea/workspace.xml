@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_11_unitTestingEX/_06_armageDOM/armagedom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_13_jsClassesEX/_01_dataClass/dataClass.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,18 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_06_armageDOM.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js">
+      <file leaf-file-name="dataClass.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_01_dataClass/dataClass.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-              <folding>
-                <element signature="e#276#665#0" expanded="false" />
-                <marker date="1520287290691" expanded="true" signature="341:623" ph="..." />
-                <marker date="1520287290691" expanded="true" signature="373:417" ph="..." />
-                <marker date="1520287290691" expanded="true" signature="442:478" ph="..." />
-                <marker date="1520287290691" expanded="true" signature="503:616" ph="..." />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.html" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_07_wikiParser/test.js" />
@@ -102,6 +94,7 @@
         <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js" />
         <option value="$PROJECT_DIR$/_11_unitTestingEX/_06_armageDOM/armagedom.js" />
         <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js" />
+        <option value="$PROJECT_DIR$/_13_jsClassesEX/_01_dataClass/dataClass.js" />
       </list>
     </option>
   </component>
@@ -177,30 +170,7 @@
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_unitTestingEX" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_unitTestingEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_05_sharedObject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_unitTestingEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_06_armageDOM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_unitTestingEX.test" type="462c0819:PsiDirectoryNode" />
+              <item name="_13_jsClassesEX" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -490,14 +460,7 @@
       <workItem from="1520242509181" duration="999000" />
       <workItem from="1520243525193" duration="86000" />
       <workItem from="1520243614318" duration="501000" />
-      <workItem from="1520267986307" duration="13924000" />
-    </task>
-    <task id="LOCAL-00033" summary="Added P6 / Unit Testing LAB">
-      <created>1517578713159</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1517578713159</updated>
+      <workItem from="1520267986307" duration="14910000" />
     </task>
     <task id="LOCAL-00034" summary="Added P7 / Unit Testing LAB">
       <created>1517583199828</created>
@@ -835,13 +798,17 @@
       <option name="project" value="LOCAL" />
       <updated>1520276472975</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Added P6 // Unit Testing EX">
+      <created>1520287329542</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1520287329542</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_06_armageDOM - 2018.03.05 at 22h 44m 21s.xml">
-      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
     <history-entry file="_06_armageDOM - 2018.03.05 at 22h 45m 22s.xml">
       <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
@@ -869,9 +836,12 @@
     <history-entry file="_06_armageDOM - 2018.03.06 at 00h 01m 10s.xml">
       <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
+    <history-entry file="_06_armageDOM - 2018.03.06 at 00h 03m 39s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="566902000" />
+    <option name="totallyTimeSpent" value="567888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -886,7 +856,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24697885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16465257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
@@ -913,7 +883,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added p5 / jQuery EX" />
     <MESSAGE value="Added p3 &quot;Book generator&quot; update/ jQuery EX&#10;//to kind of resolving the problem - how it works by the requirements and second how the Judge want it" />
     <MESSAGE value="Added P6 &quot;Calendar&quot;//jQuery Ex" />
     <MESSAGE value="Added P7 &quot;Wiki parser&quot;//jQuery Ex" />
@@ -938,7 +907,8 @@
     <MESSAGE value="Added P3 // Unit Testing EX" />
     <MESSAGE value="Added P4 // Unit Testing EX" />
     <MESSAGE value="Added P5 // Unit Testing EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P5 // Unit Testing EX" />
+    <MESSAGE value="Added P6 // Unit Testing EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P6 // Unit Testing EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -996,13 +966,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher/monkeyPatcher.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_04_extensibleObject/test.js" />
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_05_stringExtension/test.js" />
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_03_carFactory/carFactory.js">
@@ -1313,14 +1276,18 @@
     <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
           <folding>
             <element signature="e#276#665#0" expanded="false" />
-            <marker date="1520287290691" expanded="true" signature="341:623" ph="..." />
-            <marker date="1520287290691" expanded="true" signature="373:417" ph="..." />
-            <marker date="1520287290691" expanded="true" signature="442:478" ph="..." />
-            <marker date="1520287290691" expanded="true" signature="503:616" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_01_dataClass/dataClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
