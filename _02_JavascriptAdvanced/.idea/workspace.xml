@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_11_unitTestingEX/_05_sharedObject/shared-object.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js" />
-      <change beforePath="$PROJECT_DIR$/../_01_JavascriptFundamentals/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../_01_JavascriptFundamentals/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_11_unitTestingEX/_06_armageDOM/armagedom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,24 +18,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shared-object.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_11_unitTestingEX/_05_sharedObject/shared-object.js">
+      <file leaf-file-name="_06_armageDOM.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_05_sharedObject.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+            <state relative-caret-position="260">
+              <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
               <folding>
-                <marker date="1520276456570" expanded="true" signature="238:358" ph="..." />
-                <marker date="1520276456570" expanded="true" signature="261:350" ph="..." />
+                <element signature="e#276#665#0" expanded="false" />
+                <marker date="1520287290691" expanded="true" signature="341:623" ph="..." />
+                <marker date="1520287290691" expanded="true" signature="373:417" ph="..." />
+                <marker date="1520287290691" expanded="true" signature="442:478" ph="..." />
+                <marker date="1520287290691" expanded="true" signature="503:616" ph="..." />
               </folding>
             </state>
           </provider>
@@ -60,8 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/test.js" />
-        <option value="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/test.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.html" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js" />
@@ -111,6 +100,8 @@
         <option value="$PROJECT_DIR$/_11_unitTestingEX/_05_sharedObject/shared-object.html" />
         <option value="$PROJECT_DIR$/_11_unitTestingEX/_05_sharedObject/shared-object.js" />
         <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js" />
+        <option value="$PROJECT_DIR$/_11_unitTestingEX/_06_armageDOM/armagedom.js" />
+        <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js" />
       </list>
     </option>
   </component>
@@ -130,8 +121,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="622" />
-    <option name="width" value="741" />
+    <option name="x" value="620" />
+    <option name="y" value="2" />
+    <option name="width" value="755" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -196,6 +188,12 @@
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_11_unitTestingEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_06_armageDOM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -216,7 +214,7 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -248,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha._05_sharedObject">
+  <component name="RunManager" selected="Mocha._06_armageDOM">
     <configuration name="formValidation" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_04_formValidation" />
     <configuration name="getPersons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="getPersons.js" working-dir="$PROJECT_DIR$/_12_jsClassesLAB/_03_getPersons" />
     <configuration name="requestValidator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="requestValidator.js" working-dir="$PROJECT_DIR$/_11_unitTestingEX/_01_requestValidator" />
@@ -262,7 +260,18 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js</test-file>
+      <test-file>$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js</test-file>
+    </configuration>
+    <configuration name="_06_armageDOM" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js</test-file>
     </configuration>
     <configuration name="_11_unitTestingEX" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -346,19 +355,20 @@
       <test-kind>TEST_FILE</test-kind>
       <test-file>$PROJECT_DIR$/test/_11_unitTestingEX.test/_04_mathEnforcer.js</test-file>
     </configuration>
-    <list size="12">
+    <list size="13">
       <item index="0" class="java.lang.String" itemvalue="Mocha._11_unitTestingEX" />
       <item index="1" class="java.lang.String" itemvalue="Mocha._05_sharedObject" />
-      <item index="2" class="java.lang.String" itemvalue="Mocha.rgbToHex.test" />
-      <item index="3" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
-      <item index="4" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
-      <item index="5" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.formValidation" />
-      <item index="7" class="java.lang.String" itemvalue="Mocha.test\_11_unitTestingEX.test\_02_evenOrOdd.js" />
-      <item index="8" class="java.lang.String" itemvalue="Mocha.test\_11_unitTestingEX.test\_04_mathEnforcer.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.requestValidator.js" />
-      <item index="10" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="11" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha._06_armageDOM" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.rgbToHex.test" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
+      <item index="5" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
+      <item index="6" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.formValidation" />
+      <item index="8" class="java.lang.String" itemvalue="Mocha.test\_11_unitTestingEX.test\_02_evenOrOdd.js" />
+      <item index="9" class="java.lang.String" itemvalue="Mocha.test\_11_unitTestingEX.test\_04_mathEnforcer.js" />
+      <item index="10" class="java.lang.String" itemvalue="Node.js.requestValidator.js" />
+      <item index="11" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="12" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -480,14 +490,7 @@
       <workItem from="1520242509181" duration="999000" />
       <workItem from="1520243525193" duration="86000" />
       <workItem from="1520243614318" duration="501000" />
-      <workItem from="1520267986307" duration="6004000" />
-    </task>
-    <task id="LOCAL-00032" summary="Added P5 / Unit Testing LAB">
-      <created>1517568434330</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1517568434330</updated>
+      <workItem from="1520267986307" duration="13924000" />
     </task>
     <task id="LOCAL-00033" summary="Added P6 / Unit Testing LAB">
       <created>1517578713159</created>
@@ -825,43 +828,50 @@
       <option name="project" value="LOCAL" />
       <updated>1520175632209</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Added P5 // Unit Testing EX">
+      <created>1520276472975</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1520276472975</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_05_sharedObject - 2018.03.05 at 20h 31m 14s.xml">
-      <configuration name="_05_sharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_06_armageDOM - 2018.03.05 at 22h 44m 21s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_05_sharedObject - 2018.03.05 at 20h 35m 08s.xml">
-      <configuration name="_05_sharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_06_armageDOM - 2018.03.05 at 22h 45m 22s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_05_sharedObject - 2018.03.05 at 20h 35m 33s.xml">
-      <configuration name="_05_sharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_06_armageDOM - 2018.03.05 at 22h 48m 44s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_05_sharedObject - 2018.03.05 at 20h 35m 53s.xml">
-      <configuration name="_05_sharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_06_armageDOM - 2018.03.05 at 22h 51m 16s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_05_sharedObject - 2018.03.05 at 20h 42m 10s.xml">
-      <configuration name="_05_sharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_06_armageDOM - 2018.03.05 at 22h 56m 01s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_05_sharedObject - 2018.03.05 at 20h 43m 46s.xml">
-      <configuration name="_05_sharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_06_armageDOM - 2018.03.05 at 22h 56m 12s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_05_sharedObject - 2018.03.05 at 20h 48m 56s.xml">
-      <configuration name="_05_sharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_06_armageDOM - 2018.03.05 at 23h 03m 55s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_05_sharedObject - 2018.03.05 at 20h 51m 41s.xml">
-      <configuration name="_05_sharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_06_armageDOM - 2018.03.05 at 23h 09m 35s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_05_sharedObject - 2018.03.05 at 20h 52m 50s.xml">
-      <configuration name="_05_sharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_06_armageDOM - 2018.03.05 at 23h 10m 55s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="_05_sharedObject - 2018.03.05 at 20h 53m 12s.xml">
-      <configuration name="_05_sharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="_06_armageDOM - 2018.03.06 at 00h 01m 10s.xml">
+      <configuration name="_06_armageDOM" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="558982000" />
+    <option name="totallyTimeSpent" value="566902000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -876,12 +886,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23413897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24697885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="91" width="1182" height="544" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.031096563" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07364976" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.027823241" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -903,7 +913,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added p4 / jQuery EX" />
     <MESSAGE value="Added p5 / jQuery EX" />
     <MESSAGE value="Added p3 &quot;Book generator&quot; update/ jQuery EX&#10;//to kind of resolving the problem - how it works by the requirements and second how the Judge want it" />
     <MESSAGE value="Added P6 &quot;Calendar&quot;//jQuery Ex" />
@@ -928,7 +937,8 @@
     <MESSAGE value="Added P2 // Unit Testing EX" />
     <MESSAGE value="Added P3 // Unit Testing EX" />
     <MESSAGE value="Added P4 // Unit Testing EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P4 // Unit Testing EX" />
+    <MESSAGE value="Added P5 // Unit Testing EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P5 // Unit Testing EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -986,20 +996,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_06_advancedFunctionsLAB/_04_maxElement/maxElement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_06_advancedFunctionsLAB/_05_nextArticle/next-article.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher/monkeyPatcher.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-408">
@@ -1287,6 +1283,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="99" column="42" lean-forward="true" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
+          <folding>
+            <marker date="1520276456570" expanded="true" signature="238:358" ph="..." />
+            <marker date="1520276456570" expanded="true" signature="261:350" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_11_unitTestingEX/_05_sharedObject/shared-object.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1295,13 +1302,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js">
+    <entry file="file://$PROJECT_DIR$/_11_unitTestingEX/_06_armageDOM/armagedom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
           <folding>
-            <marker date="1520276456570" expanded="true" signature="238:358" ph="..." />
-            <marker date="1520276456570" expanded="true" signature="261:350" ph="..." />
+            <element signature="e#276#665#0" expanded="false" />
+            <marker date="1520287290691" expanded="true" signature="341:623" ph="..." />
+            <marker date="1520287290691" expanded="true" signature="373:417" ph="..." />
+            <marker date="1520287290691" expanded="true" signature="442:478" ph="..." />
+            <marker date="1520287290691" expanded="true" signature="503:616" ph="..." />
           </folding>
         </state>
       </provider>
