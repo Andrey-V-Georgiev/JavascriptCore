@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_13_jsClassesEX/_05_extensibleClass/extensibleClass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_13_jsClassesEX/_06_sortedList/sortedList.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="extensibleClass.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_05_extensibleClass/extensibleClass.js">
+      <file leaf-file-name="sortedList.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_06_sortedList/sortedList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="294">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_05_jQueryEX/_07_wikiParser/wiki-parser.html" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_07_wikiParser/wiki-parser.js" />
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_01_sortArray/sortArray.js" />
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo/test.js" />
@@ -95,6 +94,7 @@
         <option value="$PROJECT_DIR$/_13_jsClassesEX/_03_unity/unity.js" />
         <option value="$PROJECT_DIR$/_13_jsClassesEX/_04_lengthLimit/lengthLimit.js" />
         <option value="$PROJECT_DIR$/_13_jsClassesEX/_05_extensibleClass/extensibleClass.js" />
+        <option value="$PROJECT_DIR$/_13_jsClassesEX/_06_sortedList/sortedList.js" />
       </list>
     </option>
   </component>
@@ -172,6 +172,12 @@
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_13_jsClassesEX" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_13_jsClassesEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_06_sortedList" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -216,12 +222,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.extensibleClass.js">
+  <component name="RunManager" selected="Node.js.sortedList.js">
     <configuration name="extensibleClass.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="extensibleClass.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_05_extensibleClass" />
     <configuration name="formValidation" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_04_formValidation" />
     <configuration name="lengthLimit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="lengthLimit.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_04_lengthLimit" />
+    <configuration name="sortedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sortedList.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_06_sortedList" />
     <configuration name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_03_unity" />
-    <configuration name="tickets.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="tickets.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_02_tickets" />
     <configuration name="unity.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="unity.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_03_unity" />
     <configuration name="_05_sharedObject" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -314,19 +320,19 @@
       <item index="5" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="6" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
       <item index="7" class="java.lang.String" itemvalue="Node.js.formValidation" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.tickets.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-      <item index="10" class="java.lang.String" itemvalue="Node.js.unity.js" />
-      <item index="11" class="java.lang.String" itemvalue="Node.js.lengthLimit.js" />
-      <item index="12" class="java.lang.String" itemvalue="Node.js.extensibleClass.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.unity.js" />
+      <item index="10" class="java.lang.String" itemvalue="Node.js.lengthLimit.js" />
+      <item index="11" class="java.lang.String" itemvalue="Node.js.extensibleClass.js" />
+      <item index="12" class="java.lang.String" itemvalue="Node.js.sortedList.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.extensibleClass.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.lengthLimit.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.unity.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.tickets.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.sortedList.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.extensibleClass.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.lengthLimit.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.unity.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -444,14 +450,7 @@
       <workItem from="1520291088982" duration="2359000" />
       <workItem from="1520347051417" duration="1518000" />
       <workItem from="1520350928421" duration="9799000" />
-      <workItem from="1520370617534" duration="1586000" />
-    </task>
-    <task id="LOCAL-00038" summary="Added P4 / JS Classes LAB">
-      <created>1517596497772</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1517596497772</updated>
+      <workItem from="1520370617534" duration="3821000" />
     </task>
     <task id="LOCAL-00039" summary="Added P5 / JS Classes LAB">
       <created>1517597681226</created>
@@ -789,7 +788,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520357608474</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Added P5 // JS Classes EX">
+      <created>1520372219581</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1520372219582</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -825,7 +831,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="584956000" />
+    <option name="totallyTimeSpent" value="587191000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -867,7 +873,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P2 // Advanced functions EX" />
     <MESSAGE value="Added P3 // Advanced functions EX" />
     <MESSAGE value="Added P4 // Advanced functions EX" />
     <MESSAGE value="Added P5 // Advanced functions EX" />
@@ -892,7 +897,8 @@
     <MESSAGE value="Added P2 // JS Classes EX" />
     <MESSAGE value="Added P3 // JS Classes EX" />
     <MESSAGE value="Added P4 // JS Classes EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P4 // JS Classes EX" />
+    <MESSAGE value="Added P5 // JS Classes EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P5 // JS Classes EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -950,13 +956,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_10_unitTestingLAB/_02_playingCards/playingCards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_07_domTraversal/testRecursion.js" />
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_08_bugTracer/test.js" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
@@ -1235,20 +1234,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_05_stringExtension/stringExtension.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-863">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_07_domTraversal/domTraversal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -1271,10 +1256,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_05_stringExtension/stringExtension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/sortedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_05_extensibleClass/extensibleClass.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_06_sortedList/sortedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
