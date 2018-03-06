@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_13_jsClassesEX/_02_tickets/tickets.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_13_jsClassesEX/_03_unity/unity.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_14_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js" afterPath="$PROJECT_DIR$/_14_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,12 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tickets.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_02_tickets/tickets.js">
+    <leaf>
+      <file leaf-file-name="unity.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_03_unity/unity.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            <state relative-caret-position="294">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -44,9 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_05_jQueryEX/_06_calendar/calendar.js" />
-        <option value="$PROJECT_DIR$/_05_jQueryEX/_07_wikiParser/test.js" />
-        <option value="$PROJECT_DIR$/_05_jQueryEX/wikiParser/wiki-parser.html" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/wikiParser/test.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/wikiParser/wiki-parser.js" />
         <option value="$PROJECT_DIR$/_05_jQueryEX/_07_wikiParser/wiki-parser.html" />
@@ -95,6 +93,9 @@
         <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js" />
         <option value="$PROJECT_DIR$/_13_jsClassesEX/_01_dataClass/dataClass.js" />
         <option value="$PROJECT_DIR$/_13_jsClassesEX/_02_tickets/tickets.js" />
+        <option value="$PROJECT_DIR$/_14_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js" />
+        <option value="$PROJECT_DIR$/_13_jsClassesEX/_03_unity/test.js" />
+        <option value="$PROJECT_DIR$/_13_jsClassesEX/_03_unity/unity.js" />
       </list>
     </option>
   </component>
@@ -159,23 +160,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_07_advancedFunctionsEX" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_07_advancedFunctionsEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_01_sortArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
@@ -188,12 +180,16 @@
               <item name="_13_jsClassesEX" type="462c0819:PsiDirectoryNode" />
               <item name="_02_tickets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="_13_jsClassesEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_unity" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,11 +229,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.tickets.js">
+  <component name="RunManager" selected="Node.js.unity.js">
     <configuration name="formValidation" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_04_formValidation" />
     <configuration name="getPersons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="getPersons.js" working-dir="$PROJECT_DIR$/_12_jsClassesLAB/_03_getPersons" />
-    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_11_unitTestingEX/_04_mathEnforcer" />
+    <configuration name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_03_unity" />
     <configuration name="tickets.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="tickets.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_02_tickets" />
+    <configuration name="unity.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="unity.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_03_unity" />
     <configuration name="_05_sharedObject" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -320,17 +317,6 @@
       <test-directory>$PROJECT_DIR$/test/_10_unitTestingLAB.test</test-directory>
       <recursive>false</recursive>
     </configuration>
-    <configuration name="test\_11_unitTestingEX.test\_02_evenOrOdd.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/test/_11_unitTestingEX.test/_02_evenOrOdd.js</test-file>
-    </configuration>
     <configuration name="test\_11_unitTestingEX.test\_04_mathEnforcer.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -351,19 +337,19 @@
       <item index="5" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="6" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
       <item index="7" class="java.lang.String" itemvalue="Node.js.formValidation" />
-      <item index="8" class="java.lang.String" itemvalue="Mocha.test\_11_unitTestingEX.test\_02_evenOrOdd.js" />
-      <item index="9" class="java.lang.String" itemvalue="Mocha.test\_11_unitTestingEX.test\_04_mathEnforcer.js" />
-      <item index="10" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="11" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
-      <item index="12" class="java.lang.String" itemvalue="Node.js.tickets.js" />
+      <item index="8" class="java.lang.String" itemvalue="Mocha.test\_11_unitTestingEX.test\_04_mathEnforcer.js" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
+      <item index="10" class="java.lang.String" itemvalue="Node.js.tickets.js" />
+      <item index="11" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="12" class="java.lang.String" itemvalue="Node.js.unity.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.tickets.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
-        <item index="2" class="java.lang.String" itemvalue="Mocha.test\_11_unitTestingEX.test\_04_mathEnforcer.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="4" class="java.lang.String" itemvalue="Mocha.test\_11_unitTestingEX.test\_02_evenOrOdd.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.unity.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.tickets.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.getPersons.js" />
+        <item index="4" class="java.lang.String" itemvalue="Mocha.test\_11_unitTestingEX.test\_04_mathEnforcer.js" />
       </list>
     </recent_temporary>
   </component>
@@ -478,14 +464,9 @@
       <workItem from="1520243525193" duration="86000" />
       <workItem from="1520243614318" duration="501000" />
       <workItem from="1520267986307" duration="16716000" />
-      <workItem from="1520291088982" duration="2312000" />
-    </task>
-    <task id="LOCAL-00035" summary="Added P1 / JS Classes LAB">
-      <created>1517591134998</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1517591134998</updated>
+      <workItem from="1520291088982" duration="2359000" />
+      <workItem from="1520347051417" duration="1518000" />
+      <workItem from="1520350928421" duration="1838000" />
     </task>
     <task id="LOCAL-00036" summary="Added P2 / JS Classes LAB">
       <created>1517591936256</created>
@@ -823,7 +804,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520288325978</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Added P2 // JS Classes EX">
+      <created>1520293491652</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1520293491652</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -859,7 +847,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="572006000" />
+    <option name="totallyTimeSpent" value="575409000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -874,11 +862,11 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20148699" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20446096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.090016365" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09165303" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.027823241" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -901,7 +889,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P6 &quot;Calendar&quot;//jQuery Ex" />
     <MESSAGE value="Added P7 &quot;Wiki parser&quot;//jQuery Ex" />
     <MESSAGE value="Added P1 // Advanced functions EX" />
     <MESSAGE value="Added P2 // Advanced functions EX" />
@@ -926,7 +913,8 @@
     <MESSAGE value="Added P5 // Unit Testing EX" />
     <MESSAGE value="Added P6 // Unit Testing EX" />
     <MESSAGE value="Added P1 // JS Classes EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P1 // JS Classes EX" />
+    <MESSAGE value="Added P2 // JS Classes EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P2 // JS Classes EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -984,35 +972,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_03_carFactory/carFactory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_02_constructionCrew/constructionCrew.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_01_arrayExtension/arrayExtension.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_06_sortedList/test.js" />
-    <entry file="file://$PROJECT_DIR$/_09_objectCompositionEX/_04_extensibleObject/extensibleObject.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_03_bookGenerator/book-generator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -1178,55 +1137,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_11_unitTestingEX/_05_sharedObject/shared-object.html" />
-    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_01_rectangleClass/rectangle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_03_getPersons/getPersons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_04_circle/circle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_05_pointDistance/pointDistance.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_06_cards/cards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_14_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_02_personClass/person.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -1255,18 +1165,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_01_dataClass/dataClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo/argumentInfo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1274,7 +1176,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1282,7 +1183,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1290,7 +1190,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1298,7 +1197,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2688">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1306,14 +1204,117 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_14_prototypeChainLAB/_01_personAndTeacher/personAndTeacher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_14_prototypeChainLAB/_02_inheritingToString/inheritingToString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_14_prototypeChainLAB/_03_extendingPrototype/extendingPrototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_14_prototypeChainLAB/_04_classHierarchy/classHierarchy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_01_dataClass/dataClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_02_tickets/tickets.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        <state relative-caret-position="126">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_01_rectangleClass/rectangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_03_getPersons/getPersons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_02_personClass/person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_04_circle/circle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_05_pointDistance/pointDistance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_jsClassesLAB/_06_cards/cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_03_unity/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_03_unity/unity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>

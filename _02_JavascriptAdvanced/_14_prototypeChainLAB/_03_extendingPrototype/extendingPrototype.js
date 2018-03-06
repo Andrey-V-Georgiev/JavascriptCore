@@ -29,12 +29,14 @@ class Student extends Person {
     }
 }
 
-function extendPrototype(baseClass) {
-    baseClass.prototype.model = 'Human';
-    baseClass.prototype.toSpeciesString = function () {
-        return  `I am a ${this.model}. ${this.toString()}`
+function extendPrototype(Class) {
+    Class.prototype.species = "Human";
+    Class.prototype.toSpeciesString = function () {
+        return `I am a ${this.species}. ${this.toString()}`;
     }
 }
+
+
 
 
 
