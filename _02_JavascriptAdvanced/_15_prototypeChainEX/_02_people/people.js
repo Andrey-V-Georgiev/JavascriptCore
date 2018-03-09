@@ -1,7 +1,7 @@
 function result() {
     class Employee {
         constructor(name, age) {
-            if (new.target === 'Emplyee') {
+            if (new.target === Employee) {
                 throw new Error('Cannot instantiate directly.');
             }
             this.name = name;
@@ -58,10 +58,12 @@ function result() {
 }
 
 result = result();
+// let employee = new result.Employee('Pesho', 35);
+// console.log(employee);
 
-var guy1 = new result.Junior('pesho', 20);
-var guy2 = new result.Senior('gosho', 21);
-var guy3 = new result.Manager('ivan', 22);
+let guy1 = new result.Junior('pesho', 20);
+let guy2 = new result.Senior('gosho', 21);
+let guy3 = new result.Manager('ivan', 22);
 console.log(guy1);
 console.log(guy2);
 console.log(guy3);
