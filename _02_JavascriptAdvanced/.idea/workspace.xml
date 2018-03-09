@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_15_prototypeChainEX/_01_balloons/balloons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_15_prototypeChainEX/_02_people/people.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="balloons.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_01_balloons/balloons.js">
+      <file leaf-file-name="people.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_02_people/people.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+            <state relative-caret-position="252">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -44,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/test.js" />
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_06_breakfastRobot/breakfastRobot.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_01_arrayExtension/arrayExtension.js" />
         <option value="$PROJECT_DIR$/_07_advancedFunctionsEX/_07_monkeyPatcher/test.js" />
@@ -95,6 +94,7 @@
         <option value="$PROJECT_DIR$/_13_jsClassesEX/_09_customForm/form2.js" />
         <option value="$PROJECT_DIR$/_13_jsClassesEX/_09_customForm/form.js" />
         <option value="$PROJECT_DIR$/_15_prototypeChainEX/_01_balloons/balloons.js" />
+        <option value="$PROJECT_DIR$/_15_prototypeChainEX/_02_people/people.js" />
       </list>
     </option>
   </component>
@@ -114,8 +114,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="665" />
-    <option name="width" value="701" />
+    <option name="x" value="625" />
+    <option name="width" value="736" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -221,12 +221,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.balloons.js">
+  <component name="RunManager" selected="Node.js.people.js">
     <configuration name="balloons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="balloons.js" working-dir="$PROJECT_DIR$/_15_prototypeChainEX/_01_balloons" />
     <configuration name="formValidation" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_04_formValidation" />
     <configuration name="form.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="form.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_09_customForm" />
     <configuration name="instanceValidation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="instanceValidation.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_07_instanceValidation" />
-    <configuration name="sortedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sortedList.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_06_sortedList" />
+    <configuration name="people.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="people.js" working-dir="$PROJECT_DIR$/_15_prototypeChainEX/_02_people" />
     <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_13_jsClassesEX/_07_instanceValidation" />
     <configuration name="_05_sharedObject" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -319,19 +319,19 @@
       <item index="5" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="6" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
       <item index="7" class="java.lang.String" itemvalue="Node.js.formValidation" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.sortedList.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.instanceValidation.js" />
-      <item index="10" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="11" class="java.lang.String" itemvalue="Node.js.form.js" />
-      <item index="12" class="java.lang.String" itemvalue="Node.js.balloons.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.instanceValidation.js" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="10" class="java.lang.String" itemvalue="Node.js.form.js" />
+      <item index="11" class="java.lang.String" itemvalue="Node.js.balloons.js" />
+      <item index="12" class="java.lang.String" itemvalue="Node.js.people.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.balloons.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.form.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.instanceValidation.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.sortedList.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.people.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.balloons.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.form.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.instanceValidation.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -458,14 +458,7 @@
       <workItem from="1520519742376" duration="9124000" />
       <workItem from="1520534478884" duration="4740000" />
       <workItem from="1520588822641" duration="275000" />
-      <workItem from="1520589377154" duration="2948000" />
-    </task>
-    <task id="LOCAL-00043" summary="P2 update/ Prototype Chain LAB">
-      <created>1517720019856</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1517720019856</updated>
+      <workItem from="1520589377154" duration="7536000" />
     </task>
     <task id="LOCAL-00044" summary=" _01_documentObjectModel LAB update">
       <created>1518554360459</created>
@@ -803,7 +796,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520539302794</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Added P1 // Prototype Chain EX">
+      <created>1520593155707</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1520593155708</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -839,7 +839,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="628398000" />
+    <option name="totallyTimeSpent" value="632986000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -854,7 +854,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20594795" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20966543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
@@ -881,7 +881,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P7 // Advanced functions EX" />
     <MESSAGE value="Added P1 // Object composition EX" />
     <MESSAGE value="Added P7 &quot;Monkey Patcher&quot; update by .call() function// Advanced Functions EX" />
     <MESSAGE value="Added P2 // Object composition EX" />
@@ -906,7 +905,8 @@
     <MESSAGE value="Added P7 // JS Classes EX" />
     <MESSAGE value="Added P8 // JS Classes EX" />
     <MESSAGE value="Added P9 // JS Classes EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P9 // JS Classes EX" />
+    <MESSAGE value="Added P1 // Prototype Chain EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P1 // Prototype Chain EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -964,13 +964,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_02_evenOrOdd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_03_charLookup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -1232,6 +1225,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1282,8 +1276,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_01_balloons/balloons.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        <state relative-caret-position="294">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_02_people/people.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding />
         </state>
       </provider>
