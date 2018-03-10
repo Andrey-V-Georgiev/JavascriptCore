@@ -1,33 +1,43 @@
 function createComputerHierarchy() {
 
-    class Keyboard {
+    class Manufacturable{
+        constructor(manufacturer){
+            if(new.target === Manufacturable){
+                throw new Error('Cannot instantiate an abstract class.');
+            }
+            this.manufacturer = manufacturer;
+        }
+    }
+
+    class Keyboard extends Manufacturable{
         constructor(manufacturer, responseTime) {
+            super(manufacturer);
             this.manufacturer = manufacturer;
             this.responseTime = responseTime;
         }
     }
 
-    class Monitor {
+    class Monitor extends Manufacturable{
         constructor(manufacturer, width, height) {
-            this.manufacturer = manufacturer;
+            super(manufacturer);
             this.width = Number(width);
             this.height = Number(height);
         }
     }
 
-    class Battery {
+    class Battery extends Manufacturable{
         constructor(manufacturer, expectedLife) {
-            this.manufacturer = manufacturer;
+            super(manufacturer);
             this.expectedLife = Number(expectedLife);
         }
     }
 
-    class Computer {
+    class Computer extends Manufacturable{
         constructor(manufacturer, processorSpeed, ram, hardDiskSpace) {
             if (new.target === Computer) {
                 throw new Error;
             }
-            this.manufacturer = manufacturer;
+            super(manufacturer);
             this.processorSpeed = Number(processorSpeed);
             this.ram = Number(ram);
             this.hardDiskSpace = Number(hardDiskSpace);
@@ -69,7 +79,6 @@ function createComputerHierarchy() {
         set keyboard(value) {
             if (value instanceof Keyboard) {
                 this._keyboard = value;
-                ;
             } else {
                 throw new TypeError;
             }
