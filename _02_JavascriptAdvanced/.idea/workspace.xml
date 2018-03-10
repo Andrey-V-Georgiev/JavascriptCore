@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_15_prototypeChainEX/_05_cSharpConsole/cSharpConsole.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/_15_prototypeChainEX/_05_cSharpConsole.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_15_prototypeChainEX/_06_computer/computer.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,21 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cSharpConsole.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_05_cSharpConsole/cSharpConsole.js">
+      <file leaf-file-name="computer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_06_computer/computer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="28" column="79" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="79" />
+            <state relative-caret-position="147">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_05_cSharpConsole.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/_15_prototypeChainEX/_05_cSharpConsole.js">
+      <file leaf-file-name="elemelons.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_04_elemelons/elemelons.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="420">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -55,8 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_09_objectCompositionEX/_02_constructionCrew/constructionCrew.js" />
-        <option value="$PROJECT_DIR$/_09_objectCompositionEX/_03_carFactory/carFactory.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_04_extensibleObject/test.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_04_extensibleObject/extensibleObject.js" />
         <option value="$PROJECT_DIR$/_09_objectCompositionEX/_05_stringExtension/test.js" />
@@ -106,6 +103,8 @@
         <option value="$PROJECT_DIR$/_15_prototypeChainEX/_04_elemelons/elemelons.js" />
         <option value="$PROJECT_DIR$/_15_prototypeChainEX/_05_cSharpConsole/cSharpConsole.js" />
         <option value="$PROJECT_DIR$/test/_15_prototypeChainEX/_05_cSharpConsole.js" />
+        <option value="$PROJECT_DIR$/_11_unitTestingEX/_06_computer/computer.js" />
+        <option value="$PROJECT_DIR$/_15_prototypeChainEX/_06_computer/computer.js" />
       </list>
     </option>
   </component>
@@ -169,6 +168,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,42 +180,18 @@
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_unitTestingEX" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_unitTestingEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_05_sharedObject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_15_prototypeChainEX" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_unitTestingEX.test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="_15_prototypeChainEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_elemelons" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,15 +207,15 @@
     <property name="last.edited.regexp" value="Sample Text" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced" />
-      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_15_prototypeChainEX" />
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_05_jQueryEX\_04_formValidation" />
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_09_modulesLAB" />
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\test\_06_unitTestingLAB.test" />
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB\_01_textFromList" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced" />
       <recent name="C:\Projects\JavascriptCore\_02_JavascriptAdvanced\_03_jQueryLAB" />
     </key>
   </component>
@@ -508,14 +485,10 @@
       <workItem from="1520630703715" duration="3556000" />
       <workItem from="1520673302443" duration="232000" />
       <workItem from="1520673981438" duration="870000" />
-      <workItem from="1520689512690" duration="6515000" />
-    </task>
-    <task id="LOCAL-00047" summary="Added p3 / DOM manipulation EX">
-      <created>1518633324421</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1518633324421</updated>
+      <workItem from="1520689512690" duration="7778000" />
+      <workItem from="1520703134418" duration="256000" />
+      <workItem from="1520703473591" duration="38000" />
+      <workItem from="1520704550720" duration="3558000" />
     </task>
     <task id="LOCAL-00048" summary="Added p4 / DOM manipulation EX">
       <created>1518638422065</created>
@@ -853,7 +826,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520634243736</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Added P5 // Prototype Chain EX">
+      <created>1520696108099</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1520696108099</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -889,7 +869,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="657453000" />
+    <option name="totallyTimeSpent" value="662568000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -909,7 +889,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07528642" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07528642" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.027823241" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -931,7 +911,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P3 // Object composition EX" />
     <MESSAGE value="Added P4 // Object composition EX" />
     <MESSAGE value="Added P5, P6 // Object composition EX" />
     <MESSAGE value="Added P7 // Object composition EX" />
@@ -956,7 +935,8 @@
     <MESSAGE value="Added P2 // Prototype Chain EX" />
     <MESSAGE value="Added P3 // Prototype Chain EX" />
     <MESSAGE value="Added P4 // Prototype Chain EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P4 // Prototype Chain EX" />
+    <MESSAGE value="Added P5 // Prototype Chain EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P5 // Prototype Chain EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1014,13 +994,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_07_advancedFunctionsEX/_02_argumentInfo/argumentInfo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1299,18 +1272,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_04_elemelons/elemelons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_11_unitTestingEX/_05_sharedObject/shared-object.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-51">
           <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1318,7 +1283,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1326,25 +1290,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-168">
           <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <marker date="1520276456570" expanded="true" signature="238:358" ph="..." />
-            <marker date="1520276456570" expanded="true" signature="261:350" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_05_cSharpConsole/cSharpConsole.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="28" column="79" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="79" />
-          <folding />
+        <state relative-caret-position="746">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/_15_prototypeChainEX/_05_cSharpConsole.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_04_elemelons/elemelons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_06_computer/computer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding />
         </state>
       </provider>
