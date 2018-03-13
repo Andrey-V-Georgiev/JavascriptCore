@@ -1,5 +1,5 @@
 function onClick(selector){
-    $(selector).on('click', summary() );
+    $(selector).on('click', () => {summary()});
 
     function summary() {
         let summaryText = $('#content strong').text();
