@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_16_examPreparation/prep_23.July.2017/p1/print-select.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_16_examPreparation/prep_23.July.2017/p2/sumator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/_16_examPreparation/sumator.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_16_examPreparation/prep1/p1/summary.html" afterPath="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p1/summary.html" />
-      <change beforePath="$PROJECT_DIR$/_16_examPreparation/prep1/p1/summary.js" afterPath="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p1/summary.js" />
-      <change beforePath="$PROJECT_DIR$/_16_examPreparation/prep1/p2/sortedList.js" afterPath="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p2/sortedList.js" />
-      <change beforePath="$PROJECT_DIR$/_16_examPreparation/prep1/p3/stormWatcher.js" afterPath="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p3/stormWatcher.js" />
-      <change beforePath="$PROJECT_DIR$/test/_16_examPreparation/prep1_sortedList.js" afterPath="$PROJECT_DIR$/test/_16_examPreparation/prep1_sortedList.js" />
+      <change beforePath="$PROJECT_DIR$/test/_16_examPreparation/prep1_sortedList.js" afterPath="$PROJECT_DIR$/test/_16_examPreparation/sortedList.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,15 +19,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="print-select.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_23.July.2017/p1/print-select.html">
+      <file leaf-file-name="sumator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_23.July.2017/p2/sumator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="71" column="22" lean-forward="true" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
-              <folding>
-                <element signature="e#949#961#1" expanded="true" />
-                <element signature="e#1019#1030#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sumator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/_16_examPreparation/sumator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,8 +45,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,9 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/_10_unitTestingLAB.test/_05_checkForSymmetry.test.js" />
-        <option value="$PROJECT_DIR$/_11_unitTestingEX/_01_requestValidator/requestValidator.js" />
-        <option value="$PROJECT_DIR$/_11_unitTestingEX/_02_evenOrOdd/evenOrOdd.js" />
         <option value="$PROJECT_DIR$/_11_unitTestingEX/_03_charLookup/charLookup.js" />
         <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_02_evenOrOdd.js" />
         <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_03_charLookup.js" />
@@ -103,6 +104,9 @@
         <option value="$PROJECT_DIR$/_16_examPreparation/prep1/p3/stormWatcher.js" />
         <option value="$PROJECT_DIR$/_16_examPreparation/prep1/p4/titlebar.js" />
         <option value="$PROJECT_DIR$/_16_examPreparation/prep_23.July.2017/p1/print-select.html" />
+        <option value="$PROJECT_DIR$/_16_examPreparation/prep_23.July.2017/p2/sumator.html" />
+        <option value="$PROJECT_DIR$/_16_examPreparation/prep_23.July.2017/p2/sumator.js" />
+        <option value="$PROJECT_DIR$/test/_16_examPreparation/sumator.js" />
       </list>
     </option>
   </component>
@@ -189,7 +193,18 @@
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_16_examPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="prep_23.July.2017" type="462c0819:PsiDirectoryNode" />
-              <item name="p1" type="462c0819:PsiDirectoryNode" />
+              <item name="p2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="_16_examPreparation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,7 +219,7 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/_16_examPreparation/p1_sortedList.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/_16_examPreparation/sumator.js" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -238,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.stormWatcher.js">
+  <component name="RunManager" selected="Mocha.sumator">
     <configuration name="formValidation" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_04_formValidation" />
     <configuration name="solution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016" />
     <configuration name="sortedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p2/sortedList.js" working-dir="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p2" />
@@ -349,22 +364,34 @@
       <test-directory>$PROJECT_DIR$/test/_10_unitTestingLAB.test</test-directory>
       <recursive>false</recursive>
     </configuration>
-    <list size="15">
-      <item index="0" class="java.lang.String" itemvalue="Mocha.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Mocha._05_cSharpConsole" />
-      <item index="2" class="java.lang.String" itemvalue="Mocha._11_unitTestingEX" />
-      <item index="3" class="java.lang.String" itemvalue="Mocha._05_sharedObject" />
-      <item index="4" class="java.lang.String" itemvalue="Mocha._06_armageDOM" />
-      <item index="5" class="java.lang.String" itemvalue="Mocha.rgbToHex.test" />
-      <item index="6" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
-      <item index="7" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
-      <item index="8" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.formValidation" />
-      <item index="10" class="java.lang.String" itemvalue="Node.js.summary.js" />
-      <item index="11" class="java.lang.String" itemvalue="Node.js.solution.js" />
-      <item index="12" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="13" class="java.lang.String" itemvalue="Node.js.sortedList.js" />
-      <item index="14" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
+    <configuration name="sumator" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/_16_examPreparation/sumator.js</test-file>
+    </configuration>
+    <list size="16">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.sumator" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.Unnamed" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha._05_cSharpConsole" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha._11_unitTestingEX" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha._05_sharedObject" />
+      <item index="5" class="java.lang.String" itemvalue="Mocha._06_armageDOM" />
+      <item index="6" class="java.lang.String" itemvalue="Mocha.rgbToHex.test" />
+      <item index="7" class="java.lang.String" itemvalue="Mocha.sumNumbers.test" />
+      <item index="8" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
+      <item index="9" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
+      <item index="10" class="java.lang.String" itemvalue="Node.js.formValidation" />
+      <item index="11" class="java.lang.String" itemvalue="Node.js.summary.js" />
+      <item index="12" class="java.lang.String" itemvalue="Node.js.solution.js" />
+      <item index="13" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="14" class="java.lang.String" itemvalue="Node.js.sortedList.js" />
+      <item index="15" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -517,14 +544,7 @@
       <workItem from="1520961980888" duration="11966000" />
       <workItem from="1520980345702" duration="1606000" />
       <workItem from="1520982982560" duration="632000" />
-      <workItem from="1521019092941" duration="4031000" />
-    </task>
-    <task id="LOCAL-00053" summary="Added p2 / jQuery EX">
-      <created>1518934365206</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1518934365222</updated>
+      <workItem from="1521019092941" duration="8456000" />
     </task>
     <task id="LOCAL-00054" summary="Added p3 / jQuery EX">
       <created>1518949508541</created>
@@ -862,43 +882,50 @@
       <option name="project" value="LOCAL" />
       <updated>1520973391936</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Added P1 // Prep exam from 23 July 2017">
+      <created>1521024103009</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1521024103009</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unnamed - 2018.03.13 at 20h 39m 28s.xml">
-      <configuration name="Unnamed" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="sumator - 2018.03.14 at 13h 50m 03s.xml">
+      <configuration name="sumator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.13 at 20h 39m 51s.xml">
-      <configuration name="Unnamed" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="sumator - 2018.03.14 at 13h 51m 51s.xml">
+      <configuration name="sumator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.13 at 20h 43m 04s.xml">
-      <configuration name="Unnamed" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="sumator - 2018.03.14 at 13h 52m 24s.xml">
+      <configuration name="sumator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.13 at 20h 45m 05s.xml">
-      <configuration name="Unnamed" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="sumator - 2018.03.14 at 13h 52m 47s.xml">
+      <configuration name="sumator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.13 at 20h 45m 19s.xml">
-      <configuration name="Unnamed" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="sumator - 2018.03.14 at 13h 54m 26s.xml">
+      <configuration name="sumator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.13 at 20h 49m 18s.xml">
-      <configuration name="Unnamed" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="sumator - 2018.03.14 at 13h 54m 51s.xml">
+      <configuration name="sumator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.13 at 21h 12m 28s.xml">
-      <configuration name="Unnamed" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="sumator - 2018.03.14 at 13h 55m 04s.xml">
+      <configuration name="sumator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.13 at 21h 16m 03s.xml">
-      <configuration name="Unnamed" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="sumator - 2018.03.14 at 14h 00m 26s.xml">
+      <configuration name="sumator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.13 at 21h 47m 30s.xml">
-      <configuration name="Unnamed" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="sumator - 2018.03.14 at 14h 00m 51s.xml">
+      <configuration name="sumator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.13 at 21h 49m 30s.xml">
-      <configuration name="Unnamed" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="sumator - 2018.03.14 at 14h 01m 03s.xml">
+      <configuration name="sumator" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="704353000" />
+    <option name="totallyTimeSpent" value="708778000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -919,7 +946,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="93" y="127" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2618658" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39443535" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -960,7 +987,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P1 // Unit Testing EX" />
     <MESSAGE value="Added P2 // Unit Testing EX" />
     <MESSAGE value="Added P3 // Unit Testing EX" />
     <MESSAGE value="Added P4 // Unit Testing EX" />
@@ -985,11 +1011,12 @@
     <MESSAGE value="Added P1 // Prep1" />
     <MESSAGE value="Added P2 // Prep1" />
     <MESSAGE value="Added P3 // Prep1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P3 // Prep1" />
+    <MESSAGE value="Added P1 // Prep exam from 23 July 2017" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P1 // Prep exam from 23 July 2017" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="120" />
+      <option name="time" value="121" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1043,15 +1070,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_09_customForm/textbox.js" />
-    <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_09_customForm/textbox.html" />
-    <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_08_viewModel/view-model.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_05_jQueryEX/_01_incrementCounter/incrementCounter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1266,20 +1284,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/_16_examPreparation/prep1_sortedList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p2/sortedList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_13_jsClassesEX/_04_lengthLimit/lengthLimit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1353,6 +1357,46 @@
             <element signature="e#949#961#1" expanded="true" />
             <element signature="e#1019#1030#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_23.July.2017/p2/sumator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p2/sortedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_16_examPreparation/sortedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_23.July.2017/p2/sumator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_16_examPreparation/sumator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
