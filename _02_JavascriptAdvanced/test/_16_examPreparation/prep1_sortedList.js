@@ -1,4 +1,4 @@
-let SortedList = require('../../_16_examPreparation/prep1/p2/sortedList');
+let SortedList = require('../../_16_examPreparation/prep_31.Oct.2016/p2/sortedList');
 let expect = require('chai').expect;
 
 describe('SortedList testing', () => {
