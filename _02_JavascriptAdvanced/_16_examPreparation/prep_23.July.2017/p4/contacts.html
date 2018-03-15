@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Contacts Builder</title>
+    <style>
+        article {
+            background: #EEE;
+            padding: 1px;
+            width: 250px;
+            margin: 1px;
+        }
+
+        .title {
+            background: #DDD;
+            padding: 5px;
+            font-weight: bold;
+        }
+
+        .title button {
+            float: right
+        }
+
+        .info {
+            margin: 5px;
+        }
+
+        .info span {
+            display: block;
+        }
+
+        .online {
+            background: #9E9;
+        }
+
+        .red {
+            background: #FF0000;
+        }
+
+        .green {
+            background: #008000;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="contacts.js"></script>
+</head>
+<body>
+<div id="main"></div>
+<script>
+    let contact = new Contact("Ivan", "Ivanov", "0888 123 456", "i.ivanov@gmail.com");
+    contact.render('main');
+    setTimeout(() => contact.online = true, 5000);
+    setTimeout(() => contact.online = false, 3000);
+    setTimeout(() => contact.online = true, 3000);
+    setTimeout(() => contact.online = false, 3000);
+    // setTimeout(() => contact.online = 1, 4000);
+    // setTimeout(() => contact.online = 2, 4000);
+    // setTimeout(() => contact.online = 3, 4000);
+    // setTimeout(() => contact.online = 4, 4000);
+    // setTimeout(() => contact.online = 5, 4000);
+    // setTimeout(() => contact.online = 6, 4000);
+</script>
+</body>
+</html>
+
+
