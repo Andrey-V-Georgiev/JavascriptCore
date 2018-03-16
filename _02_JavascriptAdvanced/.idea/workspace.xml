@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff624df-518c-49fe-9724-6c51599196bf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p2/string-builder.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/_16_examPreparation/string-builder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p3/repository.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/sortTable.html" afterPath="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p1/sortTable.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,24 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="string-builder.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p2/string-builder.js">
+      <file leaf-file-name="repository.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p3/repository.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="264">
+              <caret line="86" column="12" lean-forward="true" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="string-builder.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/_16_examPreparation/string-builder.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-              <folding>
-                <element signature="e#299#1586#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -58,8 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js" />
-        <option value="$PROJECT_DIR$/_11_unitTestingEX/_06_armageDOM/armagedom.js" />
         <option value="$PROJECT_DIR$/test/_11_unitTestingEX.test/_06_armageDOM.js" />
         <option value="$PROJECT_DIR$/_13_jsClassesEX/_01_dataClass/dataClass.js" />
         <option value="$PROJECT_DIR$/_13_jsClassesEX/_02_tickets/tickets.js" />
@@ -109,6 +93,8 @@
         <option value="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p2/string-builder.js" />
         <option value="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p2/test.js" />
         <option value="$PROJECT_DIR$/test/_16_examPreparation/string-builder.js" />
+        <option value="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p3/test.js" />
+        <option value="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p3/repository.js" />
       </list>
     </option>
   </component>
@@ -128,8 +114,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="410" />
-    <option name="width" value="963" />
+    <option name="x" value="646" />
+    <option name="width" value="727" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -172,8 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,17 +168,6 @@
             <path>
               <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_unitTestingEX" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_unitTestingEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_05_sharedObject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_16_examPreparation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -202,29 +175,13 @@
               <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="_16_examPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="prep_05.Sept.2017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="_16_examPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="prep_05.Sept.2017" type="462c0819:PsiDirectoryNode" />
-              <item name="p2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_02_JavascriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_02_JavascriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="_16_examPreparation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,13 +223,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.StringBuilder">
+  <component name="RunManager" selected="Node.js.repository.js">
     <configuration name="formValidation" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/_05_jQueryEX/_04_formValidation" />
-    <configuration name="sortedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p2/sortedList.js" working-dir="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p2" />
+    <configuration name="repository.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="repository.js" working-dir="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p3" />
     <configuration name="stormWatcher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p3/stormWatcher.js" working-dir="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p3" />
     <configuration name="task.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="task.js" working-dir="$PROJECT_DIR$/_16_examPreparation/prep_23.July.2017/p3" />
     <configuration name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p2" />
-    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_16_examPreparation/prep_31.Oct.2016/p2" />
+    <configuration name="test.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p3" />
     <configuration name="StringBuilder" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -424,19 +381,19 @@
       <item index="10" class="java.lang.String" itemvalue="Mocha.checkForSymmetry.test" />
       <item index="11" class="java.lang.String" itemvalue="Mocha.createCalculator.test" />
       <item index="12" class="java.lang.String" itemvalue="Node.js.formValidation" />
-      <item index="13" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="14" class="java.lang.String" itemvalue="Node.js.sortedList.js" />
-      <item index="15" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
-      <item index="16" class="java.lang.String" itemvalue="Node.js.task.js" />
-      <item index="17" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="13" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
+      <item index="14" class="java.lang.String" itemvalue="Node.js.task.js" />
+      <item index="15" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="16" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
+      <item index="17" class="java.lang.String" itemvalue="Node.js.repository.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.task.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.sortedList.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.repository.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.task.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
       </list>
     </recent_temporary>
   </component>
@@ -589,14 +546,8 @@
       <workItem from="1521138186867" duration="32000" />
       <workItem from="1521196656533" duration="3884000" />
       <workItem from="1521217836937" duration="377000" />
-      <workItem from="1521220926922" duration="6326000" />
-    </task>
-    <task id="LOCAL-00059" summary="Added P7 &quot;Wiki parser&quot;//jQuery Ex">
-      <created>1519337315656</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1519337315656</updated>
+      <workItem from="1521220926922" duration="8634000" />
+      <workItem from="1521232254211" duration="4978000" />
     </task>
     <task id="LOCAL-00060" summary="Added P1 // Advanced functions EX">
       <created>1519369824834</created>
@@ -934,7 +885,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521200687051</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Added P2 // Prep exam from 05 Sept 2017">
+      <created>1521227648294</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1521227648295</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -970,7 +928,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="747765000" />
+    <option name="totallyTimeSpent" value="755051000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -985,20 +943,20 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06042296" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20371747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="93" y="127" width="1182" height="544" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.006546645" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15711948" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39443535" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19639935" sideWeight="0.4941435" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25531915" sideWeight="0.4941435" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="93" y="127" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38328075" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1032,7 +990,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added P1 // JS Classes EX" />
     <MESSAGE value="Added P2 // JS Classes EX" />
     <MESSAGE value="Added P3 // JS Classes EX" />
     <MESSAGE value="Added P4 // JS Classes EX" />
@@ -1057,16 +1014,42 @@
     <MESSAGE value="Added P4 // Prep exam from 23 July 2017" />
     <MESSAGE value="Added P1 // Prep exam from 05 Sept 2017" />
     <MESSAGE value="Added P1 change to if/else // Prep exam from 05 Sept 2017" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P1 change to if/else // Prep exam from 05 Sept 2017" />
+    <MESSAGE value="Added P2 // Prep exam from 05 Sept 2017" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P2 // Prep exam from 05 Sept 2017" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="122" />
+      <option name="time" value="134" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this.data.get(id)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>id</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.props[k]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entity[k]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entity.k</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>this.elementType</expression-string>
         <language-id>JavaScript</language-id>
@@ -1087,48 +1070,9 @@
         <language-id>JavaScript</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>[...params]</expression-string>
-        <language-id>JavaScript</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>match[0]</expression-string>
-        <language-id>JavaScript</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>template[i]</expression-string>
-        <language-id>JavaScript</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>err.message</expression-string>
-        <language-id>JavaScript</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>email.val().match(dotReg)</expression-string>
-        <language-id>HTML</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_03_charLookup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_11_unitTestingEX.test/_05_sharedObject.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_15_prototypeChainEX/_05_cSharpConsole/cSharpConsole.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="746">
@@ -1399,18 +1343,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p2/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p2/test.js" />
     <entry file="file://$PROJECT_DIR$/test/_16_examPreparation/sortedList.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1419,21 +1355,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/_16_examPreparation/string-builder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding>
+            <element signature="e#299#1586#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p2/string-builder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
+        <state relative-caret-position="146">
           <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/_16_examPreparation/string-builder.js">
+    <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p3/test.js" />
+    <entry file="file://$PROJECT_DIR$/_16_examPreparation/prep_05.Sept.2017/p3/repository.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-          <folding>
-            <element signature="e#299#1586#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="264">
+          <caret line="86" column="12" lean-forward="true" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
