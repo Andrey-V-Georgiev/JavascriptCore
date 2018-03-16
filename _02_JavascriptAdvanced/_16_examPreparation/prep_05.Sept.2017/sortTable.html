@@ -69,41 +69,34 @@
     </tr>
     </tbody>
 </table>
-
 <script>
     function sort(colIndex, descending) {
         let collectionElements = $('tbody > tr');
         switch (colIndex) {
-            case 0: // name
-                switch (descending) {
-                    case true: //descending
-                        collectionElements.sort((a, b) => {
-                            return $(b).children()[0].textContent.localeCompare($(a).children()[0].textContent);
-                        });
-                        break;
-                    case false: //ascending
-                        collectionElements.sort((a, b) => {
-                            return $(a).children()[0].textContent.localeCompare($(b).children()[0].textContent);
-                        });
-                        break;
+            case 0: //by name
+                if (descending) {
+                    collectionElements.sort((a, b) => {
+                        return $(b).children()[0].textContent.localeCompare($(a).children()[0].textContent);
+                    });
+                } else {
+                    collectionElements.sort((a, b) => {
+                        return $(a).children()[0].textContent.localeCompare($(b).children()[0].textContent);
+                    });
                 }
                 break;
-            case 1: //price
-                switch (descending) {
-                    case true: //descending
-                        collectionElements.sort((a, b) =>
-                            Number($(b).children()[1].textContent) - Number($(a).children()[1].textContent));
-                        break;
-                    case false: //ascending
-                        collectionElements.sort((a, b) =>
-                            Number($(a).children()[1].textContent) - Number($(b).children()[1].textContent)
-                        );
-                        break;
+            case 1: //by price
+                if (descending) {//descending
+                    collectionElements.sort((a, b) => {
+                        return Number($(b).children()[1].textContent) - Number($(a).children()[1].textContent);
+                    });
+                } else { //ascending
+                    collectionElements.sort((a, b) => {
+                        return Number($(a).children()[1].textContent) - Number($(b).children()[1].textContent);
+                    });
                 }
         }
         $('tbody').append(collectionElements);
     }
 </script>
-
 </body>
 </html>
