@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7030c0f-4191-4fd2-8598-f519eafa9db6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_02_RestAndHttpEX/_01_busStop/buses.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_02_RestAndHttpEX/_02_busSchedule/schedule.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,21 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="buses.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_01_busStop/buses.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,6 +45,7 @@
         <option value="$PROJECT_DIR$/_01_ajax&amp;jQueryLab/_04_phonebook/phonebook.html" />
         <option value="$PROJECT_DIR$/_01_ajax&amp;jQueryLab/_04_phonebook/phonebook.js" />
         <option value="$PROJECT_DIR$/_02_RestAndHttpEX/_01_busStop/buses.html" />
+        <option value="$PROJECT_DIR$/_02_RestAndHttpEX/_02_busSchedule/schedule.html" />
       </list>
     </option>
   </component>
@@ -121,12 +108,18 @@
               <item name="_02_RestAndHttpEX" type="462c0819:PsiDirectoryNode" />
               <item name="_01_busStop" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="_03_JavascriptApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_03_JavascriptApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_RestAndHttpEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_busSchedule" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,7 +159,9 @@
       <workItem from="1521628272962" duration="1024000" />
       <workItem from="1521654454334" duration="18248000" />
       <workItem from="1521731052965" duration="498000" />
-      <workItem from="1521733825792" duration="5698000" />
+      <workItem from="1521733825792" duration="5750000" />
+      <workItem from="1521740724068" duration="98000" />
+      <workItem from="1521749216529" duration="4382000" />
     </task>
     <task id="LOCAL-00001" summary="Added p1 XRK // AJAX and jQuery LAb">
       <created>1521628688455</created>
@@ -196,17 +191,23 @@
       <option name="project" value="LOCAL" />
       <updated>1521674456925</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added p1 // REST and Http EX">
+      <created>1521740465909</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521740465910</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25468000" />
+    <option name="totallyTimeSpent" value="30000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16728625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1724907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
@@ -237,21 +238,33 @@
     <MESSAGE value="Added p1 XRK v2// AJAX and jQuery LAb" />
     <MESSAGE value="Added p2, p3 // AJAX and jQuery LAb" />
     <MESSAGE value="Added p4 // AJAX and jQuery LAb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added p4 // AJAX and jQuery LAb" />
+    <MESSAGE value="Added p1 // REST and Http EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added p1 // REST and Http EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_02_busSchedule/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_01_busStop/buses.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_01_busStop/buses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -305,7 +318,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -313,18 +325,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_01_busStop/buses.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_02_busSchedule/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
