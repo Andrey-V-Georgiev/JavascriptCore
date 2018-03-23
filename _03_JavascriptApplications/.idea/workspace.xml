@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7030c0f-4191-4fd2-8598-f519eafa9db6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_02_RestAndHttpEX/_03_messenger/messenger.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_02_RestAndHttpEX/_03_messenger/messenger.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_02_RestAndHttpEX/_04_phonebook/phonebook.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_02_RestAndHttpEX/_04_phonebook/phonebook.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,23 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="messenger.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_03_messenger/messenger.html">
+      <file leaf-file-name="phonebook.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_04_phonebook/phonebook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="18" column="64" lean-forward="false" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="64" />
-              <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="messenger.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_03_messenger/messenger.js">
+      <file leaf-file-name="phonebook.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_04_phonebook/phonebook.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="357">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -72,6 +70,8 @@
         <option value="$PROJECT_DIR$/_02_RestAndHttpEX/_02_busSchedule/schedule.html" />
         <option value="$PROJECT_DIR$/_02_RestAndHttpEX/_03_messenger/messenger.html" />
         <option value="$PROJECT_DIR$/_02_RestAndHttpEX/_03_messenger/messenger.js" />
+        <option value="$PROJECT_DIR$/_02_RestAndHttpEX/_04_phonebook/phonebook.html" />
+        <option value="$PROJECT_DIR$/_02_RestAndHttpEX/_04_phonebook/phonebook.js" />
       </list>
     </option>
   </component>
@@ -88,9 +88,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="309" />
-    <option name="width" value="1064" />
-    <option name="height" value="735" />
+    <option name="x" value="334" />
+    <option name="width" value="1032" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -137,7 +137,7 @@
               <item name="_03_JavascriptApplications" type="b2602c69:ProjectViewProjectNode" />
               <item name="_03_JavascriptApplications" type="462c0819:PsiDirectoryNode" />
               <item name="_02_RestAndHttpEX" type="462c0819:PsiDirectoryNode" />
-              <item name="_03_messenger" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_phonebook" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +194,7 @@
       <workItem from="1521731052965" duration="498000" />
       <workItem from="1521733825792" duration="5750000" />
       <workItem from="1521740724068" duration="98000" />
-      <workItem from="1521749216529" duration="10380000" />
+      <workItem from="1521749216529" duration="21308000" />
     </task>
     <task id="LOCAL-00001" summary="Added p1 XRK // AJAX and jQuery LAb">
       <created>1521628688455</created>
@@ -238,22 +238,29 @@
       <option name="project" value="LOCAL" />
       <updated>1521753821307</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added p3 // REST and Http EX">
+      <created>1521761475411</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1521761475411</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35998000" />
+    <option name="totallyTimeSpent" value="46926000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="309" y="0" width="1064" height="735" extended-state="0" />
+    <frame x="334" y="0" width="1032" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16553067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09017059" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.056478404" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.057142857" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.027823241" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -281,7 +288,8 @@
     <MESSAGE value="Added p4 // AJAX and jQuery LAb" />
     <MESSAGE value="Added p1 // REST and Http EX" />
     <MESSAGE value="Added p2 // REST and Http EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added p2 // REST and Http EX" />
+    <MESSAGE value="Added p3 // REST and Http EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added p3 // REST and Http EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -300,6 +308,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -307,6 +319,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -353,6 +369,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -361,16 +381,6 @@
         <state relative-caret-position="201">
           <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_03_messenger/messenger.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="18" column="64" lean-forward="false" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="64" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -390,18 +400,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_03_messenger/messenger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_03_messenger/messenger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="18" column="64" lean-forward="false" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_01_ajax&amp;jQueryLab/_04_phonebook/phonebook.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="329">
           <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_03_messenger/messenger.js">
+    <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_04_phonebook/phonebook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="273">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_RestAndHttpEX/_04_phonebook/phonebook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding />
         </state>
       </provider>
