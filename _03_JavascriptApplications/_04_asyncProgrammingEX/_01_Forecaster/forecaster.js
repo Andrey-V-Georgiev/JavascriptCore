@@ -1,4 +1,4 @@
-function attachEvents() {
+$(document).ready(function attachEvents() {  //submit in judge without $(document).ready(....)
     $('#submit').click(getLocationData);
     const LOCATION_INPUT_EL = $('#location');
     const FORECAST_DIV = $('#forecast');
@@ -82,4 +82,4 @@ function attachEvents() {
                 return '&#x2614;';
         }
     }
-}
+});

@@ -1,5 +1,4 @@
-function attachEvents() {
-
+$(document).ready(function () {
     const URL = 'https://baas.kinvey.com/appdata/kid_rkNEwpMqz';
     const LOAD_BTN = $('#btnLoadPosts');
     const VIEW_BTN = $('#btnViewPost');
@@ -63,4 +62,4 @@ function attachEvents() {
     function showError(err) {
         POST_TITLE_EL.text('ERROR');
     }
-}
+});
