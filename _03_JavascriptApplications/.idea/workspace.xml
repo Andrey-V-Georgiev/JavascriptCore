@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7030c0f-4191-4fd2-8598-f519eafa9db6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/template.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/catSeeder.js" afterPath="$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/catSeeder.js" />
-      <change beforePath="$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/cats.html" afterPath="$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/cats.html" />
-      <change beforePath="$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/template.js" afterPath="$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/catsLogic.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,48 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="cats.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/cats.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="catSeeder.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/catSeeder.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="79" lean-forward="false" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="catsLogic.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/catsLogic.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/template.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -207,6 +162,12 @@
               <item name="_03_JavascriptApplications" type="462c0819:PsiDirectoryNode" />
               <item name="_08_TemplatingEX" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="_03_JavascriptApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_03_JavascriptApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="_08_TemplatingEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_StatusCats" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -313,7 +274,7 @@
       <workItem from="1522631740620" duration="1509000" />
       <workItem from="1522634278174" duration="5151000" />
       <workItem from="1522640455566" duration="14061000" />
-      <workItem from="1522727422140" duration="24990000" />
+      <workItem from="1522727422140" duration="25614000" />
     </task>
     <task id="LOCAL-00001" summary="Added p1 XRK // AJAX and jQuery LAb">
       <created>1521628688455</created>
@@ -427,11 +388,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522736814512</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added P2 // Templating EX">
+      <created>1522757490564</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1522757490564</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="318486000" />
+    <option name="totallyTimeSpent" value="319110000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -444,9 +412,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24773414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24773414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.032733224" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
@@ -489,7 +456,8 @@
     <MESSAGE value="Added P1 + 2 // Single Page App Ex" />
     <MESSAGE value="Added P1 // Templating LAB" />
     <MESSAGE value="Added P1 // Templating EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P1 // Templating EX" />
+    <MESSAGE value="Added P2 // Templating EX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P2 // Templating EX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -784,8 +752,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/cats.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="278">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding />
         </state>
       </provider>
