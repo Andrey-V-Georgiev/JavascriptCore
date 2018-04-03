@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7030c0f-4191-4fd2-8598-f519eafa9db6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_07_TemplatingLAB/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_07_TemplatingLAB/data.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_07_TemplatingLAB/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_07_TemplatingLAB/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/listTown.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/towns-template.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/towns.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/catSeeder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/cats.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/template.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/_03_JavascriptApplications.iml" afterPath="$PROJECT_DIR$/.idea/_03_JavascriptApplications.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,42 +23,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/index.html">
+    <leaf>
+      <file leaf-file-name="listTown.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/listTown.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="483">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contacts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/templates/contacts.html">
+      <file leaf-file-name="towns.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/towns.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="details.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/templates/details.html">
+      <file leaf-file-name="towns-template.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/towns-template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+            <state relative-caret-position="63">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,8 +60,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -97,11 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_04_asyncProgrammingEX/_01_Forecaster/forecaster.html" />
-        <option value="$PROJECT_DIR$/_04_asyncProgrammingEX/_01_Forecaster/forecaster.js" />
-        <option value="$PROJECT_DIR$/_04_asyncProgrammingEX/_02_FisherGame/bullshit.js" />
-        <option value="$PROJECT_DIR$/_04_asyncProgrammingEX/_02_FisherGame/fisherGame.js" />
-        <option value="$PROJECT_DIR$/_04_asyncProgrammingEX/_03_Books/books.js" />
         <option value="$PROJECT_DIR$/_04_asyncProgrammingEX/_03_Books/fragments.html" />
         <option value="$PROJECT_DIR$/_04_asyncProgrammingEX/_03_Books/books.html" />
         <option value="$PROJECT_DIR$/_04_asyncProgrammingEX/_03_Books/books.css" />
@@ -148,6 +137,11 @@
         <option value="$PROJECT_DIR$/_07_TemplatingLAB/app.js" />
         <option value="$PROJECT_DIR$/_07_TemplatingLAB/templates/contacts.html" />
         <option value="$PROJECT_DIR$/_07_TemplatingLAB/index.html" />
+        <option value="$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/listtown.html" />
+        <option value="$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/listTownsLogic.js" />
+        <option value="$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/towns.js" />
+        <option value="$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/listTown.html" />
+        <option value="$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/towns-template.html" />
       </list>
     </option>
   </component>
@@ -167,8 +161,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
+    <option name="x" value="96" />
+    <option name="y" value="4" />
+    <option name="width" value="1092" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -189,8 +184,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,18 +200,25 @@
               <item name="_03_JavascriptApplications" type="b2602c69:ProjectViewProjectNode" />
               <item name="_03_JavascriptApplications" type="462c0819:PsiDirectoryNode" />
               <item name="_07_TemplatingLAB" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_03_JavascriptApplications" type="b2602c69:ProjectViewProjectNode" />
               <item name="_03_JavascriptApplications" type="462c0819:PsiDirectoryNode" />
-              <item name="_07_TemplatingLAB" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="_08_TemplatingEX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_03_JavascriptApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_03_JavascriptApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="_08_TemplatingEX" type="462c0819:PsiDirectoryNode" />
+              <item name="_01_ListTowns" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,15 +232,15 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_03_JavascriptApplications\_06_SinglePageAppEX\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_03_JavascriptApplications\_08_TemplatingEX\_02_StatusCats" />
+      <recent name="C:\Projects\JavascriptCore\_03_JavascriptApplications\_08_TemplatingEX" />
       <recent name="C:\Projects\JavascriptCore\_03_JavascriptApplications\_07_TemplatingLAB" />
       <recent name="C:\Projects\JavascriptCore\_03_JavascriptApplications\_07_TemplatingLAB\templates" />
       <recent name="C:\Projects\JavascriptCore\_03_JavascriptApplications\_07_TemplatingLAB\scripts" />
-      <recent name="C:\Projects\JavascriptCore\_03_JavascriptApplications\_07_TemplatingLAB\views" />
-      <recent name="C:\Projects\JavascriptCore\_03_JavascriptApplications\_06_SinglePageAppEX\images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Projects\JavascriptCore\_03_JavascriptApplications\_06_SinglePageAppEX\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -318,7 +318,8 @@
       <workItem from="1522592675113" duration="1489000" />
       <workItem from="1522631740620" duration="1509000" />
       <workItem from="1522634278174" duration="5151000" />
-      <workItem from="1522640455566" duration="13480000" />
+      <workItem from="1522640455566" duration="14061000" />
+      <workItem from="1522727422140" duration="9100000" />
     </task>
     <task id="LOCAL-00001" summary="Added p1 XRK // AJAX and jQuery LAb">
       <created>1521628688455</created>
@@ -418,11 +419,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522536933476</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added P1 // Templating LAB">
+      <created>1522655660375</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1522655660375</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="292915000" />
+    <option name="totallyTimeSpent" value="302596000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -437,16 +445,16 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2591508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19985358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.007886435" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.055646483" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.055646483" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5090016" sideWeight="0.4941435" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5090016" sideWeight="0.4941435" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -478,57 +486,14 @@
     <MESSAGE value="Added P2 // Async EX" />
     <MESSAGE value="Added P1 // Single Page App Lab" />
     <MESSAGE value="Added P1 + 2 // Single Page App Ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added P1 + 2 // Single Page App Ex" />
+    <MESSAGE value="Added P1 // Templating LAB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added P1 // Templating LAB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_04_asyncProgrammingEX/_02_FisherGame/fisherGame.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-147">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_asyncProgrammingLab/_02_Blog/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_03_asyncProgrammingLab/_01_GithubCommits/commits.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_04_asyncProgrammingEX/_03_Books/books.js" />
-    <entry file="file://$PROJECT_DIR$/_04_asyncProgrammingEX/_03_Books/books.html" />
-    <entry file="file://$PROJECT_DIR$/_04_asyncProgrammingEX/_03_Books/books.css" />
-    <entry file="file://$PROJECT_DIR$/_05_SinglePageAppEXAMPLE/scripts/jquery-3.1.1.min.js" />
-    <entry file="file://$PROJECT_DIR$/_05_SinglePageAppEXAMPLE/styles/pagination.css" />
-    <entry file="file://$PROJECT_DIR$/_05_SinglePageAppEXAMPLE/styles/book-library.css" />
-    <entry file="file://$PROJECT_DIR$/_04_asyncProgrammingEX/_01_Forecaster/forecaster.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="59" column="14" lean-forward="false" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_05_SinglePageAppEXAMPLE/book-library.html" />
-    <entry file="file://$PROJECT_DIR$/_05_SinglePageAppEXAMPLE/scripts/app.js" />
-    <entry file="file://$PROJECT_DIR$/_05_SinglePageAppEXAMPLE/scripts/displayElements.js" />
     <entry file="file://$PROJECT_DIR$/_05_SinglePageAppEXAMPLE/scripts/attachEvents.js" />
     <entry file="file://$PROJECT_DIR$/_05_SinglePageAppEXAMPLE/scripts/crudOperations.js" />
     <entry file="file://$PROJECT_DIR$/_05_SinglePageAppLAB/styles/pagination.css">
@@ -656,27 +621,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/templates/contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/templates/details.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,22 +632,116 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-448">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/app.js">
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat100.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat200.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat204.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat301.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat304.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat400.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat404.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat406.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat410.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat500.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_02_StatusCats/images/cat511.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        <state relative-caret-position="336">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="78">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_07_TemplatingLAB/templates/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/listTown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/towns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_08_TemplatingEX/_01_ListTowns/towns-template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
