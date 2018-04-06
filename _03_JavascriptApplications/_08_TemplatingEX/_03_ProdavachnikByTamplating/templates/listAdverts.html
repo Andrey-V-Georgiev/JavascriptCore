@@ -1,0 +1,30 @@
+
+<section id="viewAds" class="viewAds">
+    <h1 class="titleForm">Advertisements</h1>
+    <div id="ads" class="ads">
+        <table>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Publisher</th>
+                <th>Date Published</th>
+                <th>Price</th>
+                <th>Actions</th>
+            </tr>
+            {{#each adverts}}
+            <tr>
+                <td>{{title}}</td>
+                <td>{{description}}</td>
+                <td>{{publisher}}</td>
+                <td>{{date}}</td>
+                <td>{{price}}</td>
+                <td id="{{_id}}">
+                    <a href="#" class="more-info">[Read more]</a>
+                    <a href="#" class="delete-advert">[Delete]</a>
+                    <a href="#" class="edit-advert">[Edit]</a>
+                </td>
+            </tr>
+            {{/each}}
+        </table>
+    </div>
+</section>

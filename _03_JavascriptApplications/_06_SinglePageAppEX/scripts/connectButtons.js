@@ -9,6 +9,6 @@ function connectButtons() {
     $('#buttonLoginUser').click(clickLogin);
     $('#buttonRegisterUser').click(clickRegister);
     $('#buttonCreateAd').click(clickCreateAdvert);
-
+    //First
 }
 
