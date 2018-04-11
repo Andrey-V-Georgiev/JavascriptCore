@@ -3,7 +3,7 @@ $(() => {
         this.use('Handlebars', 'hbs');
 
         //INDEX.HTML LOGIC
-        this.get('#/index.html', (context) => render.homepageComponent(context));
+        this.get('index.html', (context) => render.homepageComponent(context));
 
         //HOME LOGIC
         this.get('#/home', (context) => render.homepageComponent(context));
