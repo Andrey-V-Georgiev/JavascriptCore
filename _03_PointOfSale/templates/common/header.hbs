@@ -1,0 +1,21 @@
+<header class="clearfix" id="profile">
+    {{#if isLogged}}
+        <div id="cashier">
+            <span>Cashier: </span>
+            <a href="#">{{cashier}}</a>
+        </div>
+        <nav id="nav">
+            <ul>
+                <li>
+                    <a href="#/overview">Overview</a>
+                </li>
+                <li>
+                    <a href="#/editor">Editor</a>
+                </li>
+                <li>
+                    <a href="#/logout" class="logout">Logout</a>
+                </li>
+            </ul>
+        </nav>
+    {{/if}}
+</header>
