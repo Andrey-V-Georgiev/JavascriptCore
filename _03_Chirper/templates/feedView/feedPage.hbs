@@ -1,0 +1,32 @@
+{{> header}}
+{{> menu}}
+<section id="viewFeed">
+    <div class="content">
+        <div class="chirper">
+
+            <h2 class="titlebar">{{username}}</h2>
+
+            <form id="formSubmitChirp" class="chirp-form" action="#/createChirp" metho="push">
+                <textarea name="text" class="chirp-input"></textarea>
+                <input class="chirp-submit" id="btnSubmitChirp" value="Chirp" type="submit">
+            </form>
+
+            <div id="userStats" class="user-details">
+                <span>{{chirps}} chirps</span> | <span>{{following}} following</span> | <span>{{followers}} followers</span>
+            </div>
+        </div>
+        <div id="chirps" class="chirps"><h2 class="titlebar">Chirps</h2>
+
+
+            {{#if noChirps}}
+                <div class="chirp"><span class="loading">No chirps in database</span></div>
+            {{else}}
+                {{#each allChirps}}
+                    {{> chirp}}
+                {{/each}}
+            {{/if}}
+
+        </div>
+    </div>
+</section>
+{{> footer}}

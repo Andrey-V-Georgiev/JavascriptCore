@@ -1,0 +1,33 @@
+{{> header}}
+{{> menu}}
+<section id="viewProfile">
+    <div class="content">
+        <div class="chirper">
+
+            <h2 class="titlebar">{{author}}</h2>
+
+            {{#if isFollowed}}
+                <a id="btnFollow" class="chirp-author" href="#/unfollow/:{{author}}">Unfollow</a>
+            {{else}}
+                <a id="btnFollow" class="chirp-author" href="#/follow/:{{author}}">Follow</a>
+            {{/if}}
+
+            <div id="userProfileStats" class="user-details">
+                <span>{{chirps}} chirps</span> | <span>{{following}} following</span> | <span>{{followers}}
+                followers</span>
+            </div>
+        </div>
+        <div id="profileChirps" class="chirps"><h2 class="titlebar">Chirps</h2>
+
+            {{#if noChirps}}
+                <div class="chirp"><span class="loading">No chirps in database</span></div>
+            {{else}}
+                {{#each allChirps}}
+                    {{> chirp}}
+                {{/each}}
+            {{/if}}
+
+        </div>
+    </div>
+</section>
+{{> footer}}
