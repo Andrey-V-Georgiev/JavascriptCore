@@ -1,3 +1,4 @@
+
 #menu {
     background: #DDD;
     text-align: center;
@@ -23,6 +24,7 @@
 }
 
 #infoBox, #errorBox, #loadingBox {
+    display: none;
     width: 80%;
     margin: 10px auto;
     color: white;
@@ -44,7 +46,7 @@
 }
 
 main > section {
-    padding: 20px 5px;
+    padding: 0 5px;
 }
 
 section h1 {
