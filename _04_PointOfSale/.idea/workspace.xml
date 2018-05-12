@@ -2,8 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="897638b2-1cab-47e3-8d53-6029702725dc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../_04_Airport/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../_04_Airport/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/controllers/basic/login.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/controllers/basic/register.js" />
+      <change beforePath="$PROJECT_DIR$/../_04_Airport/scripts/services/notify.js" afterPath="$PROJECT_DIR$/../_04_Airport/scripts/services/notify.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/controllers/app.js" afterPath="$PROJECT_DIR$/scripts/app.js" />
+      <change beforePath="$PROJECT_DIR$/controllers/basic/login.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/controllers/basic/logout.js" afterPath="$PROJECT_DIR$/scripts/controllers/basic/logout.js" />
+      <change beforePath="$PROJECT_DIR$/controllers/basic/register.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/controllers/basic/welcomePage.js" afterPath="$PROJECT_DIR$/scripts/controllers/basic/welcomePage.js" />
+      <change beforePath="$PROJECT_DIR$/controllers/functional/addEntry.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/addEntry.js" />
+      <change beforePath="$PROJECT_DIR$/controllers/functional/checkout.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/checkout.js" />
+      <change beforePath="$PROJECT_DIR$/controllers/functional/deleteEntry.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/deleteEntry.js" />
+      <change beforePath="$PROJECT_DIR$/controllers/functional/details.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/details.js" />
+      <change beforePath="$PROJECT_DIR$/controllers/functional/editor.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/editor.js" />
+      <change beforePath="$PROJECT_DIR$/controllers/functional/overview.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/overview.js" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/services/basic/notif.js" afterPath="$PROJECT_DIR$/scripts/services/notify.js" />
+      <change beforePath="$PROJECT_DIR$/services/basic/reqObjMaker.js" afterPath="$PROJECT_DIR$/scripts/services/reqObjMaker.js" />
+      <change beforePath="$PROJECT_DIR$/services/basic/support.js" afterPath="$PROJECT_DIR$/scripts/services/support.js" />
+      <change beforePath="$PROJECT_DIR$/services/basic/urlMaker.js" afterPath="$PROJECT_DIR$/scripts/services/urlMaker.js" />
+      <change beforePath="$PROJECT_DIR$/services/functional/checkForActiveReceipt.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/checkForActiveReceipt.js" />
+      <change beforePath="$PROJECT_DIR$/services/functional/createNewReceipt.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/createNewReceipt.js" />
+      <change beforePath="$PROJECT_DIR$/services/functional/getActiveReceipt.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/getActiveReceipt.js" />
+      <change beforePath="$PROJECT_DIR$/services/functional/getEntriesByReceiptID.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/getEntriesByReceiptID.js" />
+      <change beforePath="$PROJECT_DIR$/services/functional/getMyReceipts.js" afterPath="$PROJECT_DIR$/scripts/controllers/functional/getMyReceipts.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +43,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="267">
+              <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deleteEntry.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/deleteEntry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -43,22 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/controlers/basic/welcomePage.js" />
-        <option value="$PROJECT_DIR$/services/helper.js" />
-        <option value="$PROJECT_DIR$/controllers/basic/registration.js" />
-        <option value="$PROJECT_DIR$/test.js" />
-        <option value="$PROJECT_DIR$/templates/createReceiptView/entryCreatePage.hbs" />
-        <option value="$PROJECT_DIR$/services/reqObjMaker.js" />
-        <option value="$PROJECT_DIR$/controllers/receipts/getActiveReceipt.js" />
-        <option value="$PROJECT_DIR$/templates/common/header.hbs" />
-        <option value="$PROJECT_DIR$/controllers/receipts/createReceipt.js" />
-        <option value="$PROJECT_DIR$/services/notif.js" />
-        <option value="$PROJECT_DIR$/controllers/receipts/submitReceipt.js" />
-        <option value="$PROJECT_DIR$/services/support.js" />
-        <option value="$PROJECT_DIR$/services/createNewReceipt.js" />
-        <option value="$PROJECT_DIR$/services/getActiveReceipt.js" />
-        <option value="$PROJECT_DIR$/services/getActiveReceiptID.js" />
-        <option value="$PROJECT_DIR$/controllers/entries/addEntry.js" />
         <option value="$PROJECT_DIR$/services/checkForActiveReceipt.js" />
         <option value="$PROJECT_DIR$/templates/createReceiptView/createReceiptPage.hbs" />
         <option value="$PROJECT_DIR$/controllers/basic/logout.js" />
@@ -81,19 +108,35 @@
         <option value="$PROJECT_DIR$/templates/editor/editorPage.hbs" />
         <option value="$PROJECT_DIR$/controllers/receipts/details.js" />
         <option value="$PROJECT_DIR$/templates/details/detailsPage.hbs" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/controllers/basic/login.js" />
         <option value="$PROJECT_DIR$/controllers/functional/addEntry.js" />
         <option value="$PROJECT_DIR$/controllers/functional/editor.js" />
         <option value="$PROJECT_DIR$/services/basic/support.js" />
         <option value="$PROJECT_DIR$/services/functional/checkForActiveReceipt.js" />
         <option value="$PROJECT_DIR$/controllers/app.js" />
         <option value="$PROJECT_DIR$/services/functional/createNewReceipt.js" />
-        <option value="$PROJECT_DIR$/controllers/basic/register.js" />
         <option value="$PROJECT_DIR$/controllers/functional/details.js" />
         <option value="$PROJECT_DIR$/controllers/functional/overview.js" />
         <option value="$PROJECT_DIR$/controllers/functional/checkout.js" />
+        <option value="$PROJECT_DIR$/controllers/basic/register.js" />
+        <option value="$PROJECT_DIR$/controllers/basic/login.js" />
         <option value="$PROJECT_DIR$/services/basic/notif.js" />
+        <option value="$PROJECT_DIR$/services/basic/notify.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scripts/controllers/basic/login.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/basic/register.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/addEntry.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/checkout.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/createNewReceipt.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/checkForActiveReceipt.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/details.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/basic/logout.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/basic/welcomePage.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/editor.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/getActiveReceipt.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/getEntriesByReceiptID.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/getMyReceipts.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/overview.js" />
+        <option value="$PROJECT_DIR$/scripts/controllers/functional/deleteEntry.js" />
       </list>
     </option>
   </component>
@@ -112,7 +155,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-4" />
     <option name="width" value="1199" />
     <option name="height" value="735" />
@@ -157,6 +200,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,14 +212,49 @@
             <path>
               <item name="_04_PointOfSale" type="b2602c69:ProjectViewProjectNode" />
               <item name="_04_PointOfSale" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_04_PointOfSale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_04_PointOfSale" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_04_PointOfSale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_04_PointOfSale" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_04_PointOfSale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_04_PointOfSale" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_04_PointOfSale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_04_PointOfSale" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_04_PointOfSale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_04_PointOfSale" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_04_PointOfSale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_04_PointOfSale" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="welcomePageView" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,11 +267,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\JavascriptCore\_04_PointOfSale\scripts" />
+      <recent name="C:\Projects\JavascriptCore\_04_PointOfSale\scripts\services" />
+      <recent name="C:\Projects\JavascriptCore\_04_PointOfSale\scripts\controllers\functional" />
       <recent name="C:\Projects\JavascriptCore\_03_PointOfSale\services\functional" />
       <recent name="C:\Projects\JavascriptCore\_03_PointOfSale\services\basic" />
-      <recent name="C:\Projects\JavascriptCore\_03_PointOfSale\controllers\functional" />
-      <recent name="C:\Projects\JavascriptCore\_03_PointOfSale\templates\overview" />
-      <recent name="C:\Projects\JavascriptCore\_03_PointOfSale" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -207,7 +287,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.test.js (1)">
-    <configuration name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/controllers" />
+    <configuration name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/scripts/controllers" />
     <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$" />
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
@@ -251,6 +331,10 @@
       <workItem from="1524732297016" duration="42000" />
       <workItem from="1525944525813" duration="231000" />
       <workItem from="1526099893528" duration="78000" />
+      <workItem from="1526100335225" duration="71000" />
+      <workItem from="1526100413671" duration="104000" />
+      <workItem from="1526100932529" duration="643000" />
+      <workItem from="1526101610483" duration="2568000" />
     </task>
     <task id="LOCAL-00001" summary="Point of sale v1.0">
       <created>1524268319517</created>
@@ -263,22 +347,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83549000" />
+    <option name="totallyTimeSpent" value="86935000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1199" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20395869" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" x="186" y="70" width="322" height="602" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20817845" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" x="186" y="70" width="322" height="602" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38801262" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24926686" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4984227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5090016" sideWeight="0.4941435" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -304,29 +388,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/controllers/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/basic/support.js">
+    <entry file="file://$PROJECT_DIR$/scripts/services/support.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/basic/reqObjMaker.js">
+    <entry file="file://$PROJECT_DIR$/scripts/services/reqObjMaker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="30" selection-end-column="0" />
@@ -341,21 +410,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/basic/support.js">
+    <entry file="file://$PROJECT_DIR$/scripts/services/support.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/basic/notif.js">
+    <entry file="file://$PROJECT_DIR$/scripts/services/notify.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/app.js">
+    <entry file="file://$PROJECT_DIR$/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -400,7 +469,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.js" />
-    <entry file="file://$PROJECT_DIR$/controllers/functional/checkout.js">
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/checkout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -429,13 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/welcomePageView/welcomePage.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="84" lean-forward="false" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
         </state>
       </provider>
     </entry>
@@ -481,150 +543,191 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/basic/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/basic/logout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/basic/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/basic/welcomePage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/functional/addEntry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/functional/checkout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/functional/deleteEntry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/functional/details.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/functional/editor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/functional/overview.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/basic/notif.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/basic/reqObjMaker.js">
+    <entry file="file://$PROJECT_DIR$/scripts/services/reqObjMaker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/basic/support.js">
+    <entry file="file://$PROJECT_DIR$/scripts/services/support.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/basic/urlMaker.js">
+    <entry file="file://$PROJECT_DIR$/scripts/services/urlMaker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
           <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/functional/checkForActiveReceipt.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="3466" column="10" lean-forward="false" selection-start-line="3466" selection-start-column="10" selection-end-line="3466" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/src/deferred.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="56" column="10" lean-forward="false" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/services/notify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/welcomePageView/welcomePage.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="37" column="60" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/checkout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/checkForActiveReceipt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/addEntry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/createNewReceipt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/basic/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/basic/logout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/basic/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/basic/welcomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/details.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/editor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/functional/createNewReceipt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/functional/getActiveReceipt.js">
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/getActiveReceipt.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/functional/getEntriesByReceiptID.js">
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/getEntriesByReceiptID.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="294">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/functional/getMyReceipts.js">
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/getMyReceipts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="252">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/app.js">
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/overview.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="3" />
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/functional/deleteEntry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="267">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding />
         </state>
       </provider>

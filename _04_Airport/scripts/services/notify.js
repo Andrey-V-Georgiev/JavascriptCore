@@ -1,4 +1,3 @@
-
 let notify = (() => {
 
     $(document).on({
