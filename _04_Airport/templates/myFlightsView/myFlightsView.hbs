@@ -1,0 +1,14 @@
+{{> notif}}
+{{> nav}}
+
+<section id="viewMyFlights">
+    <h3>Your Flights</h3>
+
+    {{#each myFlights}}
+        {{> myFlight}}
+    {{/each}}
+
+
+</section>
+
+{{> footer}}

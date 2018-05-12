@@ -1,0 +1,12 @@
+{{> notif}}
+{{> nav}}
+<section id="viewCatalog" class="background-img">
+    <a href="#/addFlight" class="add-flight">Add Flight +</a>
+
+    <div class="added-flights">
+        {{#each publishedFlights}}
+            {{> publishedFlight}}
+        {{/each}}
+    </div>
+</section>
+{{> footer}}

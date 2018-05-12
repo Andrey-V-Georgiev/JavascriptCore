@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="897638b2-1cab-47e3-8d53-6029702725dc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../_04_Chirper/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../_04_Chirper/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../_04_Market/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../_04_Market/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../_04_Airport/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../_04_Airport/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
-              <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="21">
+              <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,12 +173,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -250,6 +250,7 @@
       <workItem from="1524684466649" duration="14000" />
       <workItem from="1524732297016" duration="42000" />
       <workItem from="1525944525813" duration="231000" />
+      <workItem from="1526099893528" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="Point of sale v1.0">
       <created>1524268319517</created>
@@ -262,7 +263,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83471000" />
+    <option name="totallyTimeSpent" value="83549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1199" height="735" extended-state="0" />
@@ -622,8 +623,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="21">
+          <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>

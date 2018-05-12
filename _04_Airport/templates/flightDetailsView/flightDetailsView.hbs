@@ -1,0 +1,22 @@
+{{> notif}}
+{{> nav}}
+
+<section id="viewFlightDetails">
+    <div class="ticket-area">
+        <div class="ticket-area-left">
+            <img src="{{flightDetails.image}}" alt="">
+        </div>
+        <div class="ticket-area-right">
+            <h3>{{flightDetails.destination}}</h3>
+            <div>from {{flightDetails.origin}}</div>
+            <div class="data-and-time">
+                {{flightDetails.departure}} {{flightDetails.departureTime}}
+                <a href="#/edit/:{{flightDetails._id}}" class="edit-flight-detail"></a>
+            </div>
+            <div>
+                {{flightDetails.seats}} Seats ({{flightDetails.cost}} per seat)
+            </div>
+        </div>
+    </div>
+</section>
+{{> footer}}
